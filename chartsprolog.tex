@@ -1,0 +1,129 @@
+%!TEX root = main.tex
+
+\usepackage{tikz}
+
+\newcommand{\chartscale}{13}
+\newcommand{\starscale}{1}
+
+\definecolor{chartgreen} {rgb}{0.30,0.60,0.10}
+\definecolor{chartred}   {rgb}{1.00,0.00,0.00}
+\definecolor{chartyellow}{rgb}{1.00,0.90,0.00}
+\definecolor{chartblue}  {rgb}{0.70,0.70,1.00}
+
+\tikzset{frame/.style={
+  black,
+  thick
+}}
+\tikzset{radialscale/.style={
+  dashed,
+  fill=none,
+  chartblue
+}}
+\tikzset{compass/.style={
+  black
+}}
+
+\tikzset{star/.style={
+  black,
+  fill=black
+}}
+\tikzset{OC/.style={
+  black,
+  fill=chartyellow,
+  dotted,
+  thick
+}}
+\tikzset{GC/.style={
+  black,
+  fill=chartyellow,
+  thick
+}}
+\tikzset{PN/.style={
+  black,
+  fill=chartgreen,
+  thick
+}}
+\tikzset{BN/.style={
+  black,
+  fill=chartgreen,
+  thick
+}}
+\tikzset{DN/.style={
+  black,
+  fill=none,
+  thick,
+  dashed
+}}
+\tikzset{SC/.style={
+  black,
+  fill=none,
+  thick,
+  dotted
+}}
+\tikzset{OT/.style={
+  black,
+  fill=none,
+  thick
+}}
+\tikzset{GL/.style={
+  black,
+  fill=chartred,
+  thick
+}}
+
+\newcommand{\drawframe}[2]{
+  \draw [frame] (0,+#2) node [
+    font=\scriptsize, anchor=south
+  ] {#1};
+  \draw [frame] (-#2,-#2) -- (-#2,+#2) -- (+#2,+#2) -- (+#2,-#2) -- cycle;
+  \clip (-#2,-#2) -- (-#2,+#2) -- (+#2,+#2) -- (+#2,-#2) -- cycle;
+}
+\newcommand{\drawradialscale}[1]{
+  \filldraw [radialscale] (0,0) circle [radius=#1];
+}
+\newcommand{\drawcompass}[3]{
+  \draw[compass,->] (#1,#2) -- +(0.0,#3) node [anchor=south] {\tiny N};
+  \draw[compass,->] (#1,#2) -- +(-#3,0.0) node [anchor=east] {\tiny E};
+}
+\newcommand{\drawcompassflipped}[3]{
+  \draw[compass,->] (#1,#2) -- +(0.0,#3) node [anchor=south] {\tiny N};
+  \draw[compass,->] (#1,#2) -- +(#3,0.0) node [anchor=west] {\tiny E};
+}
+\newcommand{\drawstar}[3]{
+  \filldraw [star] (#1,#2) circle [radius=#3*\starscale];
+}
+\newcommand{\drawOC}[3]{
+  \filldraw [OC] (#1,#2) circle [radius=#3];
+}
+\newcommand{\drawGC}[3]{
+  \filldraw [GC] (#1,#2) circle [radius=#3];
+  \draw [GC] (#1,#2) --   +(0:#3);
+  \draw [GC] (#1,#2) --  +(90:#3);
+  \draw [GC] (#1,#2) -- +(180:#3);
+  \draw [GC] (#1,#2) -- +(270:#3);
+}
+\newcommand{\drawPN}[3]{
+  \filldraw [PN] (#1,#2) circle [radius=#3];
+  \draw [PN] (#1,#2) ++   (0:#3) --   +(0:#3);
+  \draw [PN] (#1,#2) ++  (90:#3) --  +(90:#3);
+  \draw [PN] (#1,#2) ++ (180:#3) -- +(180:#3);
+  \draw [PN] (#1,#2) ++ (270:#3) -- +(270:#3);
+}
+\newcommand{\drawBN}[3]{
+  \filldraw [BN] (#1,#2) circle [radius=#3];
+}
+\newcommand{\drawDN}[3]{
+  \filldraw [DN] (#1,#2) circle [radius=#3];
+}
+\newcommand{\drawSC}[5]{
+  \filldraw [SC] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
+}
+\newcommand{\drawGL}[5]{
+  \filldraw [GL] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
+}
+\newcommand{\drawOT}[3]{
+  \draw [OT] (#1,#2) --  +(45:#3);
+  \draw [OT] (#1,#2) -- +(135:#3);
+  \draw [OT] (#1,#2) -- +(225:#3);
+  \draw [OT] (#1,#2) -- +(315:#3);
+}

@@ -1,0 +1,75 @@
+%!TEX root = main.tex
+
+\documentclass[10pt]{book}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{mathptmx}
+
+\usepackage{geometry}
+\geometry{
+  includefoot,
+  paperwidth=5.5in, 
+  left=0.6in,
+  width=4.3in,
+  paperheight=8.5in,
+  top=0.6in,
+  height=7.3in  
+%  twoside=true
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{\medskipamount}
+
+\title{\Huge\bfseries Pocket\\ Finder-Chart\\ Atlas}
+\author{Alan Watson Forster}
+\date{7 February 2022}
+
+\input chartsprolog
+
+\newcommand{\chart}[1]{
+  \noindent
+  \begingroup
+  \centering
+  \input charts/#1
+  \par
+  \endgroup
+  \chartskip
+  
+}
+\newcommand{\chartskip}{\smallskip}
+
+\newcommand{\booktitle}[1]{{\itshape #1}}
+\newcommand{\PSA}{\booktitle{Pocket Sky Atlas}}
+
+\usetikzlibrary{external}
+\tikzexternalize[prefix=external/]
+
+\newcommand{\book}[1]{\emph{#1}}
+
+\includeonly{
+  frontmatter,
+  preface,
+  M,
+  C,
+  U,
+  bibliography
+}
+
+\begin{document}
+
+\frontmatter
+
+\include{frontmatter}
+
+\include{preface}
+
+\mainmatter
+
+\include{M}
+\include{C}
+\include{U}
+
+\include{bibliography}
+
+\end{document}
