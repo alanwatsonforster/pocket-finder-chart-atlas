@@ -1,5 +1,6 @@
 #!/bin/sh
 
+sort -t, -k "1,1" -k "2,2n" -k "3,3n" objects-raw.csv |
 awk -F, '
 NR == 1 {
   next;
@@ -56,4 +57,4 @@ $17 != "" {
 $18 != "" {
   name = $18;
 }
-' objects-raw.csv >objects.csv
+' >objects.csv
