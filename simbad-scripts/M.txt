@@ -1,4 +1,4 @@
-format object "%-4OBJECT, 0, CDS, %7.3COO(d;A;ICRS), %7.3COO(d;D;ICRS), %5.1DIM(X), %5.1DIM(Y), %4.0DIM(A), %OTYPE(S), %IDLIST(A;M), %IDLIST(A(/);NGC),%IDLIST(A(/),IC),%IDLIST(Cl Melotte); %IDLIST(Cl Collinder)"
+format object "%-4OBJECT, 0, SIMBAD, %7.3COO(d;A;ICRS), %7.3COO(d;D;ICRS), %5.1DIM(X), %5.1DIM(Y), %4.0DIM(A), %OTYPE(S), %IDLIST(A;M), %IDLIST(A(/);NGC),%IDLIST(A(/),IC),%IDLIST(Cl Melotte),%IDLIST(Cl Collinder)
 
 query id M1
 query id M2
