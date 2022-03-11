@@ -19,16 +19,7 @@ $10 != "" {
   cat_Cr  = $15;
   name    = $16;
   printf("C%-3d ", cat_C);
-  hh = int(alpha / 15);
-  mm = int((alpha / 15 - hh) * 60)
-  if (mm == 60) {
-    hh += 1;
-    mm = 0;
-  }
-  if (hh == 24) {
-    hh = 0;
-  }
-  printf("&$%02.0f$ $%02.0f$ $%+05.1f$", hh, mm, delta)
+  printf("&$%04.1f$ $%+03.0f$", alpha / 15, delta)
   printf("&%s", psa);
   printf("&%-3s", type);
   printf("&");
