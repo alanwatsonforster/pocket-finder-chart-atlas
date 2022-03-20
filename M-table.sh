@@ -18,6 +18,8 @@ $9 != "" {
   cat_Mel = $14;
   cat_Cr  = $15;
   name    = $16;
+  if (type == "GAL")
+    type = "Gal";
   printf("M%-3d ", cat_M);
   printf("&$%04.1f$ $%+03.0f$", alpha / 15, delta)
   printf("&%s", psa);

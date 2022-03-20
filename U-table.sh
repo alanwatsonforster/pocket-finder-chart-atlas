@@ -18,6 +18,8 @@ $11 != "" && $11 != "9/10" {
   cat_Mel = $14;
   cat_Cr  = $15;
   name    = $16;
+  if (type == "GAL")
+    type = "Gal";
   printf("U%-2d ", cat_U);
   printf("&$%04.1f$ $%+03.0f$", alpha / 15, delta)
   printf("&%s", psa);
