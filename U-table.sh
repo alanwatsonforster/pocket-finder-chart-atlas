@@ -46,7 +46,7 @@ $11 != "" && $11 != "9/10" {
     printf("%sMel %s", join, cat_Mel)
     join = " = ";
   }
-  if (cat_Cr != "") {
+  if (cat_Cr != "" && cat_Mel == "") {
     printf("%sCr %s", join, cat_Cr)
     join = " = ";
   }
