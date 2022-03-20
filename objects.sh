@@ -34,6 +34,9 @@ function printobject() {
   cat_Cr = "";
   name = "";
 }
+BEGIN {
+  print("# id, alpha, delta, psa, x, y, pa, type, cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name");
+}
 NR > 1 {
   if (id1 != $1 || id2 != $2) {
     printobject()

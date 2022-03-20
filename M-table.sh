@@ -2,7 +2,7 @@
 
 sort -t, -k "9,9n" objects.csv |
 awk -F, '
-$9 != "" {
+NR > 1 && $9 != "" {
   alpha = $2;
   delta = $3;
   psa = $4;
