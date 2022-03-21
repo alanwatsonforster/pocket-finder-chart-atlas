@@ -6,7 +6,7 @@ The charts have a field of 4 degrees at a scale of 13 mm/deg, showistars to magn
 
 If you're just interested in downloading the atlas, you will want one of these files:
 
-- [inverted-image version](main.pdf)
+- [inverted-image version](https://github.com/alanwatsonforster/pocket-finder-chart-atlas/raw/main/main.pdf)
 - correct-image version (not yet)
 
 The code to create the atlas is in three parts. 
