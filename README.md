@@ -1,6 +1,13 @@
 # Pocket Finder-Chart Atlas
 
-This is an atlas of finder charts for the Messier, Caldwell, and Astronomical League Urban Program objects. For each object, it gives a chart with a field of 4 degrees, flipped east-west, and showing stars to magnitude 9.5. The chart style follows the current conventions for all-sky atlases.
+This is an atlas of finder charts for the Messier, Caldwell, and Astronomical League Urban Observing Program objects. 
+
+The charts have a field of 4 degrees at a scale of 13 mm/deg, showistars to magnitude 9.5, and represent of deep-sky objects following the current convention. Circles show fields with diameters of 1, 2, 3, and 4 degrees.
+
+If you're just interested in downloading the atlas, you will want one of these files:
+
+- [inverted-image version](main.pdf)
+- correct-image version (not yet)
 
 The code to create the atlas is in three parts. 
 
