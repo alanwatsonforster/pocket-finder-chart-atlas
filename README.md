@@ -21,8 +21,10 @@ Finally, you need to bind it. A staple in the corner might work for some, but I 
 
 The code to create the atlas is in three parts. 
 
-- The Python code to produce the input catalogs is hosted in a [Google Colab Notebook](https://colab.research.google.com/drive/16JonQcoLPvneOuimvxtJOiUSpBR-Mixq?usp=sharing)
+- The input stellar catalog is produced by [stars.ipynb](stars.ipynb). It uses the Tycho-2 catalog as its base.
 
-- The Python code to create the LaTex files for the individual charts a hosted in a [different Google Colab Notebook](https://colab.research.google.com/drive/1VTFR25wonsBeU4-xg2RQQJk6zLVED3kO?usp=sharing).
+- The objects catalog [objects.csv](objects.csv) is produced by running [objects.sh](objects.sh), which processes [objects-raw.csv](objects-raw.csv]. This contains data from multiple sources.
 
-- The LaTeX code for the book is hosted [here on GitHub](https://github.com/alanwatsonforster/pocket-finder-chart-atlas).
+- The LaTex files for the individual charts are produced by [charts.ipynb](charts.ipynb).
+
+- The atlas is finally produced by running LaTeX on main.tex.
