@@ -33,16 +33,13 @@ NR > 1 && $9 != "" {
   if (cat_NGC != "") {
     printf("%sNGC %s", join, cat_NGC)
     join = " = ";
-  }
-  if (cat_IC != "") {
+  } else if (cat_IC != "") {
     printf("%sIC %s", join, cat_IC)
     join = " = ";
-  }
-  if (cat_Mel != "") {
+  } else if (cat_Mel != "") {
     printf("%sMel %s", join, cat_Mel)
     join = " = ";
-  }
-  if (cat_Cr != "" && cat_Mel == "") {
+  } else if (cat_Cr != "") {
     printf("%sCr %s", join, cat_Cr)
     join = " = ";
   }

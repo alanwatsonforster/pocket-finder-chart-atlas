@@ -60,12 +60,18 @@
   thick,
   dotted
 }}
-\tikzset{OT/.style={
+\tikzset{AST/.style={
+  black,
+  fill=none,
+  thick,
+  dotted
+}}
+\tikzset{DS/.style={
   black,
   fill=none,
   thick
 }}
-\tikzset{GL/.style={
+\tikzset{GAL/.style={
   black,
   fill=chartred,
   thick
@@ -118,10 +124,13 @@
 \newcommand{\drawSC}[5]{
   \filldraw [SC] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
 }
-\newcommand{\drawGL}[5]{
-  \filldraw [GL] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
+\newcommand{\drawAST}[5]{
+  \filldraw [AST] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
 }
-\newcommand{\drawOT}[3]{
+\newcommand{\drawGAL}[5]{
+  \filldraw [GAL] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
+}
+\newcommand{\drawDS}[3]{
   \draw [OT] (#1,#2) --  +(45:#3);
   \draw [OT] (#1,#2) -- +(135:#3);
   \draw [OT] (#1,#2) -- +(225:#3);
