@@ -4,6 +4,10 @@ sed "1d" objects-raw.csv |
 sort -t, -k "1,1" -k "2,2n" -k "3,3n"  |
 awk -F, '
 function printobject() {
+  if (y == "~")
+    y = x;
+  if (pa == "~")
+    pa = 0;
   printf("%s%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n", \
     id1, id2, alpha, delta, psa, x, y, pa, type, \
     cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name);
