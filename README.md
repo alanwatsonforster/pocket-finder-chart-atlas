@@ -8,14 +8,14 @@ The charts have a field of 4 degrees at a scale of 13 mm/deg, showistars to magn
 
 The atlas is distributed freely, with the intention that you have your own copy printed and bound.
 
-First, you will want to download it. You will need one of these files, depending on whether you want the inverted-image version (N up and E right) or the correct-image version (N up and E left):
+First, you needt to download it. You will need one of these files, depending on whether you want the inverted-image version (N up and E right) or the correct-image version (N up and E left):
 
 - [inverted-image version](https://github.com/alanwatsonforster/pocket-finder-chart-atlas/raw/main/main.pdf)
 - correct-image version (not yet)
 
-Next, you'll need to print it. The atlas is designed to be printed double-sided on half-letter (140 × 216 mm) paper, but A5 (147 × 210 mm) is an excellent substitute. Some print shops don't stock half-letter paper, but it's easy to buy online. The atlas is produced in color, but at night all cats are indeed grey, so if you want to print in greyscale you're probably not losing much in practice. 
+Next, you need to print it. The atlas is designed to be printed double-sided on half-letter (140 × 216 mm) paper, but A5 (147 × 210 mm) is an excellent substitute. Some print shops don't stock half-letter paper, but it's easy to buy online. The atlas is produced in color, but at night all cats are indeed grey, so if you want to print in greyscale you're probably not losing much in practice.
 
-Finally, you'll want to bind it. A staple in the corner might work for some, but I think the key to convenience at the telescope is a spiral binding that allows the atlas to fold back on itself, like the *Pocket Sky Atlas*. Clear plastic covers will help protect it.
+Finally, you need to bind it. A staple in the corner might work for some, but I think the key to convenience at the telescope is a spiral binding that allows the atlas to fold back on itself, like the *Pocket Sky Atlas*. Clear plastic covers will help protect it.
 
 ## Code
 
