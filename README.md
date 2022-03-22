@@ -23,7 +23,7 @@ The code to create the atlas is in three parts.
 
 - The input stellar catalog is produced by [stars.ipynb](stars.ipynb). It uses the Tycho-2 catalog as its base.
 
-- The objects catalog [objects.csv](objects.csv) is produced by running [objects.sh](objects.sh), which processes [objects-raw.csv](objects-raw.csv]. This contains data from multiple sources.
+- The objects catalog [objects.csv](objects.csv) is produced by running [objects.sh](objects.sh), which processes [objects-raw.csv](objects-raw.csv). This contains data from multiple sources.
 
 - The LaTex files for the individual charts are produced by [charts.ipynb](charts.ipynb).
 
