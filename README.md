@@ -2,7 +2,7 @@
 
 This is an atlas of finder charts for the Messier, Caldwell, and Astronomical League Urban Observing Program objects. 
 
-The charts have a field of 4 degrees at a scale of 13 mm/deg, showistars to magnitude 9.5, and represent of deep-sky objects following the current convention. Circles show fields with diameters of 1, 2, 3, and 4 degrees.
+The charts have a field of 4 degrees at a scale of 13 mm/deg, show stars to magnitude 9.5, and represent of deep-sky objects following the current convention. Circles show fields with diameters of 1, 2, 3, and 4 degrees.
 
 ## Getting a Copy
 
