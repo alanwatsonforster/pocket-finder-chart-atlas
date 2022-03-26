@@ -5,8 +5,10 @@
 \usetikzlibrary{external}
 \ifinverted
   \tikzexternalize[prefix=tikzexternal-inverted/]
+  \immediate\write18{mkdir -p tikzexternal-inverted/}
 \else
   \tikzexternalize[prefix=tikzexternal-correct/]
+  \immediate\write18{mkdir -p tikzexternal-correct/}
 \fi
 
 % We don’t define an environment for the charts since this interferes
