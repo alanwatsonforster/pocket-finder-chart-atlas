@@ -27,4 +27,4 @@ The code to create the atlas is in three parts.
 
 - The LaTex files for the individual charts are produced by [charts.ipynb](charts.ipynb).
 
-- The atlas is finally produced by running LaTeX on main.tex.
+- The atlas is finally produced by running LaTeX on main-inverted.tex and main-correct.tex.
