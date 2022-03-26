@@ -10,8 +10,8 @@ The atlas is distributed freely, with the intention that you have your own copy 
 
 First, you needt to download it. You will need one of these files, depending on whether you want the inverted-image version (N up and E right) or the correct-image version (N up and E left):
 
-- [inverted-image version](https://github.com/alanwatsonforster/pocket-finder-chart-atlas/raw/main/main.pdf)
-- correct-image version (not yet)
+- [inverted-image version](https://github.com/alanwatsonforster/pocket-finder-chart-atlas/raw/main/main-inverted.pdf)
+- [correct-image version](https://github.com/alanwatsonforster/pocket-finder-chart-atlas/raw/main/main-correct.pdf)
 
 Next, you need to print it. The atlas is designed to be printed double-sided on half-letter (140 × 216 mm) paper, but A5 (147 × 210 mm) is an excellent substitute. Some print shops don't stock half-letter paper, but it's easy to buy online. The atlas is produced in color, but at night all cats are indeed grey, so if you want to print in greyscale you're probably not losing much in practice.
 
