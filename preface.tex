@@ -3,9 +3,52 @@
 \chapter*{Preface}
 \addcontentsline{toc}{chapter}{\protect\numberline{}Preface}
 
+\begin{figure}[t]
+\begin{center}
+{\Large\bfseries Chart Legend}
+
+\begin{tikzpicture}
+
+\begin{scope}[xshift=8cm,yshift=0cm,yscale=-\chartscale]
+\draw (0,0) -- (0,4);
+\draw (0,0) -- (0.1,0) node [anchor=west] {$0^\circ$};
+\draw (0,1) -- (0.1,1) node [anchor=west] {$1^\circ$};
+\draw (0,2) -- (0.1,2) node [anchor=west] {$2^\circ$};
+\draw (0,3) -- (0.1,3) node [anchor=west] {$3^\circ$};
+\draw (0,4) -- (0.1,4) node [anchor=west] {$4^\circ$};
+\end{scope}
+
+\begin{scope}[xshift=0cm,yshift=-0cm,yscale=-1,xscale=1]
+\draw (0,0) node [anchor=west] {Stars};
+\drawstar{0}{0.5}{1.0} \draw (0.5,0.5) node [anchor=west] {1 mag};
+\drawstar{0}{1.0}{2.0} \draw (0.5,1.0) node [anchor=west] {2 mag};
+\drawstar{0}{1.5}{3.0} \draw (0.5,1.5) node [anchor=west] {3 mag};
+\drawstar{0}{2.0}{4.0} \draw (0.5,2.0) node [anchor=west] {4 mag};
+\drawstar{0}{2.5}{5.0} \draw (0.5,2.5) node [anchor=west] {5 mag};
+\drawstar{0}{3.0}{6.0} \draw (0.5,3.0) node [anchor=west] {6 mag};
+\drawstar{0}{3.5}{7.0} \draw (0.5,3.5) node [anchor=west] {7 mag};
+\drawstar{0}{4.0}{8.0} \draw (0.5,4.0) node [anchor=west] {8 mag};
+\drawstar{0}{4.5}{9.0} \draw (0.5,4.5) node [anchor=west] {9 mag};
+\end{scope}
+
+\begin{scope}[xshift=3cm,yshift=-0cm,yscale=-1]
+\drawOC{0}{0.5}{0.15}\draw (0.5,0.5) node [anchor=west] {Open Cluster};
+\drawGC{0}{1.0}{0.15}\draw (0.5,1.0) node [anchor=west] {Globular Cluster};
+\drawSC{0}{1.5}{0.15}{0.15}{0}\draw (0.5,1.5) node [anchor=west] {Star Cloud or Asterism};
+\drawBN{0}{2.0}{0.15}\draw (0.5,2.0) node [anchor=west] {Bright Nebula};
+\drawPN{0}{2.5}{0.10}\draw (0.5,2.5) node [anchor=west] {Planetary Nebula};
+\drawDN{0}{3.0}{0.15}\draw (0.5,3.0) node [anchor=west] {Dark Nebula};
+\drawGAL{0}{3.5}{0.15}{0.10}{45}\draw (0.5,3.5) node [anchor=west] {Galaxy};
+\end{scope}
+
+\end{tikzpicture}
+
+\end{center}
+\end{figure}
+
 This is an atlas of finder charts for the Messier, Caldwell, and Astronomical League Urban Observing Program objects. 
 
-The charts have a field of 4 degrees at a scale of 13 mm/deg, show stars to magnitude 9.5, and represent of deep-sky objects following the current convention. Circles show fields with diameters of 1, 2, 3, and 4 degrees.
+The charts have a field of 4 degrees at a scale of 13 mm per degree, show stars to magnitude 9.5, and represent of deep-sky objects following the current convention. Circles show fields with diameters of 1, 2, 3, and 4 degrees.
 
 There are versions of the atlas with inverted-image and correct-image charts. 
 \ifinverted
@@ -23,5 +66,4 @@ Of course, the obvious question is, but why not just use use an all-sky atlas? I
 %Therefore, I created this atlas while guided by the following considerations. The charts should better approximate the view through the telescope at low power; they should be flipped, have a field of 4 degrees, show stars to 9.5 mag, and show the stars with smaller dots than typical. They should have a medium scale; I use 13 mm/deg throughout. They should complement the {\PSA}, my favored all-sky atlas, by adopting a similar graphic design and showing similar objects.  Finally, but no less importantly, they should be convenient to use at the telescope, with half-letter pages and a spiral binding that allows the atlas to fold back on itself, again to match the {\PSA}.
 
 To some degree, the relation between these charts and the {\PSA} is similar to the relation between the large-scale and small-scale charts in \booktitle{The Observer’s Sky Atlas}. The small-scale all-sky atlas is to find the field and the large-scale charts are to confirm the field and locate the object. (I don’t use \booktitle{The Observer’s Sky Atlas} at the telescope, because the small-scale charts are too shallow and too narrow, the large-scale charts aren’t inverted, and the binding is inconvenient.) 
-
 
