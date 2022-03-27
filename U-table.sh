@@ -3,6 +3,10 @@
 sort -t, -k "11,11n" objects.csv |
 awk -F, '
 NR > 1 && $11 != "" && $11 != "9/10" {
+  print $0 ",";
+}'| paste - U-ref.csv |
+awk -F, '
+{
   alpha = $2;
   delta = $3;
   psa = $4;
@@ -18,6 +22,7 @@ NR > 1 && $11 != "" && $11 != "9/10" {
   cat_Mel = $14;
   cat_Cr  = $15;
   name    = $16;
+  ref     = $18;
   if (type == "GAL")
     type = "Gal";
   printf("U%-2d ", cat_U);
@@ -51,6 +56,7 @@ NR > 1 && $11 != "" && $11 != "9/10" {
     printf("%s%s", join, name)
     join = " = ";
   }
+  printf("&%s", ref)
   printf("\\\\\n");
-}
+} 
 ' >U-table.tex
