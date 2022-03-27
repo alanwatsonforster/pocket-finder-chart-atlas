@@ -24,8 +24,7 @@
   \fi
 }
 \newcommand{\chartyscale}{\chartscale}
-
-\newcommand{\starscale}{1}
+\newcommand{\starscale}{0.005}
 
 \definecolor{chartgreen} {rgb}{0.30,0.60,0.10}
 \definecolor{chartred}   {rgb}{1.00,0.00,0.00}
@@ -118,7 +117,7 @@
   \fi
 }
 \newcommand{\drawstar}[3]{
-  \filldraw [star] (#1,#2) circle [radius=#3*\starscale];
+  \filldraw [star] (#1,#2) circle [radius=(#3-10.5)*\starscale];
 }
 \newcommand{\drawOC}[3]{
   \filldraw [OC] (#1,#2) circle [radius=#3];
