@@ -1,11 +1,11 @@
-U1  , TTSD , NGC 129\\
+U1  , TSD , NGC 129\\
 U2  , TMO , M32 = NGC 221\\
 U3  , TMO , M31 = NGC 224 = Andromeda Galaxy\\
 U4  , TCO , C13 = NGC 457 = Owl Cluster\\
 U5  , TCO , C10 = NGC 663\\
-U6  , TTSD , Cr 463\\
+U6  , TSD , Cr 463\\
 U7  , TCO , C28 = NGC 752\\
-U8  , TTSD , Stock 2\\
+U8  , TSD , Stock 2\\
 U9  , TMO/TCO , NGC 869 = h Persei Cluster\\
 U10 , TMO/TCO , NGC 884 = $\chi$ Persei Cluster\\
 U11 ,  , Tr 2\\
@@ -13,12 +13,12 @@ U12 , TMO , M77 = NGC 1068\\
 U13 ,  , Tr 3\\
 U14 ,  , Stock 23 = Pazmino's Cluster\\
 U15 ,  , Mel 20 = $\alpha$ Per Cluster\\
-U16 , TTSD , NGC 1342\\
+U16 , TSD , NGC 1342\\
 U17 , TMO , M45 = Mel 22 = Pleiades\\
 U18 , TCO , C41 = Mel 25 = Hyades\\
 U19 , TCO/HT  , NGC 1647\\
-U20 , TTSD , NGC 1807\\
-U21 , TTSD , NGC 1817\\
+U20 , TSD , NGC 1807\\
+U21 , TSD , NGC 1817\\
 U22 , TMO , M38 = NGC 1912\\
 U23 , TMO , M36 = NGC 1960\\
 U24 , TMO , M42 = NGC 1976 = Orion Nebula\\
@@ -26,10 +26,10 @@ U25 , HT  , NGC 1981\\
 U26 , TMO , M37 = NGC 2099\\
 U27 , TMO , M35 = NGC 2168\\
 U28 , HT  , NGC 2169\\
-U29 , TTSD , NGC 2232\\
+U29 , TSD , NGC 2232\\
 U30 , TCO , C50 = NGC 2244\\
 U31 , HT  , NGC 2264\\
-U32 , TTSD , NGC 2281\\
+U32 , TSD , NGC 2281\\
 U33 , TMO , M41 = NGC 2287\\
 U34 , HT  , NGC 2301\\
 U35 , TMO , M50 = NGC 2323\\
@@ -73,15 +73,15 @@ U72 , TMO/HT  , Cr 399 = Brocchi's Cluster\\
 U73 , HT  , NGC 6818\\
 U74 ,  , NGC 6826\\
 U75 , TMO , M27 = NGC 6853 = Dumbell Nebula\\
-U76 , TTSD , NGC 6910\\
+U76 , TSD , NGC 6910\\
 U77 ,  , NGC 6934\\
 U78 , HT  , NGC 6940\\
 U79 ,  , NGC 7009\\
 U80 , TMO , M15 = NGC 7078\\
 U81 , TMO , M2 = NGC 7089\\
 U82 , TMO , M39 = NGC 7092\\
-U83 , TTSD , NGC 7160\\
-U84 , TTSD , NGC 7209\\
+U83 , TSD , NGC 7160\\
+U84 , TSD , NGC 7209\\
 U85 ,  , NGC 7243\\
 U86 ,  , NGC 7662\\
 U87 , TCO/HT  , NGC 7789\\
