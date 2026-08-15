@@ -1,4 +1,7 @@
-\pagestyle{empty}
+%!LW recipe = latexmk (xelatex)
+%!TEX root = test.tex
+
+\thispagestyle{empty}
 
 % Cover Page
 
@@ -9,7 +12,10 @@
     \LARGE\bfseries Pocket Finder-Chart Atlas\endgroup
 
     \vspace{0.5cm}
-    \chart{M41}\chart{M82}
+
+    \input charts/M41
+
+    \input charts/M82
 
     \vspace{0.5cm}
 
@@ -24,12 +30,17 @@
 
 \end{center}
 
+\clearpage
+
 % Cover Page Verso
+
+\thispagestyle{empty}
 
 \cleardoublepage
 
 % Title Page
 
+\thispagestyle{empty}
 \setcounter{page}{1}
 
 \null\vfill
@@ -47,6 +58,8 @@
 \clearpage
 
 % Copyright Page
+
+\thispagestyle{empty}
 
 \null\vfill
 
@@ -75,10 +88,12 @@
 
 \end{raggedright}
 
+\clearpage
+
+\thispagestyle{empty}
+
 \cleardoublepage
 
 % Contents Page
-
-\pagestyle{plain}
 
 \tableofcontents

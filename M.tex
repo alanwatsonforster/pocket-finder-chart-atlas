@@ -1,4 +1,5 @@
-%!TEX root = main.tex
+%!LW recipe = latexmk (xelatex)
+%!TEX root = main-correct.tex
 
 \chapter*{The Messier Objects}
 \addcontentsline{toc}{chapter}{\protect\numberline{}The Messier Objects}
@@ -14,261 +15,148 @@ For completeness, I include finder charts for all of the Messier objects, even b
 \clearpage
 
 \begin{table}[t]
-\setlength{\tabcolsep}{2pt}
-\small
-\begin{tabular}{lcclll}
-\hline
-Name&Position&PSA&Type&Other Names\\
-\hline
-M1   &$05.6$ $+22$&14&BN &NGC 1952 = Crab Nebula\\
-M2   &$21.6$ $-01$&75/77&GC &U81 = NGC 7089\\
-M3   &$13.7$ $+28$&43/44&GC &U51 = NGC 5272\\
-M4   &$16.4$ $-27$&56/58&GC &U53 = NGC 6121\\
-M5   &$15.3$ $+02$&55/57&GC &U52 = NGC 5904\\
-M6   &$17.7$ $-32$&58/69&OC &U60 = NGC 6405 = Butterfly Nebula\\
-M7   &$17.9$ $-35$&58/69&OC &U62 = NGC 6475\\
-M8   &$18.1$ $-24$&67&BN &U64 = NGC 6523/6530 = Lagoon Nebula\\
-M9   &$17.3$ $-19$&56&GC &NGC 6333\\
-M10  &$17.0$ $-04$&54/56&GC &U57 = NGC 6254\\
-M11  &$18.9$ $-06$&65/67&OC &U69 = NGC 6705 = Wild Duck Cluster\\
-M12  &$16.8$ $-02$&54/56&GC &U56 = NGC 6218\\
-M13  &$16.7$ $+36$&52&GC &U54 = NGC 6205 = Hercules Cluster\\
-M14  &$17.6$ $-03$&54&GC &NGC 6402\\
-M15  &$21.5$ $+12$&75&GC &U80 = NGC 7078\\
-M16  &$18.3$ $-14$&67&BN &NGC 6611 = Eagle Nebula\\
-M17  &$18.3$ $-16$&67&BN &U65 = NGC 6618 = Omega Nebula\\
-M18  &$18.3$ $-17$&67&OC &NGC 6613\\
-M19  &$17.0$ $-26$&56&GC &NGC 6273\\
-M20  &$18.0$ $-23$&67&BN &NGC 6514 = Trifid Nebula\\
-M21  &$18.1$ $-23$&67&OC &NGC 6531\\
-M22  &$18.6$ $-24$&67&GC &U67 = NGC 6656\\
-M23  &$17.9$ $-19$&67&OC &NGC 6494\\
-M24  &$18.3$ $-19$&67&SC &IC 4715\\
-M25  &$18.5$ $-19$&67&OC &IC 4725\\
-M26  &$18.8$ $-09$&67&OC &NGC 6694\\
-M27  &$20.0$ $+23$&64&PN &U75 = NGC 6853 = Dumbell Nebula\\
-M28  &$18.4$ $-25$&67/I&GC &NGC 6626\\
-M29  &$20.4$ $+38$&62&OC &NGC 6913\\
-M30  &$21.7$ $-23$&77&GC &NGC 7099\\
-M31  &$00.7$ $+41$&3&Gal&U3 = NGC 224 = Andromeda Galaxy\\
-M32  &$00.7$ $+41$&3&Gal&U2 = NGC 221\\
-M33  &$01.6$ $+31$&3&Gal&NGC 598\\
-M34  &$02.7$ $+43$&2&OC &NGC 1039\\
-M35  &$06.2$ $+24$&14&OC &U27 = NGC 2168\\
-M36  &$05.6$ $+34$&12&OC &U23 = NGC 1960\\
-M37  &$05.9$ $+33$&12&OC &U26 = NGC 2099\\
-M38  &$05.5$ $+36$&12&OC &U22 = NGC 1912\\
-M39  &$21.5$ $+48$&73&OC &U82 = NGC 7092\\
-M40  &$12.4$ $+58$&32&DS &\\
-\hline
-\end{tabular}
+    \setlength{\tabcolsep}{2pt}
+    \small
+    \begin{tabular}{lcclll}
+        \hline
+        Name&Position&PSA&Type&Other Names\\
+        \hline
+        M1   &$05.6$ $+22$&14&BN &NGC 1952 = Crab Nebula\\
+        M2   &$21.6$ $-01$&75/77&GC &U81 = NGC 7089\\
+        M3   &$13.7$ $+28$&43/44&GC &U51 = NGC 5272\\
+        M4   &$16.4$ $-27$&56/58&GC &U53 = NGC 6121\\
+        M5   &$15.3$ $+02$&55/57&GC &U52 = NGC 5904\\
+        M6   &$17.7$ $-32$&58/69&OC &U60 = NGC 6405 = Butterfly Nebula\\
+        M7   &$17.9$ $-35$&58/69&OC &U62 = NGC 6475\\
+        M8   &$18.1$ $-24$&67&BN &U64 = NGC 6523/6530 = Lagoon Nebula\\
+        M9   &$17.3$ $-19$&56&GC &NGC 6333\\
+        M10  &$17.0$ $-04$&54/56&GC &U57 = NGC 6254\\
+        M11  &$18.9$ $-06$&65/67&OC &U69 = NGC 6705 = Wild Duck Cluster\\
+        M12  &$16.8$ $-02$&54/56&GC &U56 = NGC 6218\\
+        M13  &$16.7$ $+36$&52&GC &U54 = NGC 6205 = Hercules Cluster\\
+        M14  &$17.6$ $-03$&54&GC &NGC 6402\\
+        M15  &$21.5$ $+12$&75&GC &U80 = NGC 7078\\
+        M16  &$18.3$ $-14$&67&BN &NGC 6611 = Eagle Nebula\\
+        M17  &$18.3$ $-16$&67&BN &U65 = NGC 6618 = Omega Nebula\\
+        M18  &$18.3$ $-17$&67&OC &NGC 6613\\
+        M19  &$17.0$ $-26$&56&GC &NGC 6273\\
+        M20  &$18.0$ $-23$&67&BN &NGC 6514 = Trifid Nebula\\
+        M21  &$18.1$ $-23$&67&OC &NGC 6531\\
+        M22  &$18.6$ $-24$&67&GC &U67 = NGC 6656\\
+        M23  &$17.9$ $-19$&67&OC &NGC 6494\\
+        M24  &$18.3$ $-19$&67&SC &IC 4715\\
+        M25  &$18.5$ $-19$&67&OC &IC 4725\\
+        M26  &$18.8$ $-09$&67&OC &NGC 6694\\
+        M27  &$20.0$ $+23$&64&PN &U75 = NGC 6853 = Dumbell Nebula\\
+        M28  &$18.4$ $-25$&67/I&GC &NGC 6626\\
+        M29  &$20.4$ $+38$&62&OC &NGC 6913\\
+        M30  &$21.7$ $-23$&77&GC &NGC 7099\\
+        M31  &$00.7$ $+41$&3&Gal&U3 = NGC 224 = Andromeda Galaxy\\
+        M32  &$00.7$ $+41$&3&Gal&U2 = NGC 221\\
+        M33  &$01.6$ $+31$&3&Gal&NGC 598\\
+        M34  &$02.7$ $+43$&2&OC &NGC 1039\\
+        M35  &$06.2$ $+24$&14&OC &U27 = NGC 2168\\
+        M36  &$05.6$ $+34$&12&OC &U23 = NGC 1960\\
+        M37  &$05.9$ $+33$&12&OC &U26 = NGC 2099\\
+        M38  &$05.5$ $+36$&12&OC &U22 = NGC 1912\\
+        M39  &$21.5$ $+48$&73&OC &U82 = NGC 7092\\
+        M40  &$12.4$ $+58$&32&DS &\\
+        \hline
+    \end{tabular}
 \end{table}
 
 \begin{table}[t]
-\setlength{\tabcolsep}{2pt}
-\small
-\begin{tabular}{lcclll}
-\hline
-Name&Position&PSA&Type&Other Names\\
-\hline
-M41  &$06.8$ $-21$&27&OC &U33 = NGC 2287\\
-M42  &$05.6$ $-05$&16/B&BN &U24 = NGC 1976 = Orion Nebula\\
-M43  &$05.6$ $-05$&16/B&BN &NGC 1982\\
-M44  &$08.7$ $+20$&24&OC &U39 = NGC 2632 = Beehive Cluster\\
-M45  &$03.8$ $+24$&15/A&OC &U17 = Mel 22 = Pleiades\\
-M46  &$07.7$ $-15$&26&OC &NGC 2437\\
-M47  &$07.6$ $-14$&27&OC &NGC 2422\\
-M48  &$08.2$ $-06$&26&OC &U38 = NGC 2548\\
-M49  &$12.5$ $+08$&45/C&Gal&NGC 4472\\
-M50  &$07.0$ $-08$&27&OC &U35 = NGC 2323\\
-M51  &$13.5$ $+47$&43&Gal&NGC 5194 = Whirlpool Galaxy\\
-M52  &$23.4$ $+62$&72&OC &NGC 7654\\
-M53  &$13.2$ $+18$&45&GC &NGC 5024\\
-M54  &$18.9$ $-30$&69&GC &NGC 6715\\
-M55  &$19.7$ $-31$&68&GC &NGC 6809\\
-M56  &$19.3$ $+30$&63&GC &NGC 6779\\
-M57  &$18.9$ $+33$&63&PN &U71 = NGC 6720 = Ring Nebula\\
-M58  &$12.6$ $+12$&45/C&Gal&NGC 4579\\
-M59  &$12.7$ $+12$&45/C&Gal&NGC 4621\\
-M60  &$12.7$ $+12$&45/C&Gal&NGC 4649\\
-M61  &$12.4$ $+04$&45&Gal&NGC 4303\\
-M62  &$17.0$ $-30$&58&GC &U58 = NGC 6266\\
-M63  &$13.3$ $+42$&43&Gal&NGC 5055 = Sunflower Galaxy\\
-M64  &$12.9$ $+22$&45&Gal&U50 = NGC 4826 = Black-Eye Galaxy\\
-M65  &$11.3$ $+13$&34&Gal&NGC 3623\\
-M66  &$11.3$ $+13$&34&Gal&NGC 3627\\
-M67  &$08.9$ $+12$&24&OC &U40 = NGC 2682\\
-M68  &$12.7$ $-27$&47&GC &NGC 4590\\
-M69  &$18.5$ $-32$&67&GC &NGC 6637\\
-M70  &$18.7$ $-32$&67&GC &NGC 6681\\
-M71  &$19.9$ $+19$&64&GC &NGC 6838\\
-M72  &$20.9$ $-13$&66/77&GC &NGC 6981\\
-M73  &$21.0$ $-13$&66/77&AST&NGC 6994\\
-M74  &$01.6$ $+16$&4/5&Gal&NGC 628\\
-M75  &$20.1$ $-22$&66&GC &NGC 6864\\
-M76  &$01.7$ $+52$&2&PN &NGC 651/650 = Little Dumbell\\
-M77  &$02.7$ $-00$&4&Gal&U12 = NGC 1068\\
-M78  &$05.8$ $+00$&16&BN &NGC 2068\\
-M79  &$05.4$ $-25$&16&GC &NGC 1904\\
-M80  &$16.3$ $-23$&56&GC &NGC 6093\\
-\hline
-\end{tabular}
+    \setlength{\tabcolsep}{2pt}
+    \small
+    \begin{tabular}{lcclll}
+        \hline
+        Name&Position&PSA&Type&Other Names\\
+        \hline
+        M41  &$06.8$ $-21$&27&OC &U33 = NGC 2287\\
+        M42  &$05.6$ $-05$&16/B&BN &U24 = NGC 1976 = Orion Nebula\\
+        M43  &$05.6$ $-05$&16/B&BN &NGC 1982\\
+        M44  &$08.7$ $+20$&24&OC &U39 = NGC 2632 = Beehive Cluster\\
+        M45  &$03.8$ $+24$&15/A&OC &U17 = Mel 22 = Pleiades\\
+        M46  &$07.7$ $-15$&26&OC &NGC 2437\\
+        M47  &$07.6$ $-14$&27&OC &NGC 2422\\
+        M48  &$08.2$ $-06$&26&OC &U38 = NGC 2548\\
+        M49  &$12.5$ $+08$&45/C&Gal&NGC 4472\\
+        M50  &$07.0$ $-08$&27&OC &U35 = NGC 2323\\
+        M51  &$13.5$ $+47$&43&Gal&NGC 5194 = Whirlpool Galaxy\\
+        M52  &$23.4$ $+62$&72&OC &NGC 7654\\
+        M53  &$13.2$ $+18$&45&GC &NGC 5024\\
+        M54  &$18.9$ $-30$&69&GC &NGC 6715\\
+        M55  &$19.7$ $-31$&68&GC &NGC 6809\\
+        M56  &$19.3$ $+30$&63&GC &NGC 6779\\
+        M57  &$18.9$ $+33$&63&PN &U71 = NGC 6720 = Ring Nebula\\
+        M58  &$12.6$ $+12$&45/C&Gal&NGC 4579\\
+        M59  &$12.7$ $+12$&45/C&Gal&NGC 4621\\
+        M60  &$12.7$ $+12$&45/C&Gal&NGC 4649\\
+        M61  &$12.4$ $+04$&45&Gal&NGC 4303\\
+        M62  &$17.0$ $-30$&58&GC &U58 = NGC 6266\\
+        M63  &$13.3$ $+42$&43&Gal&NGC 5055 = Sunflower Galaxy\\
+        M64  &$12.9$ $+22$&45&Gal&U50 = NGC 4826 = Black-Eye Galaxy\\
+        M65  &$11.3$ $+13$&34&Gal&NGC 3623\\
+        M66  &$11.3$ $+13$&34&Gal&NGC 3627\\
+        M67  &$08.9$ $+12$&24&OC &U40 = NGC 2682\\
+        M68  &$12.7$ $-27$&47&GC &NGC 4590\\
+        M69  &$18.5$ $-32$&67&GC &NGC 6637\\
+        M70  &$18.7$ $-32$&67&GC &NGC 6681\\
+        M71  &$19.9$ $+19$&64&GC &NGC 6838\\
+        M72  &$20.9$ $-13$&66/77&GC &NGC 6981\\
+        M73  &$21.0$ $-13$&66/77&AST&NGC 6994\\
+        M74  &$01.6$ $+16$&4/5&Gal&NGC 628\\
+        M75  &$20.1$ $-22$&66&GC &NGC 6864\\
+        M76  &$01.7$ $+52$&2&PN &NGC 651/650 = Little Dumbell\\
+        M77  &$02.7$ $-00$&4&Gal&U12 = NGC 1068\\
+        M78  &$05.8$ $+00$&16&BN &NGC 2068\\
+        M79  &$05.4$ $-25$&16&GC &NGC 1904\\
+        M80  &$16.3$ $-23$&56&GC &NGC 6093\\
+        \hline
+    \end{tabular}
 \end{table}
 
 \begin{table}[t]
-\setlength{\tabcolsep}{3pt}
-\small
-\begin{tabular}{lcclll}
-\hline
-Name&Position&PSA&Type&Other Names\\
-\hline
-M81  &$09.9$ $+69$&31&Gal&U41 = NGC 3031\\
-M82  &$09.9$ $+70$&31&Gal&U42 = NGC 3034\\
-M83  &$13.6$ $-30$&47/48&Gal&NGC 5236\\
-M84  &$12.4$ $+13$&45/C&Gal&U45 = NGC 4374\\
-M85  &$12.4$ $+18$&45/C&Gal&NGC 4382\\
-M86  &$12.4$ $+13$&45/C&Gal&U46 = NGC 4406\\
-M87  &$12.5$ $+12$&45/C&Gal&U47 = NGC 4486\\
-M88  &$12.5$ $+14$&45/C&Gal&NGC 4501\\
-M89  &$12.6$ $+13$&45/C&Gal&NGC 4552\\
-M90  &$12.6$ $+13$&45/C&Gal&NGC 4569\\
-M91  &$12.6$ $+14$&45/C&Gal&NGC 4548\\
-M92  &$17.3$ $+43$&52&GC &U59 = NGC 6341\\
-M93  &$07.7$ $-24$&26&OC &NGC 2447\\
-M94  &$12.8$ $+41$&43&Gal&U49 = NGC 4736\\
-M95  &$10.7$ $+12$&34&Gal&NGC 3351\\
-M96  &$10.8$ $+12$&34&Gal&NGC 3368\\
-M97  &$11.2$ $+55$&32&PN &NGC 3587\\
-M98  &$12.2$ $+15$&45/C&Gal&NGC 4192\\
-M99  &$12.3$ $+14$&45/C&Gal&NGC 4254\\
-M100 &$12.4$ $+16$&45/C&Gal&NGC 4321\\
-M101 &$14.1$ $+54$&42&Gal&NGC 5457\\
-M102 &$15.1$ $+56$&42&Gal&NGC 5866\\
-M103 &$01.6$ $+61$&3&OC &NGC 581\\
-M104 &$12.7$ $-12$&47&Gal&U48 = NGC 4594 = Sombrero Galaxy\\
-M105 &$10.8$ $+13$&34&Gal&NGC 3379\\
-M106 &$12.3$ $+47$&34&Gal&NGC 4258\\
-M107 &$16.5$ $-13$&56&GC &NGC 6171\\
-M108 &$11.2$ $+56$&32/33&Gal&NGC 3556\\
-M109 &$12.0$ $+53$&32&Gal&NGC 3992\\
-M110 &$00.7$ $+42$&3&Gal&NGC 205\\
-\hline
-\end{tabular}
+    \setlength{\tabcolsep}{3pt}
+    \small
+    \begin{tabular}{lcclll}
+        \hline
+        Name&Position&PSA&Type&Other Names\\
+        \hline
+        M81  &$09.9$ $+69$&31&Gal&U41 = NGC 3031\\
+        M82  &$09.9$ $+70$&31&Gal&U42 = NGC 3034\\
+        M83  &$13.6$ $-30$&47/48&Gal&NGC 5236\\
+        M84  &$12.4$ $+13$&45/C&Gal&U45 = NGC 4374\\
+        M85  &$12.4$ $+18$&45/C&Gal&NGC 4382\\
+        M86  &$12.4$ $+13$&45/C&Gal&U46 = NGC 4406\\
+        M87  &$12.5$ $+12$&45/C&Gal&U47 = NGC 4486\\
+        M88  &$12.5$ $+14$&45/C&Gal&NGC 4501\\
+        M89  &$12.6$ $+13$&45/C&Gal&NGC 4552\\
+        M90  &$12.6$ $+13$&45/C&Gal&NGC 4569\\
+        M91  &$12.6$ $+14$&45/C&Gal&NGC 4548\\
+        M92  &$17.3$ $+43$&52&GC &U59 = NGC 6341\\
+        M93  &$07.7$ $-24$&26&OC &NGC 2447\\
+        M94  &$12.8$ $+41$&43&Gal&U49 = NGC 4736\\
+        M95  &$10.7$ $+12$&34&Gal&NGC 3351\\
+        M96  &$10.8$ $+12$&34&Gal&NGC 3368\\
+        M97  &$11.2$ $+55$&32&PN &NGC 3587\\
+        M98  &$12.2$ $+15$&45/C&Gal&NGC 4192\\
+        M99  &$12.3$ $+14$&45/C&Gal&NGC 4254\\
+        M100 &$12.4$ $+16$&45/C&Gal&NGC 4321\\
+        M101 &$14.1$ $+54$&42&Gal&NGC 5457\\
+        M102 &$15.1$ $+56$&42&Gal&NGC 5866\\
+        M103 &$01.6$ $+61$&3&OC &NGC 581\\
+        M104 &$12.7$ $-12$&47&Gal&U48 = NGC 4594 = Sombrero Galaxy\\
+        M105 &$10.8$ $+13$&34&Gal&NGC 3379\\
+        M106 &$12.3$ $+47$&34&Gal&NGC 4258\\
+        M107 &$16.5$ $-13$&56&GC &NGC 6171\\
+        M108 &$11.2$ $+56$&32/33&Gal&NGC 3556\\
+        M109 &$12.0$ $+53$&32&Gal&NGC 3992\\
+        M110 &$00.7$ $+42$&3&Gal&NGC 205\\
+        \hline
+    \end{tabular}
 \end{table}
 
 \clearpage
 
-\twocolumn
-
-\chart{M1}
-\chart{M2}
-\chart{M3}
-\chart{M4}
-\chart{M5}
-\chart{M6}
-\chart{M7}
-\chart{M8}
-\chart{M9}
-\chart{M10}
-\chart{M11}
-\chart{M12}
-\chart{M13}
-\chart{M14}
-\chart{M15}
-\chart{M16}
-\chart{M17}
-\chart{M18}
-\chart{M19}
-\chart{M20}
-\chart{M21}
-\chart{M22}
-\chart{M23}
-\chart{M24}
-\chart{M25}
-\chart{M26}
-\chart{M27}
-\chart{M28}
-\chart{M29}
-\chart{M30}
-\chart{M31}
-\chart{M32}
-\chart{M33}
-\chart{M34}
-\chart{M35}
-\chart{M36}
-\chart{M37}
-\chart{M38}
-\chart{M39}
-\chart{M40}
-\chart{M41}
-\chart{M42}
-\chart{M43}
-\chart{M44}
-\chart{M45}
-\chart{M46}
-\chart{M47}
-\chart{M48}
-\chart{M49}
-\chart{M50}
-\chart{M51}
-\chart{M52}
-\chart{M53}
-\chart{M54}
-\chart{M55}
-\chart{M56}
-\chart{M57}
-\chart{M58}
-\chart{M59}
-\chart{M60}
-\chart{M61}
-\chart{M62}
-\chart{M63}
-\chart{M64}
-\chart{M65}
-\chart{M66}
-\chart{M67}
-\chart{M68}
-\chart{M69}
-\chart{M70}
-\chart{M71}
-\chart{M72}
-\chart{M73}
-\chart{M74}
-\chart{M75}
-\chart{M76}
-\chart{M77}
-\chart{M78}
-\chart{M79}
-\chart{M80}
-\chart{M81}
-\chart{M82}
-\chart{M83}
-\chart{M84}
-\chart{M85}
-\chart{M86}
-\chart{M87}
-\chart{M88}
-\chart{M89}
-\chart{M90}
-\chart{M91}
-\chart{M92}
-\chart{M93}
-\chart{M94}
-\chart{M95}
-\chart{M96}
-\chart{M97}
-\chart{M98}
-\chart{M99}
-\chart{M100}
-\chart{M101}
-\chart{M102}
-\chart{M103}
-\chart{M104}
-\chart{M105}
-\chart{M106}
-\chart{M107}
-\chart{M108}
-\chart{M109}
-\chart{M110}
-
-\onecolumn
+\input{M-charts}

@@ -1,0 +1,47 @@
+%!LW recipe=latexmk (xelatex)
+%!TEX root = test.tex
+%LTeX: enabled=false
+
+\documentclass[10pt]{book}
+
+\newif\ifinverted
+\invertedfalse
+
+\input{style}
+
+\begin{document}
+
+\frontmatter
+
+\include{frontmatter}
+
+\include{preface}
+
+\mainmatter
+
+\chapter*{Test Objects}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Test Objects}
+
+\clearpage
+
+\chart{M1}
+{\\NGC 1952\\Crab Nebula}
+{\chartdata{5.6}{+22}{Tau}{14}{E3}{3/9}{BN}{8.0}{6'\times4'}}{
+    $\zeta$ Tau (3.0) {\arrow} \degrees{1.1} NW {\arrow} M1
+}{
+    TMO (p.\ 43)
+}{
+}
+
+\chart{M2}
+{}
+{\chartdata{}{}{}{}{}{}{}{}{}}{
+}{
+}{
+}
+
+%\chart{M11}{M11\\U69\\NGC 6705\\Wild Duck Cluster}{}{}{}{}{}
+
+\include{bibliography}
+
+\end{document}

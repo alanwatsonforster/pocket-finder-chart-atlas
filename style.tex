@@ -1,0 +1,265 @@
+%!LW recipe=latexmk (xelatex)
+%!TEX root = test.tex
+
+\usepackage{unicode-math}
+\setmainfont[
+    BoldFont = texgyreschola-bold.otf,
+    BoldItalicFont = texgyreschola-bolditalic.otf,
+    ItalicFont = texgyreschola-italic.otf
+]{texgyreschola-regular.otf}
+\setmathfont{texgyreschola-math.otf}
+
+\usepackage{geometry}
+\geometry{
+    includefoot,
+    paperwidth=5.5in,
+    left=0.6in,
+    width=4.3in,
+    paperheight=8.5in,
+    top=0.6in,
+    height=7.3in
+    %twoside=true
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{\medskipamount}
+
+\usepackage{tabularx}
+
+\pagestyle{plain}
+
+% Put floats at the very top of a page.
+\makeatletter
+\setlength{\@fptop}{0pt}
+\setlength{\@fpbot}{0pt plus 1fil}
+\makeatother
+
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+{\normalfont\Large\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\LARGE}
+\titlespacing*{\chapter}{0pt}{20pt}{20pt}
+
+%\pdfinfoomitdate 1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% HORIZONTAL SPACE
+
+% The \wbox command puts its second argument in a box equal in width to its
+% first argument. The alignment of the contents of the box can be specified by
+% an optional argument and defaults to l.
+
+\makeatletter
+
+\newlength{\@wboxwidth}
+\newcommand{\wbox}[3][l]{%
+    \settowidth{\@wboxwidth}{#2}%
+    \makebox[\@wboxwidth][#1]{#3}%
+}
+
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\booktitle}[1]{{\itshape #1}}
+\newcommand{\PSA}{\booktitle{Pocket Sky Atlas}}
+\newcommand{\book}[1]{\emph{#1}}
+
+\newcommand{\chart}[6]{
+    \noindent
+    \begingroup
+    \raggedright
+    \begin{minipage}[b][5.2cm][t]{0.50\linewidth}
+        \raggedright\scriptsize
+        {\bfseries #1#2}\par
+        \medskip
+        #3\par
+        \smallskip
+        #4\par
+        \smallskip
+        See: \ignorespaces #5\par
+        \smallskip
+        #6\par
+    \end{minipage}
+    \hfill
+    \input charts/#1
+    \par
+    \endgroup
+    \chartskip
+
+}
+\newcommand{\chartskip}{\smallskip}
+
+\newcommand{\arrow}{→}
+\newcommand{\degrees}[1]{$#1^\circ$}
+\newcommand{\hours}[1]{$#1^{\mathrm h}$}
+
+\newcommand{\chartdata}[9]{
+    \smallskip
+    \begin{tabularx}{\linewidth}{@{}l@{: }l@{~~}l@{: }l@{~~}l@{: }X@{}}
+        RA&\wbox{\hours{00.0}}{\hours{#1}}&
+        PSA&\wbox{00/00}{#4}&
+        Type&#7\\
+        Dec&\wbox{\degrees{+00.0}}{\degrees{#2}}&
+        TOSA&#5&
+        Mag&#8\\
+        Con&\wbox{MMM}{#3}&
+        TCSA&\wbox{00/00}{#6}&
+        Size&$#9\relax$\\
+    \end{tabularx}\\
+}
+
+\usepackage{tikz}
+
+\usetikzlibrary{external}
+\ifinverted
+\tikzexternalize[prefix=tikzexternal-inverted/]
+\immediate\write18{mkdir -p tikzexternal-inverted/}
+\else
+\tikzexternalize[prefix=tikzexternal-correct/]
+\immediate\write18{mkdir -p tikzexternal-correct/}
+\fi
+
+% We don’t define an environment for the charts since this interferes
+% with the tikzexternal package.
+
+% The chart scale in cm per degree.
+\newcommand{\chartscale}{1.3}
+\newcommand{\chartxscale}{
+    \ifinverted
+    -\chartscale
+    \else
+    +\chartscale
+    \fi
+}
+\newcommand{\chartyscale}{\chartscale}
+\newcommand{\starscale}{0.005}
+
+\definecolor{chartgreen} {rgb}{0.30,0.60,0.10}
+\definecolor{chartred}   {rgb}{1.00,0.00,0.00}
+\definecolor{chartyellow}{rgb}{1.00,0.90,0.00}
+\definecolor{chartblue}  {rgb}{0.70,0.70,1.00}
+
+\tikzset{frame/.style={
+        black,
+        thick
+}}
+\tikzset{radialscale/.style={
+        dashed,
+        fill=none,
+        chartblue
+}}
+\tikzset{compass/.style={
+        black
+}}
+
+\tikzset{star/.style={
+        black,
+        fill=black
+}}
+\tikzset{OC/.style={
+        black,
+        fill=chartyellow,
+        dotted,
+        thick
+}}
+\tikzset{GC/.style={
+        black,
+        fill=chartyellow,
+        thick
+}}
+\tikzset{PN/.style={
+        black,
+        fill=chartgreen,
+        thick
+}}
+\tikzset{BN/.style={
+        black,
+        fill=chartgreen,
+        thick
+}}
+\tikzset{DN/.style={
+        black,
+        fill=none,
+        thick,
+        dashed
+}}
+\tikzset{SC/.style={
+        black,
+        fill=none,
+        thick,
+        dotted
+}}
+\tikzset{AST/.style={
+        black,
+        fill=none,
+        thick,
+        dotted
+}}
+\tikzset{DS/.style={
+        black,
+        fill=none,
+        thick
+}}
+\tikzset{GAL/.style={
+        black,
+        fill=chartred,
+        thick
+}}
+
+\newcommand{\drawframe}[2]{
+    \draw [frame] (-#2,-#2) -- (-#2,+#2) -- (+#2,+#2) -- (+#2,-#2) -- cycle;
+    \clip (-#2,-#2) -- (-#2,+#2) -- (+#2,+#2) -- (+#2,-#2) -- cycle;
+}
+\newcommand{\drawradialscale}[1]{
+    \filldraw [radialscale] (0,0) circle [radius=#1];
+}
+\newcommand{\drawcompass}[3]{
+    \draw[compass,->] (#1,#2) -- +(0.0,#3) node [anchor=south] {\tiny N};
+    \ifinverted
+    \draw[compass,->] (#1,#2) -- +(-#3,0.0) node [anchor=west] {\tiny E};
+    \else
+    \draw[compass,->] (#1,#2) -- +(-#3,0.0) node [anchor=east] {\tiny E};
+    \fi
+}
+\newcommand{\drawstar}[3]{
+    \filldraw [star] (#1,#2) circle [radius=(#3-10.5)*\starscale];
+}
+\newcommand{\drawOC}[3]{
+    \filldraw [OC] (#1,#2) circle [radius=#3];
+}
+\newcommand{\drawGC}[3]{
+    \filldraw [GC] (#1,#2) circle [radius=#3];
+    \draw [GC] (#1,#2) --   +(0:#3);
+    \draw [GC] (#1,#2) --  +(90:#3);
+    \draw [GC] (#1,#2) -- +(180:#3);
+    \draw [GC] (#1,#2) -- +(270:#3);
+}
+\newcommand{\drawPN}[3]{
+    \filldraw [PN] (#1,#2) circle [radius=#3];
+    \draw [PN] (#1,#2) ++   (0:#3) --   +(0:#3);
+    \draw [PN] (#1,#2) ++  (90:#3) --  +(90:#3);
+    \draw [PN] (#1,#2) ++ (180:#3) -- +(180:#3);
+    \draw [PN] (#1,#2) ++ (270:#3) -- +(270:#3);
+}
+\newcommand{\drawBN}[3]{
+    \filldraw [BN] (#1,#2) circle [radius=#3];
+}
+\newcommand{\drawDN}[3]{
+    \filldraw [DN] (#1,#2) circle [radius=#3];
+}
+\newcommand{\drawSC}[5]{
+    \filldraw [SC] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
+}
+\newcommand{\drawAST}[5]{
+    \filldraw [AST] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
+}
+\newcommand{\drawGAL}[5]{
+    \filldraw [GAL] (#1,#2) circle [x radius = #4, y radius=#3, rotate=#5];
+}
+\newcommand{\drawDS}[3]{
+    \draw [DS] (#1,#2) --  +(45:#3);
+    \draw [DS] (#1,#2) -- +(135:#3);
+    \draw [DS] (#1,#2) -- +(225:#3);
+    \draw [DS] (#1,#2) -- +(315:#3);
+}

@@ -1,59 +1,8 @@
+%!LW recipe=latexmk (xelatex)
+%!TEX root = main-inverted.tex
 %LTeX: enabled=false
 
-\usepackage{unicode-math}
-\setmainfont[
-    BoldFont = texgyreschola-bold.otf,
-    BoldItalicFont = texgyreschola-bolditalic.otf,
-    ItalicFont = texgyreschola-italic.otf
-]{texgyreschola-regular.otf}
-\setmathfont{texgyreschola-math.otf}
-
-\usepackage{geometry}
-\geometry{
-    includefoot,
-    paperwidth=5.5in,
-    left=0.6in,
-    width=4.3in,
-    paperheight=8.5in,
-    top=0.6in,
-    height=7.3in
-    %  twoside=true
-}
-
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{\medskipamount}
-
-% Put floats at the very top of a page.
-\makeatletter
-\setlength{\@fptop}{0pt}
-\setlength{\@fpbot}{0pt plus 1fil}
-\makeatother
-
-\usepackage{titlesec}
-\titleformat{\chapter}[display]
-{\normalfont\Large\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\LARGE}
-\titlespacing*{\chapter}{0pt}{20pt}{20pt}
-
-%\pdfinfoomitdate 1
-
-\input chartsprolog
-
-\newcommand{\chart}[1]{
-    \noindent
-    \begingroup
-    \centering
-    \input charts/#1
-    \par
-    \endgroup
-    \chartskip
-
-}
-\newcommand{\chartskip}{\smallskip}
-
-\newcommand{\booktitle}[1]{{\itshape #1}}
-\newcommand{\PSA}{\booktitle{Pocket Sky Atlas}}
-
-\newcommand{\book}[1]{\emph{#1}}
+\input{style}
 
 \includeonly{
     frontmatter,
