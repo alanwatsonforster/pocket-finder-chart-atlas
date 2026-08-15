@@ -1,5 +1,6 @@
 %!LW recipe=latexmk (xelatex)
 %!TEX root = test.tex
+%LTeX: enabled=false
 
 \usepackage{unicode-math}
 \setmainfont[
@@ -91,8 +92,9 @@
 \newcommand{\chartskip}{\smallskip}
 
 \newcommand{\arrow}{→}
-\newcommand{\degrees}[1]{$#1^\circ$}
-\newcommand{\hours}[1]{$#1^{\mathrm h}$}
+\newcommand{\degrees}[1]{\mbox{$#1^\circ$}}
+\newcommand{\arcmin}[1]{\mbox{$#1'$}}
+\newcommand{\hours}[1]{\mbox{$#1^{\mathrm h}$}}
 
 \newcommand{\chartdata}[9]{
     \smallskip

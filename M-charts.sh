@@ -40,7 +40,12 @@ NR > 1 && $9 != "" {
     printf("\\\\%s", name)
   }
   printf("}")
-  printf("{\\chartdata{%04.1f}{%+03.0f}{}{%s}{}{}{%s}{}{}}", alpha / 15, delta, psa, type)
+  if (x == y) {
+    size = sprintf("\\arcmin{%s}", x)
+  } else {
+    size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
+  }
+  printf("{\\chartdata{%04.1f}{%+03.0f}{}{%s}{}{}{%s}{}{%s}}", alpha / 15, delta, psa, type, size)
   printf("{}{}{}\n")
 }
 ' >M-charts.tex
