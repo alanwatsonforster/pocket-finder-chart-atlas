@@ -8,9 +8,9 @@ function printobject() {
     y = x;
   if (pa == "~")
     pa = 0;
-  printf("%s%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n", \
+  printf("%s%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,\n", \
     id1, id2, alpha, delta, psa, x, y, pa, type, \
-    cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, tcsa, constellation);
+    cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, tcsa);
   if (alpha == "~") 
     print("# alpha missing");
   if (delta == "~")
@@ -41,7 +41,7 @@ function printobject() {
   constellation = "";
 }
 BEGIN {
-  print("# id, alpha, delta, psa, x, y, pa, type, cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, tcsa, constellation");
+  print("# id, alpha, delta, psa, x, y, pa, type, cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, tcsa, constellation,");
 }
 NR > 1 {
   if (id1 != $1 || id2 != $2) {
@@ -101,9 +101,9 @@ $20 != "" {
   name = $20;
 }
 $21 != "" {
-  tcsa = $21;
+  constellation = $21;
 }
 $22 != "" {
-  constellation = $22;
+  tcsa = $22;
 }
 ' >objects.csv

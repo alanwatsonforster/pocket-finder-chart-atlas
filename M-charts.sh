@@ -18,8 +18,8 @@ NR > 1 && $9 != "" {
   cat_Mel       = $14;
   cat_Cr        = $15;
   name          = $16;
-  tcsa          = $17;
-  constellation = $18;
+  constellation = $17;
+  tcsa          = $18;
   if (type == "GAL")
     type = "Gal";
 
