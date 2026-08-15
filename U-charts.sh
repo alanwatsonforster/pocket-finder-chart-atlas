@@ -26,26 +26,33 @@ NR > 1 && $11 != "" {
   printf("\\chart{U%d}", cat_U);
 
   printf("{")
+  join = ""
   if (cat_M != "") {
-    printf("\\\\M%s", cat_M)
+    printf("%sM%s", join, cat_M)
+    join = " = ";
   }
   if (cat_C != "") {
-    printf("\\\\C%s", cat_C)
+    printf("%sC%s", join, cat_C)
+    join = " = ";
   }
   if (cat_NGC != "") {
-    printf("\\\\NGC %s", cat_NGC)
+    printf("%sNGC %s", join, cat_NGC)
+    join = " = ";
   } else if (cat_IC != "") {
-    printf("\\\\IC %s", cat_IC)
+    printf("%sIC %s", join, cat_IC)
+    join = " = ";
   } else if (cat_Mel != "") {
-    printf("\\\\Mel %s", cat_Mel)
+    printf("%sMel %s", join, cat_Mel)
+    join = " = ";
   } else if (cat_Cr != "") {
-    printf("\\\\Cr %s", cat_Cr)
+    printf("%sCr %s", join, cat_Cr)
+    join = " = ";
   }
   if (name != "") {
-    printf("\\\\%s", name)
+    printf("%s%s", join, name)
   }
   printf("}")
-  if (x == y) {
+  if (x == y || y == 0) {
     size = sprintf("\\arcmin{%s}", x)
   } else {
     size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)

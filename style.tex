@@ -71,9 +71,12 @@
     \begingroup
     \raggedright
     \begin{minipage}[b][5.2cm][t]{0.50\linewidth}
-        \raggedright\scriptsize
-        {\bfseries #1#2}\par
+        \raggedright
+        {\bfseries #1}\par
         \medskip
+        \scriptsize
+        #2\par
+        \smallskip
         #3\par
         \smallskip
         #4\par
@@ -102,10 +105,10 @@
         RA&\wbox{\hours{00.0}}{\hours{#1}}&
         PSA&\wbox{00/00}{#4}&
         Type&#7\\
-        Dec&\wbox{\degrees{+00.0}}{\degrees{#2}}&
+        Dec&\wbox{\degrees{+00}}{\degrees{#2}}&
         TOSA&#5&
         Mag&#8\\
-        Con&\wbox{MMM}{#3}&
+        Con&\wbox{Mmm}{#3}&
         TCSA&\wbox{00/00/00/00}{#6}&
         Size&$#9\relax$\\
     \end{tabularx}\\

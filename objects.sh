@@ -8,6 +8,13 @@ function printobject() {
     y = x;
   if (pa == "~")
     pa = 0;
+  if (x > 2.5) {
+    x = sprintf("%.0f", x);
+    y = sprintf("%.0f", y);
+  } else {
+    x = sprintf("%.1f", x);
+    y = sprintf("%.1f", y);
+  }    
   printf("%s%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,\n", \
     id1, id2, alpha, delta, psa, x, y, pa, type, \
     cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, tcsa);
