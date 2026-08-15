@@ -1,7 +1,12 @@
 .DS_Store
-tikzexternal*/*
+tikzexternal*/*.dpth
+tikzexternal*/*.md5
+tikzexternal*/*.pdf
 *.aux
 *.toc
 *.log
 *.synctex*
 *.auxlock
+*.fdb_latexmk
+*.fls
+*.xdv

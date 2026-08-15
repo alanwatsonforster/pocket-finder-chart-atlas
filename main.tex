@@ -1,21 +1,23 @@
-%!TEX root = main.tex
+%LTeX: enabled=false
 
-\documentclass[10pt]{book}
-
-\usepackage[utf8]{inputenc}
-
-\usepackage{mathptmx}
+\usepackage{unicode-math}
+\setmainfont[
+    BoldFont = texgyreschola-bold.otf,
+    BoldItalicFont = texgyreschola-bolditalic.otf,
+    ItalicFont = texgyreschola-italic.otf
+]{texgyreschola-regular.otf}
+\setmathfont{texgyreschola-math.otf}
 
 \usepackage{geometry}
 \geometry{
-  includefoot,
-  paperwidth=5.5in, 
-  left=0.6in,
-  width=4.3in,
-  paperheight=8.5in,
-  top=0.6in,
-  height=7.3in  
-%  twoside=true
+    includefoot,
+    paperwidth=5.5in,
+    left=0.6in,
+    width=4.3in,
+    paperheight=8.5in,
+    top=0.6in,
+    height=7.3in
+    %  twoside=true
 }
 
 \setlength{\parindent}{0pt}
@@ -29,22 +31,22 @@
 
 \usepackage{titlesec}
 \titleformat{\chapter}[display]
-  {\normalfont\Large\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\LARGE}
+{\normalfont\Large\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\LARGE}
 \titlespacing*{\chapter}{0pt}{20pt}{20pt}
 
-\pdfinfoomitdate 1
+%\pdfinfoomitdate 1
 
 \input chartsprolog
 
 \newcommand{\chart}[1]{
-  \noindent
-  \begingroup
-  \centering
-  \input charts/#1
-  \par
-  \endgroup
-  \chartskip
-  
+    \noindent
+    \begingroup
+    \centering
+    \input charts/#1
+    \par
+    \endgroup
+    \chartskip
+
 }
 \newcommand{\chartskip}{\smallskip}
 
@@ -54,12 +56,12 @@
 \newcommand{\book}[1]{\emph{#1}}
 
 \includeonly{
-  frontmatter,
-  preface,
-  M,
-  C,
-  U,
-  bibliography
+    frontmatter,
+    preface,
+    M,
+    C,
+    U,
+    bibliography
 }
 
 \begin{document}
@@ -77,5 +79,3 @@
 \include{U}
 
 \include{bibliography}
-
-\end{document}
