@@ -17,7 +17,7 @@ function printobject() {
   }    
   printf("%s%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,\n", \
     id1, id2, alpha, delta, psa, x, y, pa, type, \
-    cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, tcsa, tosa);
+    cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, csa, osa);
   if (alpha == "~") 
     print("# alpha missing");
   if (delta == "~")
@@ -44,12 +44,12 @@ function printobject() {
   cat_Mel = "";
   cat_Cr = "";
   name = "";
-  tcsa = "";
-  tosa = "";
+  csa = "";
+  osa = "";
   constellation = "";
 }
 BEGIN {
-  print("# id, alpha, delta, psa, x, y, pa, type, cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, tcsa, tosa,");
+  print("# id, alpha, delta, psa, x, y, pa, type, cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, csa, osa,");
 }
 NR > 1 {
   if (id1 != $1 || id2 != $2) {
@@ -112,9 +112,9 @@ $21 != "" {
   constellation = $21;
 }
 $22 != "" {
-  tcsa = $22;
+  csa = $22;
 }
 $23 != "" {
-  tosa = $23;
+  osa = $23;
 }
 ' >objects.csv

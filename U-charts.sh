@@ -19,7 +19,7 @@ NR > 1 && $11 != "" {
   cat_Cr        = $15;
   name          = $16;
   constellation = $17;
-  tcsa          = $18;
+  csa          = $18;
   if (type == "GAL")
     type = "Gal";
 
@@ -62,7 +62,7 @@ NR > 1 && $11 != "" {
   } else {
     size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
   }
-  printf("{\\chartdata{%04.1f}{%+03.0f}{%s}{%s}{}{%s}{%s}{}{%s}}", alpha / 15, delta, constellation, psa, tcsa, type, size)
+  printf("{\\chartdata{%04.1f}{%+03.0f}{%s}{%s}{%s}{%s}{%s}{}{%s}}", alpha / 15, delta, constellation, psa, osa, csa, type, size)
   printf("{}{}{}\n")
 }
 ' >U-charts.tex
