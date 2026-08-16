@@ -23,6 +23,8 @@ NR > 1 && $10 != "" {
   osa           = $19;
   mag           = $20;
   references    = $21;
+  hops          = $22;
+  notes         = $23;
   if (type == "GAL")
     type = "Gal";
 
@@ -62,6 +64,6 @@ NR > 1 && $10 != "" {
     size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
   }
   printf("{\\chartdata{%04.1f}{%+03.0f}{%s}{%s}{%s}{%s}{%s}{%s}{%s}}", alpha / 15, delta, constellation, psa, osa, csa, type, mag, size)
-  printf("{%s}{}{}\n", references)
+  printf("{%s}{%s}{%s}\n", references, hops, notes)
 }
 ' >C-charts.tex
