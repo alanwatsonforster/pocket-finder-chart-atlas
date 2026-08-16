@@ -122,7 +122,7 @@ $23 != "" {
 $24 != "" {
   mag = $24;
 }
-$4 == "DSC:TMO" || $4 == "DSC:TCO" || $4 == "DSC:HT" || $4 == "DSC:TSD" || $4 == "DSC:SG" {
+$4 == "OSA" || $4 == "DSC:TMO" || $4 == "DSC:TCO" || $4 == "DSC:HT" || $4 == "DSC:TSD" || $4 == "DSC:SG" {
   references = sprintf("%s %s", references, $4)
 }
 $25 != "" {
