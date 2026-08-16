@@ -15,9 +15,9 @@ function printobject() {
     x = sprintf("%.1f", x);
     y = sprintf("%.1f", y);
   }    
-  printf("%s%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,\n", \
+  printf("%s%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,\n", \
     id1, id2, alpha, delta, psa, x, y, pa, type, \
-    cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, csa, osa, mag);
+    cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, csa, osa, mag, references);
   if (alpha == "~") 
     print("# alpha missing");
   if (delta == "~")
@@ -48,9 +48,10 @@ function printobject() {
   osa = "";
   constellation = "";
   mag = "";
+  references = "";
 }
 BEGIN {
-  print("# id, alpha, delta, psa, x, y, pa, type, cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, csa, osa, mag,");
+  print("# id, alpha, delta, psa, x, y, pa, type, cat_M, cat_C, cat_U, cat_NGC, cat_IC, cat_Mel, cat_Cr, name, constellation, csa, osa, mag, references");
 }
 NR > 1 {
   if (id1 != $1 || id2 != $2) {
@@ -120,5 +121,11 @@ $23 != "" {
 }
 $24 != "" {
   mag = $24;
+}
+$4 == "DSC:TMO" || $4 == "DSC:TCO" || $4 == "DSC:HT" || $4 == "DSC:TSD" || $4 == "DSC:SG" {
+  references = sprintf("%s %s", references, $4)
+}
+$25 != "" {
+  references = sprintf("%s %s", references, $25)
 }
 ' >objects.csv

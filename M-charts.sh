@@ -22,6 +22,7 @@ NR > 1 && $9 != "" {
   csa           = $18;
   osa           = $19;
   mag           = $20;
+  references    = $21;
   if (type == "GAL")
     type = "Gal";
 
@@ -56,6 +57,6 @@ NR > 1 && $9 != "" {
     size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
   }
   printf("{\\chartdata{%04.1f}{%+03.0f}{%s}{%s}{%s}{%s}{%s}{%s}{%s}}", alpha / 15, delta, constellation, psa, osa, csa, type, mag, size)
-  printf("{}{}{}\n")
+  printf("{%s}{}{}\n", references)
 }
 ' >M-charts.tex
