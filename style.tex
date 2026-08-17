@@ -71,19 +71,16 @@
     \begingroup
     \raggedright
     \begin{minipage}[b][5.2cm][t]{0.50\linewidth}
+        \setlength{\parskip}{\smallskipamount}
         \raggedright
         {\bfseries #1}\par
-        \medskip
+        \smallskip
         \scriptsize
         #2\par
-        \smallskip
         #3\par
-        \smallskip
         See: \ignorespaces #4\par
-        \smallskip
+        Notes: #6\par
         #5\par
-        \smallskip
-        #6\par
     \end{minipage}
     \hfill
     \input charts/#1
@@ -100,7 +97,6 @@
 \newcommand{\hours}[1]{\mbox{$#1^{\mathrm h}$}}
 
 \newcommand{\chartdata}[9]{
-    \smallskip
     \begin{tabularx}{\linewidth}{@{}l@{: }l@{~~}l@{: }l@{~~}l@{: }X@{}}
         RA&\wbox{\hours{00.0}}{\hours{#1}}&
         PSA&\wbox{00/00}{#4}&
@@ -111,7 +107,7 @@
         Con&\wbox{Mmm}{#3}&
         CSA&\wbox{00/00/00/00}{#6}&
         Size&$#9\relax$\\
-    \end{tabularx}\\
+    \end{tabularx}
 }
 
 \usepackage{tikz}
