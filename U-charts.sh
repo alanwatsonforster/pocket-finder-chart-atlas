@@ -57,10 +57,18 @@ NR > 1 && $11 != "" {
     printf("%s%s", join, name)
   }
   printf("}")
-  if (x == y || y == 0) {
-    size = sprintf("\\arcmin{%s}", x)
+  if (x >= 180) {
+    if (x == y || y == 0) {
+      size = sprintf("\\degrees{%.1f}", x / 60)
+    } else {
+      size = sprintf("\\degrees{%.1f} \\times \\degrees{%.1f}", x / 60, y / 60)
+    }
   } else {
-    size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
+    if (x == y || y == 0) {
+      size = sprintf("\\arcmin{%s}", x)
+    } else {
+      size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
+    }
   }
   if (x == y) {
     size = sprintf("\\arcmin{%s}", x)

@@ -53,15 +53,18 @@ NR > 1 && $10 != "" {
     printf("%s%s", join, name)
   }
   printf("}")
-  if (x == y || y == 0) {
-    size = sprintf("\\arcmin{%s}", x)
+  if (x >= 180) {
+    if (x == y || y == 0) {
+      size = sprintf("\\degrees{%.1f}", x / 60)
+    } else {
+      size = sprintf("\\degrees{%.1f} \\times \\degrees{%.1f}", x / 60, y / 60)
+    }
   } else {
-    size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
-  }
-  if (x == y) {
-    size = sprintf("\\arcmin{%s}", x)
-  } else {
-    size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
+    if (x == y || y == 0) {
+      size = sprintf("\\arcmin{%s}", x)
+    } else {
+      size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
+    }
   }
   printf("{\\chartdata{%04.1f}{%+03.0f}{%s}{%s}{%s}{%s}{%s}{%s}{%s}}", alpha / 15, delta, constellation, psa, osa, csa, type, mag, size)
   printf("{%s}{%s}{%s}\n", references, hops, notes)
