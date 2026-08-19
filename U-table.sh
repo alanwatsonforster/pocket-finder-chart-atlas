@@ -22,7 +22,7 @@ awk -F, '
   cat_Mel = $14;
   cat_Cr  = $15;
   name    = $16;
-  ref     = $18;
+  ref     = $21;
   if (type == "GAL")
     type = "Gal";
   printf("U%-2d ", cat_U);
@@ -59,4 +59,12 @@ awk -F, '
   printf("&%s", ref)
   printf("\\\\\n");
 } 
-' >U-table.tex
+' | 
+sed '
+s/ OSA//
+s/DSC://g
+s:TMO :TMO/:
+s:TCO :TCO/:
+s:TSD :TSD/:
+s:HT :HT/:
+'>U-table.tex
