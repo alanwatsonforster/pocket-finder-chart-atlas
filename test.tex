@@ -2,7 +2,7 @@
 %!TEX root = test.tex
 %LTeX: enabled=false
 
-\documentclass[10pt]{book}
+\documentclass[10pt,a5paper]{book}
 
 \newif\ifinverted
 \invertedfalse
@@ -24,23 +24,19 @@
 
 \clearpage
 
-\chart{M1}
-{\\NGC 1952\\Crab Nebula}
-{\chartdata{5.6}{+22}{Tau}{14}{E3}{3/9}{BN}{8.0}{6'\times4'}}{
-    $\zeta$ Tau (3.0) \hop \degrees{1.1} NW \hop M1
-}{
-    TMO (p.\ 43)
-}{
-}
+\chart{M1}{NGC 1952 = Crab Nebula}{\chartdata{05.6}{+22}{Tau}{14}{E3}{3/9}{BN}{8.0}{\arcmin{6} \times \arcmin{4}}}{ DSC:TMO OSA}{}{}
+\chart{M2}{U81 = NGC 7089}{\chartdata{21.6}{-01}{Aqr}{75/77}{E24}{13}{GC}{6.3}{\arcmin{16}}}{ DSC:TMO OSA}{}{}
+\chart{M3}{U51 = NGC 5272}{\chartdata{13.7}{+28}{CVn}{43/44}{E15}{5}{GC}{5.9}{\arcmin{19}}}{ DSC:TMO OSA}{}{}
+\chart{M4}{U53 = NGC 6121}{\chartdata{16.4}{-27}{Sco}{56/58}{E18}{11/12/17/18}{GC}{5.4}{\arcmin{36}}}{ DSC:TMO OSA}{α Sco Antares (mag 0.9--1.1) \hop \degrees{1.2} W to M4}{}
+\chart{M5}{U52 = NGC 5904}{\chartdata{15.3}{+02}{Ser}{55/57}{E15}{11/12}{GC}{5.7}{\arcmin{23}}}{ DSC:TMO OSA}{}{}
+\chart{M6}{U60 = NGC 6405 = Butterfly Nebula}{\chartdata{17.7}{-32}{Sco}{58/69}{E18}{18}{OC}{4.2}{\arcmin{33}}}{ DSC:TMO OSA}{λ Sco Shaula (mag 1.6) \hop \degrees{5} N \hop \degrees{1} E to M6/U60}{}
+\chart{M7}{U62 = NGC 6475}{\chartdata{17.9}{-35}{Sco}{58/69}{E18}{18}{OC}{2.8}{\arcmin{75}}}{ DSC:TMO OSA}{ε Sgr Kaus Australis (mag 1.8) \hop \degrees{6} W to M7/U62}{}
+\chart{M8}{U64 = NGC 6523/6530 = Lagoon Nebula}{\chartdata{18.1}{-24}{Sgr}{67}{E20}{12/18}{BN}{3.0}{\arcmin{45} \times \arcmin{30}}}{ DSC:TMO OSA}{γ Sgr Alnasl (mag 3.0) \hop \degrees{6} N to M8/U64}{Notes: M20 is \degrees{1.5} N.  M21 is \degrees{2.0} N.}
+\chart{M9}{NGC 6333}{\chartdata{17.3}{-19}{Oph}{56}{E17}{12/18}{GC}{7.8}{\arcmin{12}}}{ DSC:TMO OSA}{}{}
+\chart{M10}{U57 = NGC 6254}{\chartdata{17.0}{-04}{Oph}{54/56}{E17}{12}{GC}{6.6}{\arcmin{20}}}{ DSC:TMO OSA}{}{}
+\chart{M11}{U69 = NGC 6705 = Wild Duck Cluster}{\chartdata{18.9}{-06}{Sct}{65/67}{E19}{12}{OC}{5.3}{\arcmin{13}}}{ DSC:TMO OSA}{}{}
+\chart{M12}{U56 = NGC 6218}{\chartdata{16.8}{-02}{Oph}{54/56}{E17}{12}{GC}{6.1}{\arcmin{16}}}{ DSC:TMO OSA}{}{}
 
-\chart{M2}
-{}
-{\chartdata{}{}{}{}{}{}{}{}{}}{
-}{
-}{
-}
-
-%\chart{M11}{M11\\U69\\NGC 6705\\Wild Duck Cluster}{}{}{}{}{}
 
 \include{bibliography}
 

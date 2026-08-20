@@ -12,14 +12,15 @@
 
 \usepackage{geometry}
 \geometry{
+    paper=a5paper,
     includefoot,
-    paperwidth=5.5in,
-    left=0.6in,
-    width=4.3in,
-    paperheight=8.5in,
-    top=0.6in,
-    height=7.3in
-    %twoside=true
+    left=1.2cm,
+    right=1.2cm,
+    top=1.2cm,
+    bottom=1.2cm,
+    footskip=1.5cm,
+    bindingoffset=1cm,
+    twoside
 }
 
 \setlength{\parindent}{0pt}
@@ -89,7 +90,7 @@
     \chartskip
 
 }
-\newcommand{\chartskip}{\smallskip}
+\newcommand{\chartskip}{\vspace{0.5cm}}
 
 \newcommand{\hop}{\\→\space}
 \newcommand{\degrees}[1]{\mbox{$#1^\circ$}}
