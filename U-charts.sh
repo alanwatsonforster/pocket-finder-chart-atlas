@@ -75,6 +75,8 @@ NR > 1 && $11 != "" && $11 != "9/10" {
   } else {
     size = sprintf("\\arcmin{%s} \\times \\arcmin{%s}", x, y)
   }
+  if (notes != "")
+    notes = sprintf("Notes: %s", notes)
   printf("{\\chartdata{%04.1f}{%+03.0f}{%s}{%s}{%s}{%s}{%s}{%s}{%s}}", alpha / 15, delta, constellation, psa, osa, csa, type, mag, size)
   printf("{%s}{%s}{%s}\n", references, hops, notes)
 }
