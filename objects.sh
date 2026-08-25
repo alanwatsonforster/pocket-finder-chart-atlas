@@ -68,73 +68,73 @@ END {
   id1 = $1;
   id2 = $2; 
 }
-$5 != "" {
-  alpha = $5;
-}
 $6 != "" {
-  delta = $6;
+  alpha = $6;
 }
 $7 != "" {
-  psa = $7;
+  delta = $7;
 }
-$9 != "" {
-  x = $9;
+$8 != "" {
+  psa = $8;
 }
 $10 != "" {
-  y = $10;
+  x = $10;
 }
 $11 != "" {
-  pa = $11;
+  y = $11;
 }
 $12 != "" {
-  type = $12;
+  pa = $12;
 }
 $13 != "" {
-  cat_M = $13;
+  type = $13;
 }
 $14 != "" {
-  cat_C = $14;
+  cat_M = $14;
 }
 $15 != "" {
-  cat_U = $15;
+  cat_C = $15;
 }
 $16 != "" {
-  cat_NGC = $16;
+  cat_U = $16;
 }
 $17 != "" {
-  cat_IC = $17;
+  cat_NGC = $17;
 }
 $18 != "" {
-  cat_Mel = $18;
+  cat_IC = $18;
 }
 $19 != "" {
-  cat_Cr = $19;
+  cat_Mel = $19;
 }
 $20 != "" {
-  name = $20;
+  cat_Cr = $20;
 }
 $21 != "" {
-  constellation = $21;
+  name = $21;
 }
 $22 != "" {
-  csa = $22;
+  constellation = $22;
 }
 $23 != "" {
-  osa = $23;
+  csa = $23;
 }
 $24 != "" {
-  mag = $24;
+  osa = $24;
+}
+$25 != "" {
+  mag = $25;
 }
 $4 == "OSA" || $4 == "DSC:TMO" || $4 == "DSC:TCO" || $4 == "DSC:HT" || $4 == "DSC:TSD" || $4 == "DSC:SG" {
   references = sprintf("%s %s", references, $4)
 }
-$25 != "" {
-  references = sprintf("%s %s", references, $25)
-}
 $26 != "" {
-  hops = $26;
+  references = sprintf("%s %s", references, $26)
 }
 $27 != "" {
-  notes = $27;
+  hops = $27;
+}
+$28 != "" {
+  notes = $28;
 }
 ' >objects.csv
