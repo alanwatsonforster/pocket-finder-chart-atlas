@@ -1,0 +1,9115 @@
+{
+  "C1": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 11.798,
+      "delta": 85.244,
+      "X": "32.6",
+      "Y": "32.6",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 1,
+      "Catalog NGC": "188",
+      "Catalog Mel": 2
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "15",
+      "Type": "OC",
+      "mag": "7.1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1",
+      "All PSA": "1/11/21/31/41/51/61/71"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cep",
+      "CSA": "1"
+    }
+  ],
+  "C2": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 3.254,
+      "delta": 72.522,
+      "X": "0.6",
+      "Y": "0.6",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 2,
+      "Catalog NGC": "40"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.6",
+      "Y": "0.6",
+      "Type": "PN",
+      "Name": "Bow-Tie Nebula",
+      "References": 12.3,
+      "Notes": "Central star is magnitude 11.6 (DSC:TCO)."
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1/71",
+      "All PSA": "1/71"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cep",
+      "CSA": "1"
+    }
+  ],
+  "C3": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 184.175,
+      "delta": 69.463,
+      "X": "20.9",
+      "Y": "6.2",
+      "PA": "162",
+      "Type": "GinGroup",
+      "Catalog C": 3,
+      "Catalog NGC": "4236"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "20",
+      "Y": "8",
+      "Type": "GAL",
+      "mag": "9.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "31/41",
+      "All PSA": "31/41"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Dra",
+      "CSA": "1/5"
+    }
+  ],
+  "C4": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 315.404,
+      "delta": 68.163,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "RfNeb",
+      "Catalog C": 4,
+      "Catalog NGC": "7023"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "10",
+      "Y": "8",
+      "Type": "BN",
+      "Name": "Iris Nebula",
+      "mag": "7.7",
+      "Notes": "Central star is magnitude 6.8 (DSC:TCO)."
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "61/71",
+      "All PSA": "61/71"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cep",
+      "CSA": "1/6/7"
+    }
+  ],
+  "C5": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 56.702,
+      "delta": 68.096,
+      "X": "21.9",
+      "Y": "20.9",
+      "PA": "~",
+      "Type": "StarburstG",
+      "Catalog C": 5,
+      "Catalog IC": 342
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "16",
+      "Y": "16",
+      "Type": "GAL",
+      "Name": "Hidden Galaxy",
+      "mag": "7.9"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "-27.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1/11",
+      "All PSA": "1/11"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cam",
+      "CSA": "1/2/3"
+    }
+  ],
+  "C6": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 269.639,
+      "delta": 66.633,
+      "X": "0.6",
+      "Y": "0.5",
+      "PA": "10",
+      "Type": "PN",
+      "Catalog C": 6,
+      "Catalog NGC": "6543"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.4",
+      "Y": "0.3",
+      "Type": "PN",
+      "Name": "Cat's Eye Nebula",
+      "mag": "8.1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "51/61",
+      "All PSA": "51/61"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N16"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Dra",
+      "CSA": "1/6"
+    }
+  ],
+  "C7": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 114.214,
+      "delta": 65.603,
+      "X": "21.4",
+      "Y": "10.7",
+      "PA": "126",
+      "Type": "AGN",
+      "Catalog C": 7,
+      "Catalog NGC": "2403"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "24",
+      "Y": "13",
+      "Type": "GAL",
+      "Name": "Fireworks Galaxy",
+      "mag": "7.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "21",
+      "All PSA": "21"
+    },
+    {
+      "Provenance": "OSA",
+      "Constellation": "Cam",
+      "CSA": "1/3/4"
+    }
+  ],
+  "C8": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 22.387,
+      "delta": 63.301,
+      "X": "9.7",
+      "Y": "9.7",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 8,
+      "Catalog NGC": "559"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "7",
+      "Y": "7",
+      "Type": "OC",
+      "Name": "Ghost's Goblet",
+      "mag": "9.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1/3",
+      "All PSA": "1/2/3"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cas",
+      "CSA": "1/2"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C10 is \\degrees{3} to SE."
+    }
+  ],
+  "C9": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 344.275,
+      "delta": 62.636,
+      "X": "5.3",
+      "Y": "3.6",
+      "PA": "90",
+      "Type": "HII",
+      "Catalog C": 9
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "50",
+      "Y": "30",
+      "Type": "BN",
+      "Name": "Sh2-155 = Cave Nebula",
+      "mag": "10.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "71/72",
+      "All PSA": "71/72",
+      "Constellation": "Cep"
+    },
+    {
+      "Provenance": "CSA",
+      "CSA": "1/7"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Not shown in the CSA."
+    }
+  ],
+  "C10": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 26.586,
+      "delta": 61.212,
+      "X": "18",
+      "Y": "18",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 10,
+      "Catalog NGC": "663"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "15",
+      "Type": "OC",
+      "Name": "Horseshoe Cluster",
+      "mag": "6.7"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1/2",
+      "All PSA": "1/2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cas",
+      "CSA": "1/2"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N2"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M103 is \\degrees{1.7} WSW. C8 is \\degrees{3} NW."
+    }
+  ],
+  "C11": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 350.201,
+      "delta": 61.202,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "HII",
+      "Catalog C": 11,
+      "Catalog NGC": "7635"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "8",
+      "Type": "BN",
+      "Name": "Bubble Nebula",
+      "mag": "10"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "71/72",
+      "All PSA": "3/71/72"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cas",
+      "CSA": "1/2/7"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M52 is \\degrees{0.6} to NE."
+    }
+  ],
+  "C12": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 308.718,
+      "delta": 60.154,
+      "X": "11.5",
+      "Y": "10.7",
+      "PA": "~",
+      "Type": "HII_G",
+      "Catalog C": 12,
+      "Catalog NGC": "6946"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "11",
+      "Y": "9",
+      "Type": "GAL",
+      "Name": "Firecracker Galaxy",
+      "mag": "8.8"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "52"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "61/62",
+      "All PSA": "61/62/73"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cep/Cyg",
+      "CSA": "1/6/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N22"
+    }
+  ],
+  "C13": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 19.887,
+      "delta": 58.278,
+      "X": "15",
+      "Y": "15",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 13,
+      "Catalog NGC": "457"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "20",
+      "Y": "20",
+      "Type": "OC",
+      "Name": "E.T. Cluster = Owl Cluster",
+      "mag": "6.4"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "4"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1/3",
+      "All PSA": "1/3/72"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N2"
+    }
+  ],
+  "C14": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 35.13,
+      "delta": 57.13,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "OpCl",
+      "Catalog C": 14
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "18",
+      "Y": "18",
+      "Type": "OC",
+      "Catalog NGC": "869/884",
+      "Name": "Double Cluster = h/\u03c7 Per Clusters",
+      "mag": "4.5/5.7"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "9/10"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1/2",
+      "All PSA": "1/2/13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N2"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b1 Per Mirfak (mag 1.8) \\hop \\degrees{9} E passing \u03b9 Per and \u03b8 Per to 64/65 And \\hop \\degrees{7} N to C14/U9/U10",
+      "Notes": "NGC 869 (h Per) is to W and brighter; NGC 884 (\u03c7 Per) is to E and fainter. Both are about \\arcmin{18} in diameter (DSC:TCO). U8 is \\degrees{2} N. U11 is \\degrees{2.5} SE."
+    }
+  ],
+  "C15": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 296.201,
+      "delta": 50.525,
+      "X": "0.7",
+      "Y": "0.6",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 15,
+      "Catalog NGC": "6826"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.5",
+      "Y": "0.4",
+      "Type": "PN",
+      "Name": "Blinking Planetary",
+      "mag": "8.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N18"
+    }
+  ],
+  "C16": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 333.788,
+      "delta": 49.83,
+      "X": "30.6",
+      "Y": "30.6",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 16,
+      "Catalog NGC": "7243"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "30",
+      "Y": "30",
+      "Type": "OC",
+      "mag": "6.4"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "85"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "73",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N24"
+    }
+  ],
+  "C17": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 8.301,
+      "delta": 48.509,
+      "X": "12.6",
+      "Y": "7.1",
+      "PA": "25",
+      "Type": "GinGroup",
+      "Catalog C": 17,
+      "Catalog NGC": "147"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "18",
+      "Y": "11",
+      "Type": "GAL",
+      "mag": "9.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "3/72"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C18 is \\degrees{1} E."
+    }
+  ],
+  "C18": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 9.741,
+      "delta": 48.338,
+      "X": "11.5",
+      "Y": "9.6",
+      "PA": "35",
+      "Type": "Seyfert_2",
+      "Catalog C": 18,
+      "Catalog NGC": "185"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "17",
+      "Y": "14",
+      "Type": "GAL",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "3/72"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C17 is \\degrees{1} W."
+    }
+  ],
+  "C19": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 328.372,
+      "delta": 47.246,
+      "X": "8.2",
+      "Y": "8.2",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 19,
+      "Catalog IC": 5146,
+      "Catalog Cr": 470
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "10",
+      "Y": "10",
+      "Type": "BN",
+      "Name": "Cocoon Nebula",
+      "mag": "9.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "73",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Cluster is magitude 7.2 (DSC:TCO). U84 is \\degrees{2} ESE."
+    }
+  ],
+  "C20": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 314.696,
+      "delta": 44.33,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "HII",
+      "Catalog C": 20,
+      "Catalog NGC": "7000"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "100",
+      "Y": "60",
+      "Type": "BN",
+      "Name": "North America Nebula",
+      "mag": "3.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b1 Cyg Deneb (mag 1.3) \\hop \\degrees{1} S \\hop \\degrees{3} E to C20"
+    }
+  ],
+  "C21": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 187.046,
+      "delta": 44.094,
+      "X": "5.3",
+      "Y": "3.3",
+      "PA": "46",
+      "Type": "EmG",
+      "Catalog C": 21,
+      "Catalog NGC": "4449"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "5",
+      "Y": "4",
+      "Type": "GAL",
+      "Name": "Box Galaxy",
+      "mag": "9.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "32/43",
+      "All PSA": "32/43"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N12"
+    }
+  ],
+  "C22": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 351.473,
+      "delta": 42.535,
+      "X": "0.3",
+      "Y": "0.3",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 22,
+      "Catalog NGC": "7662"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.5",
+      "Y": "0.5",
+      "Type": "PN",
+      "Name": "Light Blue Snowball",
+      "mag": "8.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "72",
+      "All PSA": "3/72"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N24"
+    }
+  ],
+  "C23": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 35.637,
+      "delta": 42.348,
+      "X": "12.3",
+      "Y": "2.5",
+      "PA": "22",
+      "Type": "HII_G",
+      "Catalog C": 23,
+      "Catalog NGC": "891",
+      "mag": "9.9"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "12",
+      "Y": "3",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "2/13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N0"
+    }
+  ],
+  "C24": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 49.951,
+      "delta": 41.512,
+      "X": "2.6",
+      "Y": "1.8",
+      "PA": "110",
+      "Type": "Seyfert_2",
+      "Catalog C": 24,
+      "Catalog NGC": "1275",
+      "Name": "Per A"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "3",
+      "Y": "2",
+      "Type": "GAL",
+      "Name": "Perseus A",
+      "mag": "11.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "13",
+      "All PSA": "2/13"
+    }
+  ],
+  "C25": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 114.535,
+      "delta": 38.882,
+      "X": "1.5",
+      "Y": "1.5",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 25,
+      "Catalog NGC": "2419"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "4.6",
+      "Y": "4.6",
+      "Type": "GC",
+      "mag": "10.4"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "23",
+      "All PSA": "23"
+    }
+  ],
+  "C26": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 184.374,
+      "delta": 37.807,
+      "X": "15.9",
+      "Y": "6.3",
+      "PA": "41",
+      "Type": "GinGroup",
+      "Catalog C": 26,
+      "Catalog NGC": "4244"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "16",
+      "Y": "2",
+      "Type": "GAL",
+      "mag": "10.4"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "32/43",
+      "All PSA": "32/43"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N12"
+    }
+  ],
+  "C27": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 303.029,
+      "delta": 38.355,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "ISM",
+      "Catalog C": 27,
+      "Catalog NGC": "6888"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "18",
+      "Y": "13",
+      "Type": "BN",
+      "Name": "Crescent Nebula",
+      "mag": "8.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "AWF"
+    }
+  ],
+  "C28": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 29.223,
+      "delta": 37.794,
+      "X": "58.2",
+      "Y": "58.2",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 28,
+      "Catalog NGC": "752",
+      "Catalog Mel": 12
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "75",
+      "Y": "75",
+      "Type": "OC",
+      "mag": "5.7"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "7"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "2"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N0"
+    }
+  ],
+  "C29": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 197.735,
+      "delta": 37.059,
+      "X": "5.5",
+      "Y": "2.1",
+      "PA": "74",
+      "Type": "GinPair",
+      "Catalog C": 29,
+      "Catalog NGC": "5005"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "6",
+      "Y": "3",
+      "Type": "GAL",
+      "mag": "9.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43",
+      "All PSA": "32/43"
+    }
+  ],
+  "C30": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 339.267,
+      "delta": 34.416,
+      "X": "10.5",
+      "Y": "4.2",
+      "PA": "171",
+      "Type": "LINER",
+      "Catalog C": 30,
+      "Catalog NGC": "7331"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "9.7",
+      "Y": "4.5",
+      "Type": "GAL",
+      "mag": "9.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "72/74",
+      "All PSA": "72/74/75"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E23"
+    }
+  ],
+  "C31": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 79.35,
+      "delta": 34.38,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "Radio",
+      "Catalog C": 31,
+      "Catalog IC": 405
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "30",
+      "Y": "20",
+      "Type": "BN",
+      "Name": "Flaming Star Nebula",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "12",
+      "All PSA": "12/14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "AE Aur (towards the SW edge) is magnitude 6 and variable (DSC:TCO)."
+    }
+  ],
+  "C32": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 190.533,
+      "delta": 32.542,
+      "X": "13.5",
+      "Y": "2.5",
+      "PA": "86",
+      "Type": "GinPair",
+      "Catalog C": 32,
+      "Catalog NGC": "4631"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "4",
+      "Type": "GAL",
+      "Name": "Whale Galaxy",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43/45",
+      "All PSA": "32/43/45"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E13"
+    }
+  ],
+  "C33": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 314.079,
+      "delta": 31.743,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "HIshell",
+      "Catalog C": 33,
+      "Catalog NGC": "6992"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "60",
+      "Y": "8",
+      "Type": "BN",
+      "Name": "Eastern Veil Nebula",
+      "mag": "7.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/64/73/75"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N20"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C34 is \\degrees{2.5} SW."
+    }
+  ],
+  "C34": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 311.408,
+      "delta": 30.708,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "ISM",
+      "Catalog C": 34,
+      "Catalog NGC": "6960"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "70",
+      "Y": "6",
+      "Type": "BN",
+      "Name": "Western Veil Nebula",
+      "mag": "7.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/64/73/75"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N20"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C33 is \\degrees{2.5} NE."
+    }
+  ],
+  "C35": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 195.034,
+      "delta": 27.977,
+      "X": "1.7",
+      "Y": "1.1",
+      "PA": "80",
+      "Type": "EmG",
+      "Catalog C": 35,
+      "Catalog NGC": "4889/4884"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "3",
+      "Y": "2",
+      "Type": "GAL",
+      "Catalog NGC": "4889",
+      "mag": "11.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43/45",
+      "All PSA": "32/43/45"
+    }
+  ],
+  "C36": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 188.99,
+      "delta": 27.96,
+      "X": "10.2",
+      "Y": "4.4",
+      "PA": "150",
+      "Type": "HII_G",
+      "Catalog C": 36,
+      "Catalog NGC": "4559"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "11",
+      "Y": "5",
+      "Type": "GAL",
+      "mag": "10.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43/45",
+      "All PSA": "32/43/45"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E13"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C38 is \\degrees{2} S. U44 is \\degrees{4} to SW."
+    }
+  ],
+  "C37": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 303.004,
+      "delta": 26.478,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "OpCl",
+      "Catalog C": 37,
+      "Catalog NGC": "6885"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "20",
+      "Y": "20",
+      "Type": "OC",
+      "mag": "8.1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62/64",
+      "All PSA": "62/64"
+    }
+  ],
+  "C38": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 189.087,
+      "delta": 25.987,
+      "X": "13.8",
+      "Y": "2.2",
+      "PA": "135",
+      "Type": "LINER",
+      "Catalog C": 38,
+      "Catalog NGC": "4565"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "16",
+      "Y": "2",
+      "Type": "GAL",
+      "Name": "Needle Galaxy",
+      "mag": "9.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43/45",
+      "All PSA": "32/43/45"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E13"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C36 is \\degrees{2} N. U44 is \\degrees{3} to W."
+    }
+  ],
+  "C39": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 112.295,
+      "delta": 20.912,
+      "X": "0.7",
+      "Y": "0.7",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 39,
+      "Catalog NGC": "2392"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.8",
+      "Y": "0.7",
+      "Type": "PN",
+      "Name": "Eskimo Nebula",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "36"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "25",
+      "All PSA": "25"
+    },
+    {
+      "Provenance": "DSC:TMO"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E7"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "The open cluster NGC 2420 is \\degrees{2} N (see DSC:TCO)."
+    }
+  ],
+  "C40": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 170.016,
+      "delta": 18.357,
+      "X": "1.7",
+      "Y": "1.3",
+      "PA": "155",
+      "Type": "GinGroup",
+      "Catalog C": 40,
+      "Catalog NGC": "3626/3632"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "3.0",
+      "Y": "2.2",
+      "Type": "GAL",
+      "Catalog NGC": "3626",
+      "mag": "11.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "34",
+      "All PSA": "34"
+    }
+  ],
+  "C41": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 66.725,
+      "delta": 15.867,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "OpCl",
+      "Catalog C": 41,
+      "Catalog Mel": 25,
+      "Catalog Cr": 50
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "330",
+      "Y": "330",
+      "Type": "OC",
+      "Name": "Hyades",
+      "mag": "0.5"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "18"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "15",
+      "All PSA": "15"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E3"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Much bigger than the finder chart."
+    }
+  ],
+  "C42": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 315.373,
+      "delta": 16.188,
+      "X": "1.1",
+      "Y": "1",
+      "PA": "85",
+      "Type": "GlCl",
+      "Catalog C": 42,
+      "Catalog NGC": "7006"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "3.6",
+      "Y": "3.6",
+      "Type": "GC",
+      "mag": "10.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "64/75",
+      "All PSA": "64/75"
+    }
+  ],
+  "C43": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 0.812,
+      "delta": 16.145,
+      "X": "5",
+      "Y": "2.2",
+      "PA": "134",
+      "Type": "GinGroup",
+      "Catalog C": 43,
+      "Catalog NGC": "7814"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "6",
+      "Y": "2",
+      "Type": "GAL",
+      "mag": "10.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "5/74",
+      "All PSA": "5/74"
+    }
+  ],
+  "C44": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 346.236,
+      "delta": 12.323,
+      "X": "2.5",
+      "Y": "1",
+      "PA": "15",
+      "Type": "Seyfert_2",
+      "Catalog C": 44,
+      "Catalog NGC": "7479"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "4",
+      "Y": "3",
+      "Type": "GAL",
+      "mag": "10.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "74",
+      "All PSA": "74"
+    }
+  ],
+  "C45": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 204.383,
+      "delta": 8.885,
+      "X": "4.9",
+      "Y": "3.1",
+      "PA": "125",
+      "Type": "GinGroup",
+      "Catalog C": 45,
+      "Catalog NGC": "5248"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "6",
+      "Y": "5",
+      "Type": "GAL",
+      "mag": "10.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "44",
+      "All PSA": "44"
+    }
+  ],
+  "C46": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 99.791,
+      "delta": 8.736,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "Ae*",
+      "Catalog C": 46,
+      "Catalog NGC": "2261"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "4",
+      "Y": "2",
+      "Type": "BN",
+      "Name": "Hubble's Variable Nebula",
+      "mag": "10"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "25/E",
+      "All PSA": "25/E"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E7"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "The magnitude of the nebula is variable (DSC:TCO). U31 is \\degrees{1.25} NNE."
+    }
+  ],
+  "C47": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 308.547,
+      "delta": 7.404,
+      "X": "1.2",
+      "Y": "1.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 47,
+      "Catalog NGC": "6934"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "7.1",
+      "Y": "7.1",
+      "Type": "GC",
+      "mag": "8.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "64",
+      "All PSA": "64"
+    },
+    {
+      "Provenance": "AWF"
+    }
+  ],
+  "C48": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 137.584,
+      "delta": 7.038,
+      "X": "2.5",
+      "Y": "1.9",
+      "PA": "160",
+      "Type": "Galaxy",
+      "Catalog C": 48,
+      "Catalog NGC": "2775"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "5",
+      "Y": "4",
+      "Type": "GAL",
+      "mag": "10.1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "24/35",
+      "All PSA": "24/35"
+    }
+  ],
+  "C49": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 97.65,
+      "delta": 4.981,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "Cl*",
+      "Catalog C": 49,
+      "Catalog NGC": "2237"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "80",
+      "Y": "60",
+      "Type": "BN",
+      "Catalog NGC": "2237/38/46",
+      "Name": "Rosette Nebula",
+      "mag": "5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "25/E",
+      "All PSA": "25/E"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E9"
+    },
+    {
+      "Provenance": "AWF",
+      "alpha": 98.045,
+      "delta": 4.914
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b1 Ori Betelgeuse (mag 0.3--0.9) \\hop \\degrees{3} S \\hop \\degrees{7} E to 8 Mon \\hop \\degrees{2} E to C49",
+      "Notes": "Surrounding C50."
+    }
+  ],
+  "C50": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 98.045,
+      "delta": 4.914,
+      "X": "27.8",
+      "Y": "27.8",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 50,
+      "Catalog NGC": "2244/2239"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "30",
+      "Y": "30",
+      "Type": "OC",
+      "Catalog NGC": "2244",
+      "mag": "4.4"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "30"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "25/E",
+      "All PSA": "25/E"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E9"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b1 Ori Betelgeuse (mag 0.3--0.9) \\hop \\degrees{3} S \\hop \\degrees{7} E to 8 Mon \\hop \\degrees{2} E to C50/U30",
+      "Notes": "Surrounded by C49."
+    }
+  ],
+  "C51": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 16.226,
+      "delta": 2.133,
+      "X": "16.2",
+      "Y": "14.5",
+      "PA": "50",
+      "Type": "GinCl",
+      "Catalog C": 51,
+      "Catalog IC": 1613
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "19",
+      "Y": "17",
+      "Type": "GAL",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "5/7",
+      "All PSA": "5/7"
+    }
+  ],
+  "C52": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 192.15,
+      "delta": -5.801,
+      "X": "6.2",
+      "Y": "4",
+      "PA": "86",
+      "Type": "GinGroup",
+      "Catalog C": 52,
+      "Catalog NGC": "4697"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "7",
+      "Y": "5",
+      "Type": "GAL",
+      "mag": "9.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "47",
+      "All PSA": "45/47"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E12"
+    }
+  ],
+  "C53": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 151.308,
+      "delta": -7.719,
+      "X": "7.8",
+      "Y": "4",
+      "PA": "15",
+      "Type": "GinGroup",
+      "Catalog C": 53,
+      "Catalog NGC": "3115"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "7",
+      "Y": "3",
+      "Type": "GAL",
+      "Name": "The Spindle",
+      "mag": "8.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "37",
+      "All PSA": "37"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E10"
+    }
+  ],
+  "C54": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 120.01,
+      "delta": -10.773,
+      "X": "10.6",
+      "Y": "10.6",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 54,
+      "Catalog NGC": "2506",
+      "Catalog Mel": 80,
+      "Catalog Cr": 170
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "12",
+      "Y": "12",
+      "Type": "OC",
+      "mag": "7.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "26",
+      "All PSA": "26"
+    }
+  ],
+  "C55": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 316.045,
+      "delta": -11.363,
+      "X": "0.7",
+      "Y": "0.5",
+      "PA": "70",
+      "Type": "PN",
+      "Catalog C": 55,
+      "Catalog NGC": "7009"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.7",
+      "Y": "0.4",
+      "Type": "PN",
+      "Name": "Saturn Nebula",
+      "mag": "8.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "77",
+      "All PSA": "77"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E24"
+    }
+  ],
+  "C56": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 11.764,
+      "delta": -11.872,
+      "X": "3.7",
+      "Y": "3.7",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 56,
+      "Catalog NGC": "246",
+      "mag": "10.9"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "5",
+      "Y": "4",
+      "Type": "PN"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "7",
+      "All PSA": "7"
+    }
+  ],
+  "C57": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 296.234,
+      "delta": -14.798,
+      "X": "13.8",
+      "Y": "12.9",
+      "PA": "~",
+      "Type": "Galaxy",
+      "Catalog C": 57,
+      "Catalog NGC": "6822",
+      "Catalog IC": 4895
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "15",
+      "Type": "GAL",
+      "Name": "Barnard's Galaxy",
+      "mag": "7.9"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "27.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "66",
+      "All PSA": "66"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E22"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "U73 is \\degrees{0.7} NNW."
+    }
+  ],
+  "C58": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 109.443,
+      "delta": -15.631,
+      "X": "18.5",
+      "Y": "18.5",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 58,
+      "Catalog NGC": "2360",
+      "Catalog Mel": 64
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "14",
+      "Y": "14",
+      "Type": "OC",
+      "Name": "Caroline's Cluster",
+      "mag": "7.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "27",
+      "All PSA": "27"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E8"
+    }
+  ],
+  "C59": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 156.192,
+      "delta": -18.642,
+      "X": "0.6",
+      "Y": "0.6",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 59,
+      "Catalog NGC": "3242"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.8",
+      "Y": "0.6",
+      "Type": "PN",
+      "Name": "Ghost of Jupiter",
+      "mag": "7.3"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "43"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "36/37",
+      "All PSA": "36/37"
+    },
+    {
+      "Provenance": "DSC:TMO"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E10"
+    }
+  ],
+  "C60": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 180.471,
+      "delta": -18.868,
+      "X": "5.2",
+      "Y": "3.1",
+      "PA": "80",
+      "Type": "GinPair",
+      "Catalog C": 60,
+      "Catalog NGC": "4038"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "11",
+      "Y": "6",
+      "Type": "GAL",
+      "Name": "NW Antennae Galaxy",
+      "mag": "10.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "36/47",
+      "All PSA": "36/47"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C61 is \\arcmin{1.2} SW."
+    }
+  ],
+  "C61": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 180.474,
+      "delta": -18.885,
+      "X": "3.1",
+      "Y": "1.6",
+      "PA": "50",
+      "Type": "GinPair",
+      "Catalog C": 61,
+      "Catalog NGC": "4039"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "10",
+      "Y": "4",
+      "Type": "GAL",
+      "Name": "SE Antennae Galaxy",
+      "mag": "11.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "36/47",
+      "All PSA": "36/47"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C60 is \\arcmin{1.2} NW"
+    }
+  ],
+  "C62": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 11.786,
+      "delta": -20.76,
+      "X": "20.4",
+      "Y": "5.1",
+      "PA": "165",
+      "Type": "LSB_G",
+      "Catalog C": 62,
+      "Catalog NGC": "247"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "22",
+      "Y": "7",
+      "Type": "GAL",
+      "mag": "8.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "7",
+      "All PSA": "7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E0"
+    }
+  ],
+  "C63": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 337.411,
+      "delta": -20.837,
+      "X": "13.4",
+      "Y": "13.4",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 63,
+      "Catalog NGC": "7293"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "12",
+      "Y": "10",
+      "Type": "PN",
+      "Name": "Helix Nebula",
+      "mag": "6.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "76/77",
+      "All PSA": "76/77"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E24"
+    }
+  ],
+  "C64": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 109.671,
+      "delta": -24.954,
+      "X": "6.2",
+      "Y": "6.2",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 64,
+      "Catalog NGC": "2362"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "6",
+      "Y": "6",
+      "Type": "OC",
+      "Name": "$\\tau$ CMa Cluster",
+      "mag": "4.1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "27",
+      "All PSA": "27/29"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E6"
+    }
+  ],
+  "C65": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 11.888,
+      "delta": -25.289,
+      "X": "28.8",
+      "Y": "5.9",
+      "PA": "53",
+      "Type": "Seyfert",
+      "Catalog C": 65,
+      "Catalog NGC": "253"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "26",
+      "Y": "6",
+      "Type": "GAL",
+      "Name": "Sculpter Galaxy",
+      "mag": "7.1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "7/9",
+      "All PSA": "7/9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E0"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2 Cet Deneb Kaitos (mag 2.0) \\hop \\degrees{7} S \\hop \\degrees{1} E to C65"
+    }
+  ],
+  "C66": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 219.902,
+      "delta": -26.538,
+      "X": "0.7",
+      "Y": "0.7",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 66,
+      "Catalog NGC": "5694"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "4.3",
+      "Y": "4.3",
+      "Type": "GC",
+      "mag": "10.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "46",
+      "All PSA": "46/48/57/59"
+    }
+  ],
+  "C67": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 41.579,
+      "delta": -30.275,
+      "X": "10",
+      "Y": "6.2",
+      "PA": "140",
+      "Type": "LINER",
+      "Catalog C": 67,
+      "Catalog NGC": "1097"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "10",
+      "Y": "6",
+      "Type": "GAL",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "6/8",
+      "All PSA": "6/8/17/19"
+    }
+  ],
+  "C68": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 285.443,
+      "delta": -36.961,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "ISM",
+      "Catalog C": 68,
+      "Catalog NGC": "6729"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "1.3",
+      "Type": "BN",
+      "Name": "R CrA Nebula",
+      "mag": "9.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "69",
+      "All PSA": "67/69"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "The morphology and magnitude of the nebula are variable (DSC:TCO)."
+    }
+  ],
+  "C69": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 258.435,
+      "delta": -37.103,
+      "X": "0.7",
+      "Y": "0.7",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 69,
+      "Catalog NGC": "6302"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "1.4",
+      "Y": "0.4",
+      "Type": "PN",
+      "Name": "Bug Nebula",
+      "mag": "9.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58",
+      "All PSA": "58"
+    }
+  ],
+  "C70": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 13.723,
+      "delta": -37.684,
+      "X": "20.9",
+      "Y": "13.5",
+      "PA": "114",
+      "Type": "GinGroup",
+      "Catalog C": 70,
+      "Catalog NGC": "300"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "20",
+      "Y": "13",
+      "Type": "GAL",
+      "mag": "7.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "9",
+      "All PSA": "9"
+    }
+  ],
+  "C71": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 118.046,
+      "delta": -38.537,
+      "X": "18",
+      "Y": "18",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 71,
+      "Catalog NGC": "2477",
+      "Catalog Mel": 78
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "20",
+      "Y": "20",
+      "Type": "OC",
+      "mag": "5.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "28",
+      "All PSA": "28"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S6"
+    }
+  ],
+  "C72": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 3.723,
+      "delta": -39.197,
+      "X": "32.4",
+      "Y": "4",
+      "PA": "101",
+      "Type": "GinGroup",
+      "Catalog C": 72,
+      "Catalog NGC": "55"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "34",
+      "Y": "6",
+      "Type": "GAL",
+      "mag": "7.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "9",
+      "All PSA": "9/78"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S0"
+    }
+  ],
+  "C73": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 78.528,
+      "delta": -40.047,
+      "X": "1",
+      "Y": "1",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 73,
+      "Catalog NGC": "1851"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "12",
+      "Y": "12",
+      "Type": "GC",
+      "mag": "7.1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "18",
+      "All PSA": "18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S0"
+    }
+  ],
+  "C74": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 151.757,
+      "delta": -40.436,
+      "X": "0.8",
+      "Y": "0.8",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 74,
+      "Catalog NGC": "3132"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "1.4",
+      "Y": "0.9",
+      "Type": "PN",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "39",
+      "All PSA": "39"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S6"
+    }
+  ],
+  "C75": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 246.332,
+      "delta": -40.661,
+      "X": "48.1",
+      "Y": "48.1",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 75,
+      "Catalog NGC": "6124"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "40",
+      "Y": "40",
+      "Type": "OC",
+      "mag": "5.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58",
+      "All PSA": "58"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S21"
+    }
+  ],
+  "C76": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 253.535,
+      "delta": -41.827,
+      "X": "14",
+      "Y": "14",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog C": 76,
+      "Catalog NGC": "6231",
+      "Catalog Cr": 315
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "14",
+      "Y": "14",
+      "Type": "OC",
+      "mag": "2.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58",
+      "All PSA": "58"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S21"
+    }
+  ],
+  "C77": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 201.365,
+      "delta": -43.019,
+      "X": "25.7",
+      "Y": "17.8",
+      "PA": "33",
+      "Type": "Seyfert_2",
+      "Catalog C": 77,
+      "Catalog NGC": "5128"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "17",
+      "Y": "13",
+      "Type": "GAL",
+      "Name": "Cen A",
+      "mag": "6.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "48/49",
+      "All PSA": "48/49"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S15"
+    }
+  ],
+  "C78": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 272.01,
+      "delta": -43.715,
+      "X": "2.4",
+      "Y": "2.4",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 78,
+      "Catalog NGC": "6541"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "15",
+      "Type": "GC",
+      "mag": "6.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "69",
+      "All PSA": "58/69"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S21"
+    }
+  ],
+  "C79": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 154.403,
+      "delta": -46.412,
+      "X": "5.4",
+      "Y": "5.4",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 79,
+      "Catalog NGC": "3201"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "20",
+      "Y": "20",
+      "Type": "GC",
+      "mag": "6.7"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "39",
+      "All PSA": "39"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S6"
+    }
+  ],
+  "C80": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 201.697,
+      "delta": -47.479,
+      "X": "8.4",
+      "Y": "8.4",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 80,
+      "Catalog NGC": "5139"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "55",
+      "Y": "55",
+      "Type": "GC",
+      "Name": "$\\omega$ Cen",
+      "mag": "3.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "48/49",
+      "All PSA": "48/49/59"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S15"
+    }
+  ],
+  "C81": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 261.371,
+      "delta": -48.422,
+      "X": "14.4",
+      "Y": "14.4",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 81,
+      "Catalog NGC": "6352"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "9",
+      "Y": "9",
+      "Type": "GC",
+      "mag": "7.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58",
+      "All PSA": "58/69"
+    }
+  ],
+  "C82": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 250.319,
+      "delta": -48.777,
+      "X": "18.7",
+      "Y": "18.7",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 82,
+      "Catalog NGC": "6193"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "14",
+      "Y": "14",
+      "Type": "OC",
+      "mag": "4.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58",
+      "All PSA": "58"
+    }
+  ],
+  "C83": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 196.364,
+      "delta": -49.468,
+      "X": "20.4",
+      "Y": "4.3",
+      "PA": "43",
+      "Type": "Seyfert_2",
+      "Catalog C": 83,
+      "Catalog NGC": "4945"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "19",
+      "Y": "4",
+      "Type": "GAL",
+      "mag": "8.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "49",
+      "All PSA": "38/49"
+    }
+  ],
+  "C84": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 206.612,
+      "delta": -51.374,
+      "X": "1.4",
+      "Y": "1.4",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 84,
+      "Catalog NGC": "5286"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "11",
+      "Y": "11",
+      "Type": "GC",
+      "mag": "7.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "48",
+      "All PSA": "48/59"
+    }
+  ],
+  "C85": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 130.292,
+      "delta": -52.991,
+      "X": "97.7",
+      "Y": "97.7",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 85,
+      "Catalog IC": 2391,
+      "Name": "$\\omicron$ Vel Cluster"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "60",
+      "Y": "60",
+      "Type": "OC",
+      "mag": "2.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "28",
+      "All PSA": "28/39"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S6"
+    }
+  ],
+  "C86": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 265.175,
+      "delta": -53.674,
+      "X": "4.7",
+      "Y": "4.7",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 86,
+      "Catalog NGC": "6397"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "31",
+      "Y": "31",
+      "Type": "GC",
+      "mag": "5.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58",
+      "All PSA": "58/69"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S18"
+    }
+  ],
+  "C87": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 48.068,
+      "delta": -55.216,
+      "X": "10.2",
+      "Y": "10.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 87,
+      "Catalog NGC": "1261"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "6.8",
+      "Y": "6.8",
+      "Type": "GC",
+      "mag": "8.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "19",
+      "All PSA": "8/19/20"
+    }
+  ],
+  "C88": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 226.365,
+      "delta": -55.608,
+      "X": "16.1",
+      "Y": "16.1",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 88,
+      "Catalog NGC": "5823",
+      "Catalog Mel": 131
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "12",
+      "Y": "12",
+      "Type": "OC",
+      "mag": "7.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "59",
+      "All PSA": "48/59/60"
+    }
+  ],
+  "C89": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 244.721,
+      "delta": -57.916,
+      "X": "29.5",
+      "Y": "29.5",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 89,
+      "Catalog NGC": "6087",
+      "Name": "S Nor Cluster"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "15",
+      "Type": "OC",
+      "mag": "5.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58/60",
+      "All PSA": "48/58/60"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S18"
+    }
+  ],
+  "C90": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 140.356,
+      "delta": -58.311,
+      "X": "0.3",
+      "Y": "0.3",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 90,
+      "Catalog NGC": "2867"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.2",
+      "Y": "0.2",
+      "Type": "PN",
+      "mag": "9.7"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "39",
+      "All PSA": "28/39/40"
+    }
+  ],
+  "C91": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 166.417,
+      "delta": -58.707,
+      "X": "64.3",
+      "Y": "64.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 91,
+      "Catalog NGC": "3532"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "50",
+      "Y": "50",
+      "Type": "OC",
+      "mag": "3.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "38/40",
+      "All PSA": "38/40/49"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S9"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C90 is \\degrees{2.5} SW."
+    }
+  ],
+  "C92": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 161.259,
+      "delta": -59.7,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "HII",
+      "Catalog C": 92,
+      "Catalog NGC": "3372"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "120",
+      "Y": "120",
+      "Type": "BN",
+      "Name": "$\\eta$ Car Nebula",
+      "mag": "4.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "38/40",
+      "All PSA": "38/40/49"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S9"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "The nebula is variable in magnitude. C91 is \\degrees{2.5} NE."
+    }
+  ],
+  "C93": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 287.717,
+      "delta": -59.985,
+      "X": "26.4",
+      "Y": "26.4",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 93,
+      "Catalog NGC": "6752"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "29",
+      "Y": "29",
+      "Type": "GC",
+      "mag": "5.4"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "69/70",
+      "All PSA": "69/70"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S24"
+    }
+  ],
+  "C94": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 193.415,
+      "delta": -60.371,
+      "X": "10.3",
+      "Y": "10.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 94,
+      "Catalog NGC": "4755",
+      "Catalog Mel": 114
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "10",
+      "Y": "10",
+      "Type": "OC",
+      "Name": "Jewel Box",
+      "mag": "4.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "49/50",
+      "All PSA": "38/49/50"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S12"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "The northern edge of C99 is \\degrees{1} S."
+    }
+  ],
+  "C95": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 240.779,
+      "delta": -60.43,
+      "X": "35",
+      "Y": "35",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 95,
+      "Catalog NGC": "6025"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "15",
+      "Type": "OC",
+      "mag": "5.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "59/60",
+      "All PSA": "59/60"
+    }
+  ],
+  "C96": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 119.527,
+      "delta": -60.8,
+      "X": "59.5",
+      "Y": "59.5",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 96,
+      "Catalog NGC": "2516",
+      "Name": "Southern Beehive Cluster"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "22",
+      "Y": "22",
+      "Type": "OC",
+      "mag": "3.5"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "28/30",
+      "All PSA": "28/30/39"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S3"
+    }
+  ],
+  "C97": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 174.061,
+      "delta": -61.616,
+      "X": "13.9",
+      "Y": "13.9",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 97,
+      "Catalog NGC": "3766",
+      "Catalog Cr": 248
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "15",
+      "Y": "15",
+      "Type": "OC",
+      "mag": "5.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "38/40",
+      "All PSA": "38/40/49"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S12"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C100 is \\degrees{1.8} S."
+    }
+  ],
+  "C98": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 190.582,
+      "delta": -62.995,
+      "X": "13",
+      "Y": "13",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog C": 98,
+      "Catalog NGC": "4609"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "6",
+      "Y": "6",
+      "Type": "OC",
+      "Name": "Coalsack Cluster",
+      "mag": "6.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "49/50",
+      "All PSA": "38/49/50"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Surrounded by C99."
+    }
+  ],
+  "C99": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 187.829,
+      "delta": -63.743,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "DkNeb",
+      "Catalog C": 99
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "420",
+      "Y": "300",
+      "Type": "DN",
+      "Name": "Coalsack"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "49/50",
+      "All PSA": "38/49/50"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S12"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Much bigger than the finder chart. Surrounds C98. C94 is \\degrees{1} N of the northern edge."
+    }
+  ],
+  "C100": [
+    {
+      "Provenance": "SIMBAD",
+      "Catalog C": 100
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "alpha": 174.575,
+      "delta": -63.367,
+      "X": "65",
+      "Y": "40",
+      "Type": "OC",
+      "Catalog Cr": 249,
+      "Name": "$\\lambda$ Cen Cluster",
+      "mag": "2.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "38/40",
+      "All PSA": "38/40/49/50"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C97 is \\degrees{1.8} N."
+    }
+  ],
+  "C101": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 287.442,
+      "delta": -63.857,
+      "X": "17.4",
+      "Y": "11",
+      "PA": "16",
+      "Type": "GinGroup",
+      "Catalog C": 101,
+      "Catalog NGC": "6744"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "21",
+      "Y": "13",
+      "Type": "GAL",
+      "mag": "8.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "70",
+      "All PSA": "70"
+    }
+  ],
+  "C102": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 160.613,
+      "delta": -64.426,
+      "X": "173.9",
+      "Y": "173.9",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog C": 102,
+      "Catalog IC": 2602,
+      "Catalog Mel": 102,
+      "Catalog Cr": 229
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "100",
+      "Y": "100",
+      "Type": "OC",
+      "Name": "$\\theta$ Car Cluster",
+      "mag": "1.9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "38/40",
+      "All PSA": "38/40"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S9"
+    }
+  ],
+  "C103": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 84.675,
+      "delta": -69.1,
+      "X": "3.5",
+      "Y": "3.5",
+      "PA": "~",
+      "Type": "Cl*",
+      "Catalog C": 103,
+      "Catalog NGC": "2070",
+      "Name": "Tarantula Nebula"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "30",
+      "Y": "20",
+      "Type": "BN",
+      "mag": "4.0/8.3"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "20/30/D",
+      "All PSA": "20/30/D"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S3"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "The nebula is magnitude 4.0 (DSC:TCO). the cluster is magnitude 8.3 and has a diameter of \\arcmin{5} (DSC:TCO)."
+    }
+  ],
+  "C104": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 15.809,
+      "delta": -70.849,
+      "X": "1.6",
+      "Y": "1.6",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 104,
+      "Catalog NGC": "362",
+      "Catalog Mel": 4
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "14",
+      "Y": "14",
+      "Type": "GC",
+      "mag": "6.4"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "10/80",
+      "All PSA": "10/20/80"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S0"
+    }
+  ],
+  "C105": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 194.891,
+      "delta": -70.877,
+      "X": "10.8",
+      "Y": "10.8",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 105,
+      "Catalog NGC": "4833"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "14",
+      "Y": "14",
+      "Type": "GC",
+      "mag": "8.4"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "50",
+      "All PSA": "40/50"
+    }
+  ],
+  "C106": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 6.022,
+      "delta": -72.081,
+      "X": "43.8",
+      "Y": "43.8",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 106,
+      "Catalog NGC": "104",
+      "Catalog Mel": 1
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "50",
+      "Y": "50",
+      "Type": "GC",
+      "Name": "47 Tuc",
+      "mag": "4.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "10/80",
+      "All PSA": "10/80"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "S0"
+    }
+  ],
+  "C107": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 246.451,
+      "delta": -72.202,
+      "X": "9",
+      "Y": "9",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 107,
+      "Catalog NGC": "6101"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "11",
+      "Y": "11",
+      "Type": "GC",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "60",
+      "All PSA": "50/60/70"
+    }
+  ],
+  "C108": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 186.439,
+      "delta": -72.659,
+      "X": "24",
+      "Y": "24",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog C": 108,
+      "Catalog NGC": "4372"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "5",
+      "Y": "5",
+      "Type": "GC",
+      "mag": "7.2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "40/50",
+      "All PSA": "40/50"
+    }
+  ],
+  "C109": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 152.337,
+      "delta": -80.859,
+      "X": "0.7",
+      "Y": "0.7",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog C": 109,
+      "Catalog NGC": "3195"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "0.6",
+      "Y": "0.6",
+      "Type": "PN",
+      "mag": "11.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "40",
+      "All PSA": "10/20/30/40/50/60"
+    }
+  ],
+  "M1": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 83.633,
+      "delta": 22.014,
+      "X": "7",
+      "Y": "5",
+      "PA": "~",
+      "Type": "SNR",
+      "Catalog M": 1,
+      "Catalog NGC": "1952"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "PA": "0",
+      "Type": "BN"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "14",
+      "All PSA": "14",
+      "Name": "Crab Nebula"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "6",
+      "Y": "4",
+      "mag": "8.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Tau",
+      "CSA": "3/9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E3"
+    }
+  ],
+  "M2": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 323.363,
+      "delta": -0.823,
+      "X": "1.9",
+      "Y": "1.9",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 2,
+      "Catalog NGC": "7089"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "81"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "75/77",
+      "All PSA": "75/77"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "16",
+      "Y": "16",
+      "mag": "6.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Aqr",
+      "CSA": "13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E24"
+    }
+  ],
+  "M3": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 205.548,
+      "delta": 28.377,
+      "X": "2.2",
+      "Y": "2.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 3,
+      "Catalog NGC": "5272",
+      "Catalog Mel": 3
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "51"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43/44",
+      "All PSA": "43/44"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "19",
+      "Y": "19",
+      "mag": "5.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "CVn",
+      "CSA": "5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E15"
+    }
+  ],
+  "M4": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 245.897,
+      "delta": -26.526,
+      "X": "7.3",
+      "Y": "7.3",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 4,
+      "Catalog NGC": "6121"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "53"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "56/58",
+      "All PSA": "56/58"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "36",
+      "Y": "36",
+      "mag": "5.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sco",
+      "CSA": "11/12/17/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E18"
+    }
+  ],
+  "M5": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 229.638,
+      "delta": 2.081,
+      "X": "4.2",
+      "Y": "4.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 5,
+      "Catalog NGC": "5904"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "52"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "55/57",
+      "All PSA": "55/57",
+      "mag": "5.7"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "23",
+      "Y": "23"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Ser",
+      "CSA": "11/12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E15"
+    }
+  ],
+  "M6": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 265.069,
+      "delta": -32.242,
+      "X": "20",
+      "Y": "20",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog M": 6,
+      "Catalog NGC": "6405"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58/69",
+      "All PSA": "56/58/67/69",
+      "Name": "Butterfly Nebula"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "60"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "33",
+      "Y": "33",
+      "mag": "4.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sco",
+      "CSA": "18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E18"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03bb Sco Shaula (mag 1.6) \\hop \\degrees{5} N \\hop \\degrees{1} E to M6/U60"
+    }
+  ],
+  "M7": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 268.447,
+      "delta": -34.841,
+      "X": "100.1",
+      "Y": "100.1",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 7,
+      "Catalog NGC": "6475"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "62"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58/69",
+      "All PSA": "58/67/69"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "75",
+      "Y": "75",
+      "mag": "2.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sco",
+      "CSA": "18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E18"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b5 Sgr Kaus Australis (mag 1.8) \\hop \\degrees{6} W to M7/U62"
+    }
+  ],
+  "M8": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 270.904,
+      "delta": -24.387,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "HII",
+      "Catalog M": 8
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "BN"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67/69",
+      "Name": "Lagoon Nebula"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "45",
+      "Y": "30",
+      "PA": "0",
+      "Catalog NGC": "6523/6530",
+      "mag": "3.0"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "64"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{6} N to M8/U64",
+      "Notes": "M20 is \\degrees{1.5} N.  M21 is \\degrees{2.0} N."
+    }
+  ],
+  "M9": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 259.799,
+      "delta": -18.516,
+      "X": "8.7",
+      "Y": "8.7",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 9,
+      "Catalog NGC": "6333"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "56",
+      "All PSA": "56"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "12",
+      "Y": "12",
+      "mag": "7.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Oph",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E17"
+    }
+  ],
+  "M10": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 254.288,
+      "delta": -4.1,
+      "X": "3.6",
+      "Y": "3.6",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 10,
+      "Catalog NGC": "6254"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "57",
+      "mag": "6.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "54/56",
+      "All PSA": "54/56"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "20",
+      "Y": "20"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Oph",
+      "CSA": "12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E17"
+    }
+  ],
+  "M11": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 282.766,
+      "delta": -6.272,
+      "X": "8.9",
+      "Y": "8.9",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 11,
+      "Catalog NGC": "6705",
+      "Catalog Mel": 213,
+      "Catalog Cr": 391
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "65/67",
+      "All PSA": "65/67",
+      "Name": "Wild Duck Cluster"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "69"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "13",
+      "Y": "13",
+      "mag": "5.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sct",
+      "CSA": "12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E19"
+    }
+  ],
+  "M12": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 251.809,
+      "delta": -1.949,
+      "X": "4.3",
+      "Y": "4.3",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 12,
+      "Catalog NGC": "6218"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "56"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "54/56",
+      "All PSA": "54/56"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "16",
+      "Y": "16",
+      "mag": "6.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Oph",
+      "CSA": "12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E17"
+    }
+  ],
+  "M13": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 250.423,
+      "delta": 36.461,
+      "X": "33",
+      "Y": "33",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 13,
+      "Catalog NGC": "6205"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "52",
+      "All PSA": "52",
+      "Name": "Hercules Cluster"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "54"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "20",
+      "Y": "20",
+      "mag": "5.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Her",
+      "CSA": "5/6"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N14"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b6 Her (mag 2.8)\\hop \\degrees{5} N (2/3 distance to \u03b7 Her) to M13/U54"
+    }
+  ],
+  "M14": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 264.401,
+      "delta": -3.246,
+      "X": "13.5",
+      "Y": "13.5",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 14,
+      "Catalog NGC": "6402"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "54",
+      "All PSA": "54/56/67"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "11",
+      "Y": "11",
+      "mag": "7.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Oph",
+      "CSA": "12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E17"
+    }
+  ],
+  "M15": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 322.493,
+      "delta": 12.167,
+      "X": "22.2",
+      "Y": "22.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 15,
+      "Catalog NGC": "7078"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "80"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "75",
+      "All PSA": "75"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "18",
+      "Y": "18",
+      "mag": "6.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Peg",
+      "CSA": "13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E23"
+    }
+  ],
+  "M16": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 274.688,
+      "delta": -13.792,
+      "X": "5.1",
+      "Y": "5.1",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog M": 16,
+      "Catalog NGC": "6611",
+      "Catalog IC": 4703
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67",
+      "Name": "Eagle Nebula"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "35",
+      "Y": "28",
+      "Type": "BN",
+      "mag": "6.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Ser",
+      "CSA": "12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{4} E \\hop \\degrees{4} S to M16\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{7} N \\hop \\degrees{1} E to M16"
+    }
+  ],
+  "M17": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 275.196,
+      "delta": -16.172,
+      "X": "1.6",
+      "Y": "1.6",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog M": 17,
+      "Catalog NGC": "6618"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67",
+      "Name": "Omega Nebula"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "65"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "20",
+      "Y": "15",
+      "Type": "BN",
+      "mag": "6.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{6} S to M17/U65\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{5} N passing M24 and M18 \\hop \\degrees{2} E to M17",
+      "Notes": "M18 is \\degrees{1} S. M24 is  \\degrees{3} SW."
+    }
+  ],
+  "M18": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 274.989,
+      "delta": -17.089,
+      "X": "5",
+      "Y": "5",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog M": 18,
+      "Catalog NGC": "6613"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7",
+      "Y": "7",
+      "mag": "6.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{7} S passing M17/U65 to M18\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{4} N passing M24 \\hop \\degrees{2} E to M18",
+      "Notes": "M17/U65 is \\degrees{1} N. M24 is \\degrees{2} SW."
+    }
+  ],
+  "M19": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 255.657,
+      "delta": -26.268,
+      "X": "9.6",
+      "Y": "9.6",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 19,
+      "Catalog NGC": "6273"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "56",
+      "All PSA": "56/58"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "17",
+      "Y": "17",
+      "mag": "6.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Oph",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E18"
+    }
+  ],
+  "M20": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 270.675,
+      "delta": -22.972,
+      "X": "28",
+      "Y": "28",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog M": 20,
+      "Catalog NGC": "6514",
+      "Catalog Cr": 360
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67/69",
+      "Name": "Trifid Nebula"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "20",
+      "Y": "20",
+      "Type": "BN",
+      "mag": "6.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{7.5} N passing M8/U64 to M20",
+      "Notes": "M8/U64 is \\degrees{1.5} S. M21 is \\degrees{0.5} NE."
+    }
+  ],
+  "M21": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 271.036,
+      "delta": -22.505,
+      "X": "14",
+      "Y": "14",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog M": 21,
+      "Catalog NGC": "6531"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67/69"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "16",
+      "Y": "16",
+      "mag": "5.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{8.0} N passing M8/U64 and M20 to M21",
+      "Notes": "M8/U64 is \\degrees{2.0} S. M20 is \\degrees{0.5} SW."
+    }
+  ],
+  "M22": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 279.1,
+      "delta": -23.905,
+      "X": "6.5",
+      "Y": "6.5",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 22,
+      "Catalog NGC": "6656"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "67"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67/69"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "32",
+      "Y": "32",
+      "mag": "5.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    }
+  ],
+  "M23": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 269.237,
+      "delta": -18.987,
+      "X": "35",
+      "Y": "35",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 23,
+      "Catalog NGC": "6494"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "25",
+      "Y": "25",
+      "mag": "5.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    }
+  ],
+  "M24": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 274.2,
+      "delta": -18.55,
+      "X": "120",
+      "Y": "60",
+      "PA": "90",
+      "Type": "Assoc*",
+      "Catalog M": 24,
+      "Catalog IC": 4715
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "120",
+      "Y": "60",
+      "PA": "60",
+      "Type": "SC",
+      "mag": "2.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M18 is \\degrees{1.5} NE. M17/U65 is \\degrees{3} NE."
+    }
+  ],
+  "M25": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 277.937,
+      "delta": -19.114,
+      "X": "31.3",
+      "Y": "31.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 25,
+      "Catalog IC": 4725
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "26",
+      "Y": "26",
+      "mag": "4.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    }
+  ],
+  "M26": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 281.317,
+      "delta": -9.386,
+      "X": "7.1",
+      "Y": "7.1",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 26,
+      "Catalog NGC": "6694"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10",
+      "Y": "10",
+      "mag": "8.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sct",
+      "CSA": "12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E19"
+    }
+  ],
+  "M27": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 299.902,
+      "delta": 22.721,
+      "X": "0.1",
+      "Y": "0.1",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog M": 27,
+      "Catalog NGC": "6853"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "64",
+      "All PSA": "62/64",
+      "Name": "Dumbell Nebula"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "75"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8",
+      "Y": "6",
+      "mag": "7.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vul",
+      "CSA": "6/7/12/13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E21"
+    },
+    {
+      "Provenance": "AWF"
+    }
+  ],
+  "M28": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 276.137,
+      "delta": -24.87,
+      "X": "3.1",
+      "Y": "3.1",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 28,
+      "Catalog NGC": "6626"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67/I",
+      "All PSA": "67/69/I"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "13.8",
+      "Y": "13.8",
+      "mag": "6.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    }
+  ],
+  "M29": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 305.943,
+      "delta": 38.487,
+      "X": "12.7",
+      "Y": "12.7",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 29,
+      "Catalog NGC": "6913"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10",
+      "Y": "10",
+      "mag": "6.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cyg",
+      "CSA": "6/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N20"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b3 Cyg Sadr (mag 2.2) \\hop \\degrees{1.8} S to M29"
+    }
+  ],
+  "M30": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 325.092,
+      "delta": -23.18,
+      "X": "2.3",
+      "Y": "2.3",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 30,
+      "Catalog NGC": "7099"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "77",
+      "All PSA": "77"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "12",
+      "Y": "12",
+      "mag": "6.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cap",
+      "CSA": "13/19"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E22"
+    }
+  ],
+  "M31": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 10.685,
+      "delta": 41.269,
+      "X": "199.5",
+      "Y": "70.8",
+      "PA": "35",
+      "Type": "Galaxy",
+      "Catalog M": 31,
+      "Catalog NGC": "224"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "3/72",
+      "Name": "Andromeda Galaxy"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "3"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "180",
+      "Y": "60",
+      "mag": "3.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "And",
+      "CSA": "2/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N0"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to M31/U3",
+      "Notes": "M32/U2 is \\degrees{0.5} S. M100 is \\degrees{0.5} NW."
+    }
+  ],
+  "M32": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 10.674,
+      "delta": 40.865,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "IG",
+      "Catalog M": 32,
+      "Catalog NGC": "221"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "X": "11",
+      "Y": "7",
+      "PA": "170"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "3/72"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "11",
+      "Y": "7.3",
+      "mag": "8.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "And",
+      "CSA": "2/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N0"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{2.5} W \\hop \\degrees{2.5} N to M32/U2",
+      "Notes": "M31/U3 is \\degrees{0.5} N. M110 is \\degrees{1} NW."
+    }
+  ],
+  "M33": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 23.462,
+      "delta": 30.66,
+      "X": "60.3",
+      "Y": "35.5",
+      "PA": "22",
+      "Type": "GinGroup",
+      "Catalog M": 33,
+      "Catalog NGC": "598"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "2/3/4/5"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "67",
+      "Y": "41.5",
+      "mag": "5.7"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Tri",
+      "CSA": "2"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N0"
+    }
+  ],
+  "M34": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 40.531,
+      "delta": 42.722,
+      "X": "48.4",
+      "Y": "48.4",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 34,
+      "Catalog NGC": "1039"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "2/13"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "25",
+      "Y": "25",
+      "mag": "5.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Per",
+      "CSA": "2/3"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N4"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2~Per Algol (mag 2.1--3.4) \\hop \\degrees{2.0} N (1/2 distance to \u03ba~Per) \\hop \\degrees{4.5} W (2/5 distance to \u03b3~And) to M34\\\\"
+    }
+  ],
+  "M35": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 92.272,
+      "delta": 24.336,
+      "X": "38.3",
+      "Y": "38.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 35,
+      "Catalog NGC": "2168"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "27"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "14",
+      "All PSA": "12/14/23/25"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "25",
+      "Y": "25",
+      "mag": "5.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Gem",
+      "CSA": "3/9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E7"
+    }
+  ],
+  "M36": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 84.084,
+      "delta": 34.135,
+      "X": "10.3",
+      "Y": "10.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 36,
+      "Catalog NGC": "1960"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "23"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "12",
+      "All PSA": "12/14"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10",
+      "Y": "10",
+      "mag": "6.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Aur",
+      "CSA": "3"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N6"
+    }
+  ],
+  "M37": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 88.074,
+      "delta": 32.545,
+      "X": "19.3",
+      "Y": "19.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 37,
+      "Catalog NGC": "2099"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "26"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "12",
+      "All PSA": "12/14/23/25"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "15",
+      "Y": "15",
+      "mag": "5.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Aur",
+      "CSA": "3"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N6"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2 Tau Elnath (mag 1.7) \\hop \\degrees{6} W to point \\degrees{1} N of 136 Tau \\hop \\degrees{4} N to M37/U26"
+    }
+  ],
+  "M38": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 82.167,
+      "delta": 35.824,
+      "X": "19.6",
+      "Y": "19.6",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 38,
+      "Catalog NGC": "1912"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "22"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "12",
+      "All PSA": "12/14"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "15",
+      "Y": "15",
+      "mag": "6.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Aur",
+      "CSA": "3"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N6"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2 Tau Elnath (mag 1.7) \\hop \\degrees{7} N to M38/U23",
+      "Notes": "M36/U23 is \\degrees{2.5} SE."
+    }
+  ],
+  "M39": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 322.889,
+      "delta": 48.247,
+      "X": "120.4",
+      "Y": "120.4",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 39,
+      "Catalog NGC": "7092"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "82"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "73",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "31",
+      "Y": "31",
+      "mag": "4.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cyg",
+      "CSA": "1/6/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N24"
+    }
+  ],
+  "M40": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 185.55,
+      "delta": 58.08,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "Unknown",
+      "Catalog M": 40
+    },
+    {
+      "Provenance": "AWF",
+      "Type": "DS"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "0.9",
+      "mag": "9.0/9.6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "32",
+      "All PSA": "32/41/43"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "UMa",
+      "CSA": "1/4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N10"
+    }
+  ],
+  "M41": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 101.499,
+      "delta": -20.716,
+      "X": "39.8",
+      "Y": "39.8",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 41,
+      "Catalog NGC": "2287"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "33"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "27",
+      "All PSA": "27"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "39",
+      "Y": "39",
+      "mag": "4.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "CMa",
+      "CSA": "9/15"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E6"
+    },
+    {
+      "Provenance": "AMW",
+      "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{4} S to M41/U33"
+    }
+  ],
+  "M42": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 83.822,
+      "delta": -5.391,
+      "X": "5.5",
+      "Y": "5.5",
+      "PA": "90",
+      "Type": "HII",
+      "Catalog M": 42,
+      "Catalog NGC": "1976"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "BN"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "16/B",
+      "All PSA": "16/B",
+      "Name": "Orion Nebula"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "90",
+      "Y": "60",
+      "mag": "3.7"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "24"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Ori",
+      "CSA": "9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E4"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N."
+    }
+  ],
+  "M43": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 83.879,
+      "delta": -5.27,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "HII",
+      "Catalog M": 43,
+      "Catalog NGC": "1982"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "BN"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "20",
+      "Y": "15",
+      "mag": "6.8"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "16/B",
+      "All PSA": "16/B"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Ori",
+      "CSA": "9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E4"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N."
+    }
+  ],
+  "M44": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 130.054,
+      "delta": 19.621,
+      "X": "118.2",
+      "Y": "118.2",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 44,
+      "Catalog NGC": "2632",
+      "Catalog Mel": 88
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "24",
+      "All PSA": "24/35",
+      "Name": "Beehive Cluster"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "39"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "70",
+      "Y": "70",
+      "mag": "3.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cnc",
+      "CSA": "3/4/9/10"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E9"
+    }
+  ],
+  "M45": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 56.601,
+      "delta": 24.114,
+      "X": "1200",
+      "Y": "1200",
+      "PA": "90",
+      "Type": "OpCl",
+      "Catalog M": 45,
+      "Catalog Mel": 22
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "15/A",
+      "All PSA": "13/15/A",
+      "Name": "Pleiades"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "17"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "120",
+      "Y": "120",
+      "mag": "1.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Tau",
+      "CSA": "2/3/8/9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E3"
+    }
+  ],
+  "M46": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 115.445,
+      "delta": -14.844,
+      "X": "25.3",
+      "Y": "25.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 46,
+      "Catalog NGC": "2437"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "26",
+      "All PSA": "26/27"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "20",
+      "Y": "20",
+      "mag": "6.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Pup",
+      "CSA": "9/10/15/16"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E8"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M47 is \\degrees{1.3} W."
+    }
+  ],
+  "M47": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 114.147,
+      "delta": -14.489,
+      "X": "31.1",
+      "Y": "31.1",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 47,
+      "Catalog NGC": "2422"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "27",
+      "All PSA": "26/27"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "25",
+      "Y": "25",
+      "mag": "4.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Pup",
+      "CSA": "9/10/15/16"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E8"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M46 is \\degrees{1.3} E."
+    }
+  ],
+  "M48": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 123.412,
+      "delta": -5.726,
+      "X": "44.3",
+      "Y": "44.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 48,
+      "Catalog NGC": "2548"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "38"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "26",
+      "All PSA": "26"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "30",
+      "Y": "30",
+      "mag": "5.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Hya",
+      "CSA": "9/10"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E10"
+    }
+  ],
+  "M49": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 187.445,
+      "delta": 8.0,
+      "X": "11",
+      "Y": "8.9",
+      "PA": "157",
+      "Type": "Seyfert_2",
+      "Catalog M": 49,
+      "Catalog NGC": "4472"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8.1",
+      "Y": "7.1",
+      "mag": "8.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M50": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 105.698,
+      "delta": -8.338,
+      "X": "31.6",
+      "Y": "31.6",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 50,
+      "Catalog NGC": "2323"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "35"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "27",
+      "All PSA": "27"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "15",
+      "Y": "15",
+      "mag": "5.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Mon",
+      "CSA": "9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E8"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{3} E to \u03b9 CMa \\hop \\degrees{5} N passing \u03bc CMa to \u03b8 CMa \\hop \\degrees{4} N to asterism of three stars \\hop \\degrees{2} E to M50/U35"
+    }
+  ],
+  "M51": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 202.47,
+      "delta": 47.195,
+      "X": "10",
+      "Y": "7.6",
+      "PA": "163",
+      "Type": "GinPair",
+      "Catalog M": 51,
+      "Catalog NGC": "5194"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43",
+      "All PSA": "32/43",
+      "Name": "Whirlpool Galaxy"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "11.2",
+      "Y": "6.9",
+      "mag": "8.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "CVn",
+      "CSA": "4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N12"
+    }
+  ],
+  "M52": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 351.195,
+      "delta": 61.59,
+      "X": "16",
+      "Y": "16",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 52,
+      "Catalog NGC": "7654"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "72",
+      "All PSA": "3/71/72"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "16",
+      "Y": "16",
+      "mag": "6.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cas",
+      "CSA": "2/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N22"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2 Cas Chaph (mag 2.3) \\hop \\degrees{2} N \\hop \\degrees{6} W to M52",
+      "Notes": "C11 is \\degrees{0.6} to SW."
+    }
+  ],
+  "M53": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 198.23,
+      "delta": 18.168,
+      "X": "18",
+      "Y": "18",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 53,
+      "Catalog NGC": "5024"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45",
+      "All PSA": "45"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "13",
+      "Y": "13",
+      "mag": "7.7"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "5/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E13"
+    }
+  ],
+  "M54": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 283.764,
+      "delta": -30.48,
+      "X": "1",
+      "Y": "1",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 54,
+      "Catalog NGC": "6715"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "69",
+      "All PSA": "67/69"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "12",
+      "Y": "12",
+      "mag": "7.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "18/19"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    }
+  ],
+  "M55": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 294.999,
+      "delta": -30.965,
+      "X": "5.8",
+      "Y": "5.8",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 55,
+      "Catalog NGC": "6809"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "68",
+      "All PSA": "66/68"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "19",
+      "Y": "19",
+      "mag": "6.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "18/19"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E22"
+    }
+  ],
+  "M56": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 289.148,
+      "delta": 30.183,
+      "X": "2.3",
+      "Y": "2.3",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 56,
+      "Catalog NGC": "6779"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "63",
+      "All PSA": "63/65"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7",
+      "Y": "7",
+      "mag": "8.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Lyr",
+      "CSA": "6/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N18"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{3.5} E \\hop \\degrees{2.5} S to M56"
+    }
+  ],
+  "M57": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 283.396,
+      "delta": 33.029,
+      "X": "1.2",
+      "Y": "1.2",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog M": 57,
+      "Catalog NGC": "6720"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "63",
+      "All PSA": "63/65",
+      "Name": "Ring Nebula"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "71"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "1.1",
+      "Y": "1.1",
+      "mag": "8.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Lyr",
+      "CSA": "6/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N18"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{1.2} W \\hop \\degrees{0.4} N to M57/U71"
+    }
+  ],
+  "M58": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 189.432,
+      "delta": 11.818,
+      "X": "5.6",
+      "Y": "4.4",
+      "PA": "88",
+      "Type": "Seyfert",
+      "Catalog M": 58,
+      "Catalog NGC": "4579"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "5.9",
+      "Y": "4.7",
+      "mag": "9.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M59": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 190.509,
+      "delta": 11.647,
+      "X": "5.5",
+      "Y": "4",
+      "PA": "164",
+      "Type": "GinGroup",
+      "Catalog M": 59,
+      "Catalog NGC": "4621"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "5.4",
+      "Y": "3.7",
+      "mag": "9.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M60": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 190.917,
+      "delta": 11.553,
+      "X": "7.9",
+      "Y": "6.6",
+      "PA": "104",
+      "Type": "GinPair",
+      "Catalog M": 60,
+      "Catalog NGC": "4649"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7.1",
+      "Y": "6.1",
+      "mag": "8.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M61": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 185.479,
+      "delta": 4.474,
+      "X": "6.2",
+      "Y": "5.5",
+      "PA": "~",
+      "Type": "Seyfert_2",
+      "Catalog M": 61,
+      "Catalog NGC": "4303"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "20"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45",
+      "All PSA": "45/47"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "6",
+      "Y": "5.9",
+      "mag": "9.7"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M62": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 255.303,
+      "delta": -30.112,
+      "X": "2.5",
+      "Y": "2.5",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 62,
+      "Catalog NGC": "6266"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "58"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "58",
+      "All PSA": "56/58"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "14",
+      "Y": "14",
+      "mag": "6.7"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Oph",
+      "CSA": "17/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E18"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b5 Sco (mag 2.3) \\hop \\degrees{2} E \\hop \\degrees{4} N to M63"
+    }
+  ],
+  "M63": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 198.955,
+      "delta": 42.029,
+      "X": "13.2",
+      "Y": "7.9",
+      "PA": "102",
+      "Type": "LINER",
+      "Catalog M": 63,
+      "Catalog NGC": "5055"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43",
+      "All PSA": "32/43",
+      "Name": "Sunflower Galaxy"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "13.5",
+      "Y": "8.3",
+      "mag": "8.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "CVn",
+      "CSA": "4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N12"
+    }
+  ],
+  "M64": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 194.182,
+      "delta": 21.683,
+      "X": "9.8",
+      "Y": "4.9",
+      "PA": "115",
+      "Type": "Seyfert",
+      "Catalog M": 64,
+      "Catalog NGC": "4826"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45",
+      "All PSA": "45",
+      "Name": "Black-Eye Galaxy"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "50"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "9.2",
+      "Y": "4.6",
+      "mag": "8.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "5/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E13"
+    }
+  ],
+  "M65": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 169.733,
+      "delta": 13.092,
+      "X": "8.3",
+      "Y": "2.1",
+      "PA": "174",
+      "Type": "GinPair",
+      "Catalog M": 65,
+      "Catalog NGC": "3623"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "34",
+      "All PSA": "34"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8.7",
+      "Y": "2.2",
+      "mag": "8.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Leo",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E11"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M66 is \\arcmin{20} E."
+    }
+  ],
+  "M66": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 170.063,
+      "delta": 12.991,
+      "X": "8.5",
+      "Y": "3.8",
+      "PA": "173",
+      "Type": "GinPair",
+      "Catalog M": 66,
+      "Catalog NGC": "3627"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "34",
+      "All PSA": "34"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8.2",
+      "Y": "3.9",
+      "mag": "8.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Leo",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E11"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M65 is \\arcmin{20} W."
+    }
+  ],
+  "M67": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 132.846,
+      "delta": 11.814,
+      "X": "25",
+      "Y": "25",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 67,
+      "Catalog NGC": "2682"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "40"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "24",
+      "All PSA": "24/35"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "25",
+      "Y": "25",
+      "mag": "6.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cnc",
+      "CSA": "10"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E9"
+    }
+  ],
+  "M68": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 189.867,
+      "delta": -26.744,
+      "X": "3.1",
+      "Y": "3.1",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 68,
+      "Catalog NGC": "4590"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "47",
+      "All PSA": "47/49"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "11",
+      "Y": "11",
+      "mag": "7.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Hya",
+      "CSA": "10/11/16/17"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E12"
+    }
+  ],
+  "M69": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 277.846,
+      "delta": -32.348,
+      "X": "4.2",
+      "Y": "4.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 69,
+      "Catalog NGC": "6637"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67/69"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10",
+      "Y": "10",
+      "mag": "7.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    }
+  ],
+  "M70": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 280.803,
+      "delta": -32.292,
+      "X": "1.9",
+      "Y": "1.9",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 70,
+      "Catalog NGC": "6681"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67/69"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8",
+      "Y": "8",
+      "mag": "7.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E20"
+    }
+  ],
+  "M71": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 298.444,
+      "delta": 18.779,
+      "X": "3.3",
+      "Y": "3.3",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 71,
+      "Catalog NGC": "6838"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "64",
+      "All PSA": "64"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7",
+      "Y": "7",
+      "mag": "8.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sge",
+      "CSA": "6/7/12/13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E21"
+    }
+  ],
+  "M72": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 313.365,
+      "delta": -12.537,
+      "X": "9",
+      "Y": "9",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 72,
+      "Catalog NGC": "6981"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "66/77",
+      "All PSA": "66/77"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7",
+      "Y": "7",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Aqr",
+      "CSA": "13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E24"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M73 is \\degrees{1.4} W."
+    }
+  ],
+  "M73": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 314.75,
+      "delta": -12.63,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "Cl*",
+      "Catalog M": 73,
+      "Catalog NGC": "6994",
+      "Catalog Cr": 426
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "1.4",
+      "Y": "1.4",
+      "PA": "0",
+      "Type": "AST",
+      "mag": "9.7"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "66/77",
+      "All PSA": "66/77"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Aqr",
+      "CSA": "13"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E24"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Y-shaped asterism of four stars. M72 is \\degrees{1.4} E."
+    }
+  ],
+  "M74": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 24.174,
+      "delta": 15.784,
+      "X": "9.3",
+      "Y": "8.7",
+      "PA": "~",
+      "Type": "Galaxy",
+      "Catalog M": 74,
+      "Catalog NGC": "628"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "25"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "4/5",
+      "All PSA": "4/5"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "11",
+      "Y": "11",
+      "mag": "8.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Psc",
+      "CSA": "8"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E1"
+    }
+  ],
+  "M75": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 301.52,
+      "delta": -21.922,
+      "X": "2.4",
+      "Y": "2.1",
+      "PA": "55",
+      "Type": "GlCl",
+      "Catalog M": 75,
+      "Catalog NGC": "6864"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "66",
+      "All PSA": "66"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7",
+      "Y": "7",
+      "mag": "8.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sgr",
+      "CSA": "12/13/18/19"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E22"
+    }
+  ],
+  "M76": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 25.582,
+      "delta": 51.575,
+      "X": "2.3",
+      "Y": "2.3",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog M": 76,
+      "Catalog NGC": "651/650"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "2.7",
+      "Y": "1.8",
+      "mag": "10.4"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "2/13",
+      "Name": "Little Dumbell"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Per",
+      "CSA": "1/2/3/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N0"
+    }
+  ],
+  "M77": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 40.67,
+      "delta": -0.013,
+      "X": "6.9",
+      "Y": "6",
+      "PA": "72",
+      "Type": "GinPair",
+      "Catalog M": 77,
+      "Catalog NGC": "1068"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "12"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "4",
+      "All PSA": "4/6"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8.2",
+      "Y": "7.3",
+      "mag": "8.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cet",
+      "CSA": "8"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E0"
+    }
+  ],
+  "M78": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 86.691,
+      "delta": 0.079,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "RfNeb",
+      "Catalog M": 78,
+      "Catalog NGC": "2068"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "BN"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8",
+      "Y": "6",
+      "PA": "0",
+      "mag": "8.0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "16",
+      "All PSA": "14/16"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Ori",
+      "CSA": "9"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E5"
+    }
+  ],
+  "M79": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 81.044,
+      "delta": -24.524,
+      "X": "1.6",
+      "Y": "1.6",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 79,
+      "Catalog NGC": "1904"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "16",
+      "All PSA": "16/18"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10",
+      "Y": "10",
+      "mag": "7.7"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Lep",
+      "CSA": "9/15"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E4"
+    }
+  ],
+  "M80": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 244.26,
+      "delta": -22.976,
+      "X": "1.3",
+      "Y": "1.3",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 80,
+      "Catalog NGC": "6093"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "56",
+      "All PSA": "56"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10",
+      "Y": "10",
+      "mag": "7.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Sco",
+      "CSA": "11/12/17/18"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E18"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b1 Sco Antares (mag 0.9--1.1) \\hop \\degrees{3.0} W \\hop \\degrees{3.5} N to M80"
+    }
+  ],
+  "M81": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 148.888,
+      "delta": 69.065,
+      "X": "21.4",
+      "Y": "10.2",
+      "PA": "157",
+      "Type": "Seyfert_2",
+      "Catalog M": 81,
+      "Catalog NGC": "3031"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "41"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "31",
+      "All PSA": "21/31"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "24",
+      "Y": "13",
+      "mag": "6.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "UMa",
+      "CSA": "1/4"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N8"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M82/U42 is \\degrees{0.6} N."
+    }
+  ],
+  "M82": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 148.968,
+      "delta": 69.68,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "IG",
+      "Catalog M": 82,
+      "Catalog NGC": "3034"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "X": "13",
+      "Y": "6",
+      "PA": "65"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "42"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "31",
+      "All PSA": "21/31"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "12",
+      "Y": "5.6",
+      "mag": "8.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "UMa",
+      "CSA": "1/4"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N8"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M81/U41 is \\degrees{0.6} S."
+    }
+  ],
+  "M83": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 204.254,
+      "delta": -29.866,
+      "X": "13.8",
+      "Y": "12.9",
+      "PA": "~",
+      "Type": "StarburstG",
+      "Catalog M": 83,
+      "Catalog NGC": "5236"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "45"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "47/48",
+      "All PSA": "46/47/48"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "15.5",
+      "Y": "13",
+      "mag": "7.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Hya",
+      "CSA": "17"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E16"
+    }
+  ],
+  "M84": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 186.266,
+      "delta": 12.887,
+      "X": "6.5",
+      "Y": "5.8",
+      "PA": "133",
+      "Type": "Seyfert_2",
+      "Catalog M": 84,
+      "Catalog NGC": "4374"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "45"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "5.1",
+      "Y": "4.1",
+      "mag": "9.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "4/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M85": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 186.35,
+      "delta": 18.191,
+      "X": "7.8",
+      "Y": "6",
+      "PA": "~",
+      "Type": "GinPair",
+      "Catalog M": 85,
+      "Catalog NGC": "4382"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PSA": "45/C",
+      "PA": "13"
+    },
+    {
+      "Provenance": "PSA",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7.5",
+      "Y": "5.7",
+      "mag": "9.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "4/5/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M86": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 186.549,
+      "delta": 12.946,
+      "X": "10.5",
+      "Y": "7.6",
+      "PA": "127",
+      "Type": "GinGroup",
+      "Catalog M": 86,
+      "Catalog NGC": "4406"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "46"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "12",
+      "Y": "9.3",
+      "mag": "8.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "4/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M87": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 187.706,
+      "delta": 12.391,
+      "X": "9.1",
+      "Y": "7.9",
+      "PA": "~",
+      "Type": "BClG",
+      "Catalog M": 87,
+      "Catalog NGC": "4486"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "-28"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "47"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7.1",
+      "Y": "7.1",
+      "mag": "8.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M88": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 187.996,
+      "delta": 14.42,
+      "X": "7.8",
+      "Y": "4.6",
+      "PA": "138",
+      "Type": "Seyfert_2",
+      "Catalog M": 88,
+      "Catalog NGC": "4501"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "6.1",
+      "Y": "2.8",
+      "mag": "9.6"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "5/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M89": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 188.916,
+      "delta": 12.556,
+      "X": "6.9",
+      "Y": "6.5",
+      "PA": "~",
+      "Type": "LINER",
+      "Catalog M": 89,
+      "Catalog NGC": "4552"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "0"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "3.4",
+      "Y": "3.4",
+      "mag": "9.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M90": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 189.208,
+      "delta": 13.163,
+      "X": "9.8",
+      "Y": "4.4",
+      "PA": "23",
+      "Type": "Seyfert_2",
+      "Catalog M": 90,
+      "Catalog NGC": "4569"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10.5",
+      "Y": "4.4",
+      "mag": "9.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M91": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 188.86,
+      "delta": 14.496,
+      "X": "5.4",
+      "Y": "4.5",
+      "PA": "~",
+      "Type": "LINER",
+      "Catalog M": 91,
+      "Catalog NGC": "4548"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "150"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "5",
+      "Y": "4.1",
+      "mag": "10.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "5/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M92": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 259.281,
+      "delta": 43.136,
+      "X": "2.2",
+      "Y": "2.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 92,
+      "Catalog NGC": "6341"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "59"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "52",
+      "All PSA": "52/63"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "14",
+      "Y": "14",
+      "mag": "6.5"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Her",
+      "CSA": "5/6"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N14"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03c0 Her (mag 3.2) \\hop \\degrees{6.5} N to M92/U59"
+    }
+  ],
+  "M93": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 116.141,
+      "delta": -23.853,
+      "X": "24.2",
+      "Y": "24.2",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 93,
+      "Catalog NGC": "2447",
+      "Catalog Cr": 160
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "26",
+      "All PSA": "26/28"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "10",
+      "Y": "10",
+      "mag": "6.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Pup",
+      "CSA": "9/10/15/16"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E6"
+    }
+  ],
+  "M94": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 192.721,
+      "delta": 41.12,
+      "X": "11.5",
+      "Y": "10",
+      "PA": "105",
+      "Type": "Seyfert",
+      "Catalog M": 94,
+      "Catalog NGC": "4736"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "49"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "43",
+      "All PSA": "32/43"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "mag": "8.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "CVn",
+      "CSA": "4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N12"
+    }
+  ],
+  "M95": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 160.991,
+      "delta": 11.704,
+      "X": "7.1",
+      "Y": "4.3",
+      "PA": "13",
+      "Type": "GinPair",
+      "Catalog M": 95,
+      "Catalog NGC": "3351"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "34",
+      "All PSA": "34"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7.8",
+      "Y": "4.5",
+      "mag": "9.7"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Leo",
+      "CSA": "10"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E11"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M96 is \\degrees{0.7} E. M105 is \\degrees{1.3} NE."
+    }
+  ],
+  "M96": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 161.691,
+      "delta": 11.82,
+      "X": "7.2",
+      "Y": "4.8",
+      "PA": "5",
+      "Type": "GinPair",
+      "Catalog M": 96,
+      "Catalog NGC": "3368"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "34",
+      "All PSA": "34"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "6.9",
+      "Y": "4.6",
+      "mag": "9.2"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Leo",
+      "CSA": "10"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E11"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M96 is \\degrees{0.7} W. M105 is \\degrees{0.8} NNE."
+    }
+  ],
+  "M97": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 168.699,
+      "delta": 55.019,
+      "X": "3.3",
+      "Y": "3.3",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog M": 97,
+      "Catalog NGC": "3587"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "32",
+      "All PSA": "32/43"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "3.4",
+      "Y": "3.4",
+      "mag": "9.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "UMa",
+      "CSA": "1/4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N10"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M108 is \\degrees{0.8} to NW."
+    }
+  ],
+  "M98": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 183.451,
+      "delta": 14.901,
+      "X": "9.6",
+      "Y": "2.3",
+      "PA": "152",
+      "Type": "LINER",
+      "Catalog M": 98,
+      "Catalog NGC": "4192"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "34/45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "9.1",
+      "Y": "2.1",
+      "mag": "10.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "4/5/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M99": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 184.707,
+      "delta": 14.416,
+      "X": "5.1",
+      "Y": "4.5",
+      "PA": "~",
+      "Type": "HII_G",
+      "Catalog M": 99,
+      "Catalog NGC": "4254"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "24"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "4.6",
+      "Y": "4.3",
+      "mag": "9.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "4/5/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M100": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 185.729,
+      "delta": 15.822,
+      "X": "7.6",
+      "Y": "6.8",
+      "PA": "170",
+      "Type": "AGN",
+      "Catalog M": 100,
+      "Catalog NGC": "4321"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45/C",
+      "All PSA": "45/C"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "6.2",
+      "Y": "4.3",
+      "mag": "9.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Com",
+      "CSA": "4/5/10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E14"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "In the Virgo Cluster."
+    }
+  ],
+  "M101": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 210.802,
+      "delta": 54.349,
+      "X": "21.9",
+      "Y": "20.9",
+      "PA": "~",
+      "Type": "GinPair",
+      "Catalog M": 101,
+      "Catalog NGC": "5457"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "29"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "42",
+      "All PSA": "32/42/53"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "26",
+      "Y": "26",
+      "mag": "7.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "UMa",
+      "CSA": "1/4/5/6"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N10"
+    }
+  ],
+  "M102": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 226.623,
+      "delta": 55.763,
+      "X": "6.3",
+      "Y": "2.7",
+      "PA": "128",
+      "Type": "Seyfert",
+      "Catalog M": 102,
+      "Catalog NGC": "5866",
+      "Constellation": "Labelled 5866 in PSA"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "All PSA": "42/51/53"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "6.6",
+      "Y": "3.2",
+      "mag": "9.9"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Dra",
+      "CSA": "1/5/6"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N16"
+    }
+  ],
+  "M103": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 23.339,
+      "delta": 60.659,
+      "X": "7.4",
+      "Y": "7.4",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog M": 103,
+      "Catalog NGC": "581"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "1/2/3/72"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "6",
+      "Y": "6",
+      "mag": "7.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Cas",
+      "CSA": "1/2/3/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N2"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C10 is \\degrees{1.7} ENE."
+    }
+  ],
+  "M104": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 189.998,
+      "delta": -11.623,
+      "X": "8.5",
+      "Y": "5",
+      "PA": "90",
+      "Type": "LINER",
+      "Catalog M": 104,
+      "Catalog NGC": "4594"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "47",
+      "All PSA": "47",
+      "Name": "Sombrero Galaxy"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "48"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7.1",
+      "Y": "4.4",
+      "mag": "8.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Vir",
+      "CSA": "10/11"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E12"
+    }
+  ],
+  "M105": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 161.957,
+      "delta": 12.582,
+      "X": "5.1",
+      "Y": "4.7",
+      "PA": "~",
+      "Type": "LINER",
+      "Catalog M": 105,
+      "Catalog NGC": "3379"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "68"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "34",
+      "All PSA": "34"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "3.9",
+      "Y": "3.9",
+      "mag": "9.3"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Leo",
+      "CSA": "10"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E11"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M95 is \\degrees{1.3} SW. M96 is \\degrees{0.8} SSW."
+    }
+  ],
+  "M106": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 184.74,
+      "delta": 47.304,
+      "X": "17.8",
+      "Y": "6.9",
+      "PA": "~",
+      "Type": "Seyfert_2",
+      "Catalog M": 106,
+      "Catalog NGC": "4258"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "NED",
+      "PA": "150"
+    },
+    {
+      "Provenance": "PSA",
+      "All PSA": "32/43"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "20",
+      "Y": "8.4",
+      "mag": "8.4"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "CVn",
+      "CSA": "4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N12"
+    }
+  ],
+  "M107": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 248.133,
+      "delta": -13.054,
+      "X": "5.4",
+      "Y": "5.4",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog M": 107,
+      "Catalog NGC": "6171"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "56",
+      "All PSA": "56"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "13",
+      "Y": "13",
+      "mag": "7.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "Oph",
+      "CSA": "11/12"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E17"
+    }
+  ],
+  "M108": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 167.879,
+      "delta": 55.674,
+      "X": "7.8",
+      "Y": "2.7",
+      "PA": "79",
+      "Type": "StarburstG",
+      "Catalog M": 108,
+      "Catalog NGC": "3556"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "32/33",
+      "All PSA": "31/32/33/43"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "8.2",
+      "Y": "2.1",
+      "mag": "10.0"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "UMa",
+      "CSA": "1/4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N10"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M97 is \\degrees{0.8} to SE."
+    }
+  ],
+  "M109": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 179.4,
+      "delta": 53.375,
+      "X": "7.2",
+      "Y": "4.8",
+      "PA": "78",
+      "Type": "GinGroup",
+      "Catalog M": 109,
+      "Catalog NGC": "3992"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "32",
+      "All PSA": "32/43"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "7.6",
+      "Y": "4.3",
+      "mag": "9.8"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "UMa",
+      "CSA": "1/4/5"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N10"
+    }
+  ],
+  "M110": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 10.092,
+      "delta": 41.685,
+      "X": "18.6",
+      "Y": "10.5",
+      "PA": "170",
+      "Type": "GinGroup",
+      "Catalog M": 110,
+      "Catalog NGC": "205"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GAL"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "3/72"
+    },
+    {
+      "Provenance": "DSC:TMO",
+      "X": "19.5",
+      "Y": "12.5",
+      "mag": "8.1"
+    },
+    {
+      "Provenance": "CSA",
+      "Constellation": "And",
+      "CSA": "2/7"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N0"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{3.0} W \\hop \\degrees{3.5} N to M31/U3",
+      "Notes": "M31/U3 is \\degrees{0.5} SE. M32/U2 is \\degrees{1} SE."
+    }
+  ],
+  "U1": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 7.607,
+      "delta": 60.213,
+      "X": "20.3",
+      "Y": "20.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "129"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "21",
+      "Y": "21",
+      "Catalog U": "1"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "1/3/72"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    }
+  ],
+  "U6": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 27.031,
+      "delta": 71.738,
+      "X": "73",
+      "Y": "73",
+      "PA": "0",
+      "Type": "OpCl"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "36",
+      "Y": "36",
+      "Catalog U": "6"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "1",
+      "All PSA": "1/11",
+      "Catalog Cr": 463
+    },
+    {
+      "Provenance": "DSC:TSD"
+    }
+  ],
+  "U8": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 33.856,
+      "delta": 59.522,
+      "X": "123.6",
+      "Y": "123.6",
+      "PA": "0",
+      "Type": "OpCl"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "60",
+      "Y": "60",
+      "Catalog U": "8",
+      "Name": "Stock 2"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "1/2/13"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C14/U9/U10 is \\degrees{2} S."
+    }
+  ],
+  "U9": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 34.741,
+      "delta": 57.134,
+      "X": "16.3",
+      "Y": "16.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "869",
+      "Catalog Mel": 13,
+      "Catalog Cr": 24
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC",
+      "Name": "h Per Cluster"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "9"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "1/2/13"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "18",
+      "Y": "18"
+    },
+    {
+      "Provenance": "DSC:TMO"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N2"
+    },
+    {
+      "Provenance": "AWF",
+      "Name": "h Per Cluster = half of C14",
+      "Notes": "U9 and U10 form C14. U10 is \\degrees{0.5} W. U8 is \\degrees{2} N.  U11 is \\degrees{3.0} SE."
+    }
+  ],
+  "U10": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 35.584,
+      "delta": 57.149,
+      "X": "15",
+      "Y": "15",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "884",
+      "Catalog Mel": 14,
+      "Catalog Cr": 25
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "10"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "1/2/13"
+    },
+    {
+      "Provenance": "DSC:TCO",
+      "X": "18",
+      "Y": "18"
+    },
+    {
+      "Provenance": "DSC:TMO"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N2"
+    },
+    {
+      "Provenance": "AWF",
+      "Name": "\u03c7 Per Cluster = half of C14",
+      "Notes": "U9 and U10 form C14. U9 is \\degrees{0.5} E. U8 is \\degrees{2} N.  U11 is \\degrees{2.5} SE."
+    }
+  ],
+  "U11": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 39.232,
+      "delta": 55.905,
+      "X": "38.8",
+      "Y": "38.8",
+      "PA": "0",
+      "Type": "OpCl"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "20",
+      "Y": "20",
+      "Catalog U": "11"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "2",
+      "All PSA": "1/2/13",
+      "Name": "Tr 2"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C14/U9/10 are \\degrees{2.5} NW."
+    }
+  ],
+  "U13": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 48.004,
+      "delta": 63.218,
+      "X": "33.1",
+      "Y": "33.1",
+      "PA": "0",
+      "Type": "OpCl"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "23",
+      "Y": "23",
+      "Catalog U": "13"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "11/13",
+      "All PSA": "1/2/11/13",
+      "Name": "Tr 3"
+    }
+  ],
+  "U14": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 49.075,
+      "delta": 60.377,
+      "X": "90.5",
+      "Y": "90.5",
+      "PA": "0",
+      "Type": "OpCl"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "15",
+      "Y": "15",
+      "Catalog U": "14"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "11/13",
+      "All PSA": "2/11/13",
+      "Name": "Stock 23 = Pazmino's Cluster"
+    }
+  ],
+  "U15": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 51.617,
+      "delta": 48.975,
+      "X": "243.2",
+      "Y": "243.2",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog Mel": 20,
+      "Catalog Cr": 39
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "185",
+      "Y": "185",
+      "Catalog U": "15",
+      "Name": "$\\alpha$ Per Cluster"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "3",
+      "All PSA": "2/13"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Not shown in the PSA."
+    }
+  ],
+  "U16": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 52.894,
+      "delta": 37.38,
+      "X": "34.7",
+      "Y": "34.7",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "1342"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "14",
+      "Y": "14",
+      "Catalog U": "16"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "13",
+      "All PSA": "2/13"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    }
+  ],
+  "U19": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 71.481,
+      "delta": 19.079,
+      "X": "50",
+      "Y": "50",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "1647"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "45",
+      "Y": "45",
+      "Catalog U": "19"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "15",
+      "All PSA": "14/15"
+    },
+    {
+      "Provenance": "DSC:TCO"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E3"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03b1 Tau Betelgeuse (mag 0.3--0.9) \\hop \\degrees{2.5} N \\hop \\degrees{2.5} E to U19"
+    }
+  ],
+  "U20": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 77.703,
+      "delta": 16.522,
+      "X": "15",
+      "Y": "15",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "1807",
+      "Catalog Mel": 29,
+      "Catalog Cr": 61
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "17",
+      "Y": "17",
+      "Catalog U": "20"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "14",
+      "All PSA": "14"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "U21 is \\degrees{0.5} WSW."
+    }
+  ],
+  "U21": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 78.139,
+      "delta": 16.696,
+      "X": "15",
+      "Y": "15",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "1817",
+      "Catalog Cr": 60
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "Catalog U": "21"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "14",
+      "All PSA": "14"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "U20 is \\degrees{0.5} ENE."
+    }
+  ],
+  "U25": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 83.787,
+      "delta": -4.432,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "OpCl",
+      "Catalog NGC": "1981"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "25",
+      "Y": "25",
+      "PA": "0",
+      "Catalog U": "25"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "16/B",
+      "All PSA": "16/B"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E4"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "M42/U24 and M43 are \\degrees{1} S."
+    }
+  ],
+  "U28": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 92.125,
+      "delta": 13.951,
+      "X": "5",
+      "Y": "5",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "2169"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "6",
+      "Y": "6",
+      "Catalog U": "28"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "14/25",
+      "All PSA": "14/25"
+    },
+    {
+      "Provenance": "DSC:HT"
+    }
+  ],
+  "U29": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 96.888,
+      "delta": -4.749,
+      "X": "61.9",
+      "Y": "61.9",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "2232"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "29",
+      "Y": "29",
+      "Catalog U": "29"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "25/27",
+      "All PSA": "25/27"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    },
+    {
+      "Provenance": "AWF",
+      "Hops": "\u03ba Ori Saiph (mag 2.1) \\hop \\degrees{3} N \\hop \\degrees{11} E passing \u03b3 Mon to \u03b2 Mon \\hop \\degrees{2.5} N to U29"
+    }
+  ],
+  "U31": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 100.217,
+      "delta": 9.877,
+      "X": "8.6",
+      "Y": "8.6",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "2264"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "20",
+      "Y": "20",
+      "Catalog U": "31"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "25/E",
+      "All PSA": "25/E"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E7"
+    },
+    {
+      "Provenance": "AMW",
+      "Hops": "\u03b3 Gem Alhena (mag 1.9) \\hop \\degrees{7} S passing \u03be Gem and 30 Gem to U31",
+      "Notes": "C46 is \\degrees{1.25} SSW."
+    }
+  ],
+  "U32": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 102.091,
+      "delta": 41.06,
+      "X": "50",
+      "Y": "50",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "2281"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "14",
+      "Y": "14",
+      "Catalog U": "32"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "23",
+      "All PSA": "12/23"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N6"
+    }
+  ],
+  "U34": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 102.943,
+      "delta": 0.465,
+      "X": "19.4",
+      "Y": "19.4",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "2301"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "12",
+      "Y": "12",
+      "Catalog U": "34"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "25/27",
+      "All PSA": "25/27"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E6"
+    }
+  ],
+  "U37": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 122.658,
+      "delta": -12.834,
+      "X": "22.4",
+      "Y": "22.4",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "2539",
+      "Catalog Mel": 83
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "21",
+      "Y": "21",
+      "Catalog U": "37"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "26",
+      "All PSA": "26"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E8"
+    }
+  ],
+  "U44": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 186.275,
+      "delta": 26.1,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "OpCl",
+      "Catalog Mel": 111,
+      "Catalog Cr": 256
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "275",
+      "Y": "275",
+      "PA": "0",
+      "Catalog U": "44"
+    },
+    {
+      "Provenance": "?",
+      "Name": "Coma Star Cluster"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "45",
+      "All PSA": "45"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E13"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Not shown in the PSA."
+    }
+  ],
+  "U55": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 251.123,
+      "delta": 23.8,
+      "X": "0.4",
+      "Y": "0.4",
+      "PA": "120",
+      "Type": "PN",
+      "Catalog NGC": "6210"
+    },
+    {
+      "Provenance": "SIMBAD"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "0.8",
+      "Y": "0.8",
+      "Catalog U": "55"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "54",
+      "All PSA": "52/54"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E19"
+    }
+  ],
+  "U61": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 266.554,
+      "delta": 5.615,
+      "X": "60.7",
+      "Y": "60.7",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog IC": 4665,
+      "Catalog Mel": 179,
+      "Catalog Cr": 349
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "70",
+      "Y": "70",
+      "Catalog U": "61"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "54",
+      "All PSA": "54/65"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E17"
+    }
+  ],
+  "U63": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 270.856,
+      "delta": -27.884,
+      "X": "3.4",
+      "Y": "3.4",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "6520"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "6",
+      "Y": "6",
+      "Catalog U": "63"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "67",
+      "All PSA": "67/69/I"
+    },
+    {
+      "Provenance": "DSC:HT"
+    }
+  ],
+  "U66": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 276.88,
+      "delta": 6.57,
+      "X": "43.2",
+      "Y": "43.2",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "6633"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "20",
+      "Y": "20",
+      "Catalog U": "66"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "65",
+      "All PSA": "65"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E19"
+    }
+  ],
+  "U68": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 279.63,
+      "delta": 5.49,
+      "X": "64.1",
+      "Y": "64.1",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog IC": 4756,
+      "Catalog Mel": 210
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "40",
+      "Y": "40",
+      "Catalog U": "68"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "65",
+      "All PSA": "65"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E19"
+    }
+  ],
+  "U70": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 282.836,
+      "delta": 10.334,
+      "X": "16.8",
+      "Y": "16.8",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "6709"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "13",
+      "Y": "13",
+      "Catalog U": "70"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "65",
+      "All PSA": "65"
+    },
+    {
+      "Provenance": "DSC:HT"
+    }
+  ],
+  "U72": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 291.35,
+      "delta": 20.18,
+      "X": "~",
+      "Y": "~",
+      "PA": "~",
+      "Type": "Cl*",
+      "Catalog Cr": 399,
+      "Name": "Brocchi's Cluster"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "60",
+      "Y": "60",
+      "PA": "0",
+      "Catalog U": "72"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "64/65",
+      "All PSA": "64/65"
+    },
+    {
+      "Provenance": "DSC:TMO"
+    },
+    {
+      "Provenance": "DSC:HT"
+    }
+  ],
+  "U73": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 295.992,
+      "delta": -14.154,
+      "X": "0.6",
+      "Y": "0.4",
+      "PA": "120",
+      "Type": "PN",
+      "Catalog NGC": "6818"
+    },
+    {
+      "Provenance": "SIMBAD"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "0.4",
+      "Y": "0.3",
+      "Catalog U": "73"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "66",
+      "All PSA": "66"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E22"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C57 is \\degrees{0.7} SSE."
+    }
+  ],
+  "U74": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 296.201,
+      "delta": 50.525,
+      "X": "0.7",
+      "Y": "0.6",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog NGC": "6826"
+    },
+    {
+      "Provenance": "SIMBAD"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "0.5",
+      "Y": "0.4",
+      "Catalog U": "74"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N18"
+    }
+  ],
+  "U76": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 305.797,
+      "delta": 40.771,
+      "X": "10.7",
+      "Y": "10.7",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "6910"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "7",
+      "Y": "7",
+      "Catalog U": "76"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    }
+  ],
+  "U77": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 308.547,
+      "delta": 7.404,
+      "X": "1.2",
+      "Y": "1.2",
+      "PA": "0",
+      "Type": "GlCl",
+      "Catalog NGC": "6934"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "GC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "5.9",
+      "Y": "5.9",
+      "Catalog U": "77"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "64",
+      "All PSA": "64"
+    }
+  ],
+  "U78": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 308.626,
+      "delta": 28.278,
+      "X": "30",
+      "Y": "30",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "6940",
+      "Catalog Mel": 232
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "31",
+      "Y": "31",
+      "Catalog U": "78"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "62",
+      "All PSA": "62/64/73"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N20"
+    }
+  ],
+  "U79": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 316.045,
+      "delta": -11.363,
+      "X": "0.7",
+      "Y": "0.5",
+      "PA": "70",
+      "Type": "PN",
+      "Catalog NGC": "7009"
+    },
+    {
+      "Provenance": "SIMBAD"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "0.7",
+      "Y": "0.4",
+      "Catalog U": "79"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "77",
+      "All PSA": "77"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "E24"
+    }
+  ],
+  "U83": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 328.448,
+      "delta": 62.589,
+      "X": "9",
+      "Y": "9",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "7160"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "7",
+      "Y": "7",
+      "Catalog U": "83"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "71",
+      "All PSA": "71/73"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    }
+  ],
+  "U84": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 331.224,
+      "delta": 46.508,
+      "X": "36.5",
+      "Y": "36.5",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "7209"
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "25",
+      "Y": "25",
+      "Catalog U": "84"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "73",
+      "All PSA": "62/73"
+    },
+    {
+      "Provenance": "DSC:TSD"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N24"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "C19 is \\degrees{2} WNW."
+    }
+  ],
+  "U86": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 351.473,
+      "delta": 42.535,
+      "X": "0.3",
+      "Y": "0.3",
+      "PA": "90",
+      "Type": "PN",
+      "Catalog NGC": "7662"
+    },
+    {
+      "Provenance": "SIMBAD"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "0.5",
+      "Y": "0.5",
+      "Catalog U": "86"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "72",
+      "All PSA": "3/72"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N24"
+    }
+  ],
+  "U87": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 359.0,
+      "delta": 57.0,
+      "X": "25.3",
+      "Y": "25.3",
+      "PA": "0",
+      "Type": "OpCl",
+      "Catalog NGC": "7789",
+      "Catalog Mel": 245
+    },
+    {
+      "Provenance": "SIMBAD",
+      "Type": "OC"
+    },
+    {
+      "Provenance": "AL:UOP",
+      "X": "15",
+      "Y": "15",
+      "Catalog U": "87"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "72",
+      "All PSA": "3/71/72"
+    },
+    {
+      "Provenance": "DSC:TCO"
+    },
+    {
+      "Provenance": "DSC:HT"
+    },
+    {
+      "Provenance": "OSA",
+      "OSA": "N22"
+    }
+  ]
+}
