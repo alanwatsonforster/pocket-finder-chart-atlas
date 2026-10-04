@@ -78,7 +78,7 @@
       "Provenance": "DSC:TCO",
       "X": "20",
       "Y": "8",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.6"
     },
     {
@@ -140,7 +140,7 @@
       "Provenance": "DSC:TCO",
       "X": "16",
       "Y": "16",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Hidden Galaxy",
       "mag": "7.9"
     },
@@ -210,7 +210,7 @@
       "Provenance": "DSC:TCO",
       "X": "24",
       "Y": "13",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Fireworks Galaxy",
       "mag": "7.3"
     },
@@ -320,7 +320,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "5"
+      "Catalog U": 5
     },
     {
       "Provenance": "PSA",
@@ -392,7 +392,7 @@
       "Provenance": "DSC:TCO",
       "X": "11",
       "Y": "9",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Firecracker Galaxy",
       "mag": "8.8"
     },
@@ -437,7 +437,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "4"
+      "Catalog U": 4
     },
     {
       "Provenance": "PSA",
@@ -539,7 +539,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "85"
+      "Catalog U": 85
     },
     {
       "Provenance": "PSA",
@@ -567,7 +567,7 @@
       "Provenance": "DSC:TCO",
       "X": "18",
       "Y": "11",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.5"
     },
     {
@@ -596,7 +596,7 @@
       "Provenance": "DSC:TCO",
       "X": "17",
       "Y": "14",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.2"
     },
     {
@@ -690,7 +690,7 @@
       "Provenance": "DSC:TCO",
       "X": "5",
       "Y": "4",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Box Galaxy",
       "mag": "9.6"
     },
@@ -751,7 +751,7 @@
       "Provenance": "DSC:TCO",
       "X": "12",
       "Y": "3",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -780,7 +780,7 @@
       "Provenance": "DSC:TCO",
       "X": "3",
       "Y": "2",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Perseus A",
       "mag": "11.9"
     },
@@ -831,7 +831,7 @@
       "Provenance": "DSC:TCO",
       "X": "16",
       "Y": "2",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "10.4"
     },
     {
@@ -895,7 +895,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "7"
+      "Catalog U": 7
     },
     {
       "Provenance": "PSA",
@@ -923,7 +923,7 @@
       "Provenance": "DSC:TCO",
       "X": "6",
       "Y": "3",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.8"
     },
     {
@@ -948,7 +948,7 @@
       "Provenance": "DSC:TCO",
       "X": "9.7",
       "Y": "4.5",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.5"
     },
     {
@@ -1007,7 +1007,7 @@
       "Provenance": "DSC:TCO",
       "X": "15",
       "Y": "4",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Whale Galaxy",
       "mag": "9.2"
     },
@@ -1105,7 +1105,7 @@
       "Provenance": "DSC:TCO",
       "X": "3",
       "Y": "2",
-      "Type": "GAL",
+      "Type": "Gal",
       "Catalog NGC": "4889",
       "mag": "11.5"
     },
@@ -1131,7 +1131,7 @@
       "Provenance": "DSC:TCO",
       "X": "11",
       "Y": "5",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "10.0"
     },
     {
@@ -1189,7 +1189,7 @@
       "Provenance": "DSC:TCO",
       "X": "16",
       "Y": "2",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Needle Galaxy",
       "mag": "9.6"
     },
@@ -1229,7 +1229,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "36"
+      "Catalog U": 36
     },
     {
       "Provenance": "PSA",
@@ -1264,7 +1264,7 @@
       "Provenance": "DSC:TCO",
       "X": "3.0",
       "Y": "2.2",
-      "Type": "GAL",
+      "Type": "Gal",
       "Catalog NGC": "3626",
       "mag": "11.0"
     },
@@ -1297,7 +1297,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "18"
+      "Catalog U": 18
     },
     {
       "Provenance": "PSA",
@@ -1354,7 +1354,7 @@
       "Provenance": "DSC:TCO",
       "X": "6",
       "Y": "2",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "10.6"
     },
     {
@@ -1379,7 +1379,7 @@
       "Provenance": "DSC:TCO",
       "X": "4",
       "Y": "3",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "10.8"
     },
     {
@@ -1404,7 +1404,7 @@
       "Provenance": "DSC:TCO",
       "X": "6",
       "Y": "5",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "10.3"
     },
     {
@@ -1491,7 +1491,7 @@
       "Provenance": "DSC:TCO",
       "X": "5",
       "Y": "4",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "10.1"
     },
     {
@@ -1563,7 +1563,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "30"
+      "Catalog U": 30
     },
     {
       "Provenance": "PSA",
@@ -1596,7 +1596,7 @@
       "Provenance": "DSC:TCO",
       "X": "19",
       "Y": "17",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.2"
     },
     {
@@ -1621,7 +1621,7 @@
       "Provenance": "DSC:TCO",
       "X": "7",
       "Y": "5",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.0"
     },
     {
@@ -1650,7 +1650,7 @@
       "Provenance": "DSC:TCO",
       "X": "7",
       "Y": "3",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "The Spindle",
       "mag": "8.9"
     },
@@ -1763,7 +1763,7 @@
       "Provenance": "DSC:TCO",
       "X": "15",
       "Y": "15",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Barnard's Galaxy",
       "mag": "7.9"
     },
@@ -1838,7 +1838,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "43"
+      "Catalog U": 43
     },
     {
       "Provenance": "PSA",
@@ -1869,7 +1869,7 @@
       "Provenance": "DSC:TCO",
       "X": "11",
       "Y": "6",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "NW Antennae Galaxy",
       "mag": "10.5"
     },
@@ -1899,7 +1899,7 @@
       "Provenance": "DSC:TCO",
       "X": "10",
       "Y": "4",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "SE Antennae Galaxy",
       "mag": "11.2"
     },
@@ -1929,7 +1929,7 @@
       "Provenance": "DSC:TCO",
       "X": "22",
       "Y": "7",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "8.9"
     },
     {
@@ -2018,7 +2018,7 @@
       "Provenance": "DSC:TCO",
       "X": "26",
       "Y": "6",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Sculpter Galaxy",
       "mag": "7.1"
     },
@@ -2077,7 +2077,7 @@
       "Provenance": "DSC:TCO",
       "X": "10",
       "Y": "6",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "9.2"
     },
     {
@@ -2157,7 +2157,7 @@
       "Provenance": "DSC:TCO",
       "X": "20",
       "Y": "13",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "7.2"
     },
     {
@@ -2212,7 +2212,7 @@
       "Provenance": "DSC:TCO",
       "X": "34",
       "Y": "6",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "7.5"
     },
     {
@@ -2358,7 +2358,7 @@
       "Provenance": "DSC:TCO",
       "X": "17",
       "Y": "13",
-      "Type": "GAL",
+      "Type": "Gal",
       "Name": "Cen A",
       "mag": "6.6"
     },
@@ -2526,7 +2526,7 @@
       "Provenance": "DSC:TCO",
       "X": "19",
       "Y": "4",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "8.8"
     },
     {
@@ -3049,7 +3049,7 @@
       "Provenance": "DSC:TCO",
       "X": "21",
       "Y": "13",
-      "Type": "GAL",
+      "Type": "Gal",
       "mag": "8.6"
     },
     {
@@ -3342,7 +3342,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "81"
+      "Catalog U": 81
     },
     {
       "Provenance": "PSA",
@@ -3375,8 +3375,7 @@
       "PA": "0",
       "Type": "GlCl",
       "Catalog M": 3,
-      "Catalog NGC": "5272",
-      "Catalog Mel": 3
+      "Catalog NGC": "5272"
     },
     {
       "Provenance": "SIMBAD",
@@ -3384,7 +3383,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "51"
+      "Catalog U": 51
     },
     {
       "Provenance": "PSA",
@@ -3425,7 +3424,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "53"
+      "Catalog U": 53
     },
     {
       "Provenance": "PSA",
@@ -3466,7 +3465,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "52"
+      "Catalog U": 52
     },
     {
       "Provenance": "PSA",
@@ -3513,7 +3512,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "60"
+      "Catalog U": 60
     },
     {
       "Provenance": "DSC:TMO",
@@ -3553,7 +3552,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "62"
+      "Catalog U": 62
     },
     {
       "Provenance": "PSA",
@@ -3611,7 +3610,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "64"
+      "Catalog U": 64
     },
     {
       "Provenance": "CSA",
@@ -3683,7 +3682,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "57",
+      "Catalog U": 57,
       "mag": "6.6"
     },
     {
@@ -3732,7 +3731,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "69"
+      "Catalog U": 69
     },
     {
       "Provenance": "DSC:TMO",
@@ -3768,7 +3767,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "56"
+      "Catalog U": 56
     },
     {
       "Provenance": "PSA",
@@ -3815,7 +3814,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "54"
+      "Catalog U": 54
     },
     {
       "Provenance": "DSC:TMO",
@@ -3892,7 +3891,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "80"
+      "Catalog U": 80
     },
     {
       "Provenance": "PSA",
@@ -3983,7 +3982,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "65"
+      "Catalog U": 65
     },
     {
       "Provenance": "DSC:TMO",
@@ -4191,7 +4190,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "67"
+      "Catalog U": 67
     },
     {
       "Provenance": "PSA",
@@ -4384,7 +4383,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "75"
+      "Catalog U": 75
     },
     {
       "Provenance": "DSC:TMO",
@@ -4534,7 +4533,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -4544,7 +4543,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "3"
+      "Catalog U": 3
     },
     {
       "Provenance": "DSC:TMO",
@@ -4581,7 +4580,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -4591,7 +4590,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "2"
+      "Catalog U": 2
     },
     {
       "Provenance": "PSA",
@@ -4633,7 +4632,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -4715,7 +4714,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "27"
+      "Catalog U": 27
     },
     {
       "Provenance": "PSA",
@@ -4756,7 +4755,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "23"
+      "Catalog U": 23
     },
     {
       "Provenance": "PSA",
@@ -4797,7 +4796,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "26"
+      "Catalog U": 26
     },
     {
       "Provenance": "PSA",
@@ -4842,7 +4841,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "22"
+      "Catalog U": 22
     },
     {
       "Provenance": "PSA",
@@ -4888,7 +4887,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "82"
+      "Catalog U": 82
     },
     {
       "Provenance": "PSA",
@@ -4964,7 +4963,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "33"
+      "Catalog U": 33
     },
     {
       "Provenance": "PSA",
@@ -5021,7 +5020,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "24"
+      "Catalog U": 24
     },
     {
       "Provenance": "CSA",
@@ -5103,7 +5102,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "39"
+      "Catalog U": 39
     },
     {
       "Provenance": "DSC:TMO",
@@ -5145,7 +5144,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "17"
+      "Catalog U": 17
     },
     {
       "Provenance": "DSC:TMO",
@@ -5263,7 +5262,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "38"
+      "Catalog U": 38
     },
     {
       "Provenance": "PSA",
@@ -5300,7 +5299,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5345,7 +5344,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "35"
+      "Catalog U": 35
     },
     {
       "Provenance": "PSA",
@@ -5386,7 +5385,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5624,7 +5623,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "71"
+      "Catalog U": 71
     },
     {
       "Provenance": "DSC:TMO",
@@ -5660,7 +5659,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5701,7 +5700,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5742,7 +5741,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5783,7 +5782,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -5832,7 +5831,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "58"
+      "Catalog U": 58
     },
     {
       "Provenance": "PSA",
@@ -5873,7 +5872,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5911,7 +5910,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5921,7 +5920,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "50"
+      "Catalog U": 50
     },
     {
       "Provenance": "DSC:TMO",
@@ -5953,7 +5952,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -5994,7 +5993,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -6039,7 +6038,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "40"
+      "Catalog U": 40
     },
     {
       "Provenance": "PSA",
@@ -6305,7 +6304,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -6417,11 +6416,11 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "12"
+      "Catalog U": 12
     },
     {
       "Provenance": "PSA",
@@ -6574,11 +6573,11 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "41"
+      "Catalog U": 41
     },
     {
       "Provenance": "PSA",
@@ -6619,7 +6618,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -6629,7 +6628,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "42"
+      "Catalog U": 42
     },
     {
       "Provenance": "PSA",
@@ -6670,7 +6669,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -6711,11 +6710,11 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "45"
+      "Catalog U": 45
     },
     {
       "Provenance": "PSA",
@@ -6756,7 +6755,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -6801,11 +6800,11 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "46"
+      "Catalog U": 46
     },
     {
       "Provenance": "PSA",
@@ -6846,7 +6845,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -6854,7 +6853,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "47"
+      "Catalog U": 47
     },
     {
       "Provenance": "PSA",
@@ -6895,7 +6894,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -6936,7 +6935,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -6981,7 +6980,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7022,7 +7021,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -7071,7 +7070,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "59"
+      "Catalog U": 59
     },
     {
       "Provenance": "PSA",
@@ -7150,11 +7149,11 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "49"
+      "Catalog U": 49
     },
     {
       "Provenance": "PSA",
@@ -7189,7 +7188,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7230,7 +7229,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7308,7 +7307,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7349,7 +7348,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -7394,7 +7393,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7435,7 +7434,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -7472,15 +7471,15 @@
       "PA": "128",
       "Type": "Seyfert",
       "Catalog M": 102,
-      "Catalog NGC": "5866",
-      "Constellation": "Labelled 5866 in PSA"
+      "Catalog NGC": "5866"
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
+      "PSA": "42",
       "All PSA": "42/51/53"
     },
     {
@@ -7497,6 +7496,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N16"
+    },
+    {
+      "Provenance": "AWF",
+      "Notes": "Labelled 5866 in PSA"
     }
   ],
   "M103": [
@@ -7554,7 +7557,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7564,7 +7567,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "48"
+      "Catalog U": 48
     },
     {
       "Provenance": "DSC:TMO",
@@ -7596,7 +7599,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -7641,7 +7644,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "NED",
@@ -7649,6 +7652,7 @@
     },
     {
       "Provenance": "PSA",
+      "PSA": "43",
       "All PSA": "32/43"
     },
     {
@@ -7718,7 +7722,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7759,7 +7763,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7796,7 +7800,7 @@
     },
     {
       "Provenance": "SIMBAD",
-      "Type": "GAL"
+      "Type": "Gal"
     },
     {
       "Provenance": "PSA",
@@ -7843,7 +7847,7 @@
       "Provenance": "AL:UOP",
       "X": "21",
       "Y": "21",
-      "Catalog U": "1"
+      "Catalog U": 1
     },
     {
       "Provenance": "PSA",
@@ -7872,7 +7876,7 @@
       "Provenance": "AL:UOP",
       "X": "36",
       "Y": "36",
-      "Catalog U": "6"
+      "Catalog U": 6
     },
     {
       "Provenance": "PSA",
@@ -7902,7 +7906,7 @@
       "Provenance": "AL:UOP",
       "X": "60",
       "Y": "60",
-      "Catalog U": "8",
+      "Catalog U": 8,
       "Name": "Stock 2"
     },
     {
@@ -7938,7 +7942,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "9"
+      "Catalog U": 9
     },
     {
       "Provenance": "PSA",
@@ -7982,7 +7986,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "10"
+      "Catalog U": 10
     },
     {
       "Provenance": "PSA",
@@ -8025,7 +8029,7 @@
       "Provenance": "AL:UOP",
       "X": "20",
       "Y": "20",
-      "Catalog U": "11"
+      "Catalog U": 11
     },
     {
       "Provenance": "PSA",
@@ -8056,7 +8060,7 @@
       "Provenance": "AL:UOP",
       "X": "23",
       "Y": "23",
-      "Catalog U": "13"
+      "Catalog U": 13
     },
     {
       "Provenance": "PSA",
@@ -8083,7 +8087,7 @@
       "Provenance": "AL:UOP",
       "X": "15",
       "Y": "15",
-      "Catalog U": "14"
+      "Catalog U": 14
     },
     {
       "Provenance": "PSA",
@@ -8112,7 +8116,7 @@
       "Provenance": "AL:UOP",
       "X": "185",
       "Y": "185",
-      "Catalog U": "15",
+      "Catalog U": 15,
       "Name": "$\\alpha$ Per Cluster"
     },
     {
@@ -8144,7 +8148,7 @@
       "Provenance": "AL:UOP",
       "X": "14",
       "Y": "14",
-      "Catalog U": "16"
+      "Catalog U": 16
     },
     {
       "Provenance": "PSA",
@@ -8174,7 +8178,7 @@
       "Provenance": "AL:UOP",
       "X": "45",
       "Y": "45",
-      "Catalog U": "19"
+      "Catalog U": 19
     },
     {
       "Provenance": "PSA",
@@ -8217,7 +8221,7 @@
       "Provenance": "AL:UOP",
       "X": "17",
       "Y": "17",
-      "Catalog U": "20"
+      "Catalog U": 20
     },
     {
       "Provenance": "PSA",
@@ -8250,7 +8254,7 @@
     },
     {
       "Provenance": "AL:UOP",
-      "Catalog U": "21"
+      "Catalog U": 21
     },
     {
       "Provenance": "PSA",
@@ -8285,7 +8289,7 @@
       "X": "25",
       "Y": "25",
       "PA": "0",
-      "Catalog U": "25"
+      "Catalog U": 25
     },
     {
       "Provenance": "PSA",
@@ -8323,7 +8327,7 @@
       "Provenance": "AL:UOP",
       "X": "6",
       "Y": "6",
-      "Catalog U": "28"
+      "Catalog U": 28
     },
     {
       "Provenance": "PSA",
@@ -8353,7 +8357,7 @@
       "Provenance": "AL:UOP",
       "X": "29",
       "Y": "29",
-      "Catalog U": "29"
+      "Catalog U": 29
     },
     {
       "Provenance": "PSA",
@@ -8387,7 +8391,7 @@
       "Provenance": "AL:UOP",
       "X": "20",
       "Y": "20",
-      "Catalog U": "31"
+      "Catalog U": 31
     },
     {
       "Provenance": "PSA",
@@ -8426,7 +8430,7 @@
       "Provenance": "AL:UOP",
       "X": "14",
       "Y": "14",
-      "Catalog U": "32"
+      "Catalog U": 32
     },
     {
       "Provenance": "PSA",
@@ -8460,7 +8464,7 @@
       "Provenance": "AL:UOP",
       "X": "12",
       "Y": "12",
-      "Catalog U": "34"
+      "Catalog U": 34
     },
     {
       "Provenance": "PSA",
@@ -8495,7 +8499,7 @@
       "Provenance": "AL:UOP",
       "X": "21",
       "Y": "21",
-      "Catalog U": "37"
+      "Catalog U": 37
     },
     {
       "Provenance": "PSA",
@@ -8531,7 +8535,7 @@
       "X": "275",
       "Y": "275",
       "PA": "0",
-      "Catalog U": "44"
+      "Catalog U": 44
     },
     {
       "Provenance": "?",
@@ -8572,7 +8576,7 @@
       "Provenance": "AL:UOP",
       "X": "0.8",
       "Y": "0.8",
-      "Catalog U": "55"
+      "Catalog U": 55
     },
     {
       "Provenance": "PSA",
@@ -8608,7 +8612,7 @@
       "Provenance": "AL:UOP",
       "X": "70",
       "Y": "70",
-      "Catalog U": "61"
+      "Catalog U": 61
     },
     {
       "Provenance": "PSA",
@@ -8642,7 +8646,7 @@
       "Provenance": "AL:UOP",
       "X": "6",
       "Y": "6",
-      "Catalog U": "63"
+      "Catalog U": 63
     },
     {
       "Provenance": "PSA",
@@ -8672,7 +8676,7 @@
       "Provenance": "AL:UOP",
       "X": "20",
       "Y": "20",
-      "Catalog U": "66"
+      "Catalog U": 66
     },
     {
       "Provenance": "PSA",
@@ -8707,7 +8711,7 @@
       "Provenance": "AL:UOP",
       "X": "40",
       "Y": "40",
-      "Catalog U": "68"
+      "Catalog U": 68
     },
     {
       "Provenance": "PSA",
@@ -8741,7 +8745,7 @@
       "Provenance": "AL:UOP",
       "X": "13",
       "Y": "13",
-      "Catalog U": "70"
+      "Catalog U": 70
     },
     {
       "Provenance": "PSA",
@@ -8773,7 +8777,7 @@
       "X": "60",
       "Y": "60",
       "PA": "0",
-      "Catalog U": "72"
+      "Catalog U": 72
     },
     {
       "Provenance": "PSA",
@@ -8805,7 +8809,7 @@
       "Provenance": "AL:UOP",
       "X": "0.4",
       "Y": "0.3",
-      "Catalog U": "73"
+      "Catalog U": 73
     },
     {
       "Provenance": "PSA",
@@ -8842,7 +8846,7 @@
       "Provenance": "AL:UOP",
       "X": "0.5",
       "Y": "0.4",
-      "Catalog U": "74"
+      "Catalog U": 74
     },
     {
       "Provenance": "PSA",
@@ -8873,7 +8877,7 @@
       "Provenance": "AL:UOP",
       "X": "7",
       "Y": "7",
-      "Catalog U": "76"
+      "Catalog U": 76
     },
     {
       "Provenance": "PSA",
@@ -8903,7 +8907,7 @@
       "Provenance": "AL:UOP",
       "X": "5.9",
       "Y": "5.9",
-      "Catalog U": "77"
+      "Catalog U": 77
     },
     {
       "Provenance": "PSA",
@@ -8931,7 +8935,7 @@
       "Provenance": "AL:UOP",
       "X": "31",
       "Y": "31",
-      "Catalog U": "78"
+      "Catalog U": 78
     },
     {
       "Provenance": "PSA",
@@ -8964,7 +8968,7 @@
       "Provenance": "AL:UOP",
       "X": "0.7",
       "Y": "0.4",
-      "Catalog U": "79"
+      "Catalog U": 79
     },
     {
       "Provenance": "PSA",
@@ -8995,7 +8999,7 @@
       "Provenance": "AL:UOP",
       "X": "7",
       "Y": "7",
-      "Catalog U": "83"
+      "Catalog U": 83
     },
     {
       "Provenance": "PSA",
@@ -9025,7 +9029,7 @@
       "Provenance": "AL:UOP",
       "X": "25",
       "Y": "25",
-      "Catalog U": "84"
+      "Catalog U": 84
     },
     {
       "Provenance": "PSA",
@@ -9062,7 +9066,7 @@
       "Provenance": "AL:UOP",
       "X": "0.5",
       "Y": "0.5",
-      "Catalog U": "86"
+      "Catalog U": 86
     },
     {
       "Provenance": "PSA",
@@ -9094,7 +9098,7 @@
       "Provenance": "AL:UOP",
       "X": "15",
       "Y": "15",
-      "Catalog U": "87"
+      "Catalog U": 87
     },
     {
       "Provenance": "PSA",
