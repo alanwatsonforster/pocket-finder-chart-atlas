@@ -28,6 +28,10 @@
       "Provenance": "CSA",
       "Constellation": "Cep",
       "CSA": "1"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 111
     }
   ],
   "C2": [
@@ -119,6 +123,10 @@
       "Provenance": "CSA",
       "Constellation": "Cep",
       "CSA": "1/6/7"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 68
     }
   ],
   "C5": [
@@ -153,6 +161,10 @@
       "Provenance": "CSA",
       "Constellation": "Cam",
       "CSA": "1/2/3"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 142
     }
   ],
   "C6": [
@@ -219,6 +231,10 @@
       "Provenance": "OSA",
       "Constellation": "Cam",
       "CSA": "1/3/4"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 131
     }
   ],
   "C8": [
@@ -290,6 +306,10 @@
       "CSA": "1/7"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 96
+    },
+    {
       "Provenance": "AWF",
       "Notes": "Not shown in the CSA."
     }
@@ -331,6 +351,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N2"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 76
     },
     {
       "Provenance": "AWF",
@@ -439,6 +463,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N2"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 62
     }
   ],
   "C14": [
@@ -505,6 +533,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 128
     }
   ],
   "C16": [
@@ -538,6 +570,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 63
     }
   ],
   "C17": [
@@ -625,6 +661,10 @@
       "All PSA": "62/73"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 78
+    },
+    {
       "Provenance": "AWF",
       "Notes": "Cluster is magitude 7.2 (DSC:TCO). U84 is \\degrees{2} ESE."
     }
@@ -654,6 +694,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 16
     },
     {
       "Provenance": "AWF",
@@ -718,6 +762,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 124
     }
   ],
   "C23": [
@@ -799,6 +847,10 @@
       "Provenance": "PSA",
       "PSA": "23",
       "All PSA": "23"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 140
     }
   ],
   "C26": [
@@ -853,7 +905,8 @@
       "All PSA": "62/73"
     },
     {
-      "Provenance": "AWF"
+      "Provenance": "BSC",
+      "Catalog BSC": 84
     }
   ],
   "C28": [
@@ -967,6 +1020,10 @@
       "All PSA": "12/14"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 49
+    },
+    {
       "Provenance": "AWF",
       "Notes": "AE Aur (towards the SW edge) is magnitude 6 and variable (DSC:TCO)."
     }
@@ -1028,6 +1085,10 @@
       "OSA": "N20"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 73
+    },
+    {
       "Provenance": "AWF",
       "Notes": "C34 is \\degrees{2.5} SW."
     }
@@ -1057,6 +1118,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 74
     },
     {
       "Provenance": "AWF",
@@ -1174,6 +1239,10 @@
       "OSA": "E13"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 38
+    },
+    {
       "Provenance": "AWF",
       "Notes": "C36 is \\degrees{2} N. U44 is \\degrees{3} to W."
     }
@@ -1275,6 +1344,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E3"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 1
     },
     {
       "Provenance": "AWF",
@@ -1408,6 +1481,10 @@
       "OSA": "E7"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 137
+    },
+    {
       "Provenance": "AWF",
       "Notes": "The magnitude of the nebula is variable (DSC:TCO). U31 is \\degrees{1.25} NNE."
     }
@@ -1438,6 +1515,10 @@
     },
     {
       "Provenance": "AWF"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 121
     }
   ],
   "C48": [
@@ -1498,6 +1579,10 @@
       "delta": 4.914
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 135
+    },
+    {
       "Provenance": "AWF",
       "Hops": "α Ori Betelgeuse (mag 0.3--0.9) \\hop \\degrees{3} S \\hop \\degrees{7} E to 8 Mon \\hop \\degrees{2} E to C49",
       "Notes": "Surrounding C50."
@@ -1535,6 +1620,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E9"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 25
     },
     {
       "Provenance": "AWF",
@@ -1651,6 +1740,10 @@
       "Provenance": "PSA",
       "PSA": "26",
       "All PSA": "26"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 90
     }
   ],
   "C55": [
@@ -1681,6 +1774,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 106
     }
   ],
   "C56": [
@@ -1706,6 +1803,10 @@
       "Provenance": "PSA",
       "PSA": "7",
       "All PSA": "7"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 107
     }
   ],
   "C57": [
@@ -1742,6 +1843,10 @@
       "OSA": "E22"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 146
+    },
+    {
       "Provenance": "AWF",
       "Notes": "U73 is \\degrees{0.7} NNW."
     }
@@ -1775,6 +1880,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E8"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 79
     }
   ],
   "C59": [
@@ -1812,6 +1921,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E10"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 125
     }
   ],
   "C60": [
@@ -1931,6 +2044,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 91
     }
   ],
   "C64": [
@@ -1961,6 +2078,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E6"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 17
     }
   ],
   "C65": [
@@ -1991,6 +2112,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 108
     },
     {
       "Provenance": "AWF",
@@ -2097,6 +2222,10 @@
       "Provenance": "PSA",
       "PSA": "58",
       "All PSA": "58"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 77
     }
   ],
   "C70": [
@@ -2122,6 +2251,10 @@
       "Provenance": "PSA",
       "PSA": "9",
       "All PSA": "9"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 138
     }
   ],
   "C71": [
@@ -2152,6 +2285,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S6"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 41
     }
   ],
   "C72": [
@@ -2181,6 +2318,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 102
     }
   ],
   "C73": [
@@ -2210,6 +2351,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 80
     }
   ],
   "C74": [
@@ -2268,6 +2413,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S21"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 42
     }
   ],
   "C76": [
@@ -2298,6 +2447,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S21"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 7
     }
   ],
   "C77": [
@@ -2357,6 +2510,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S21"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 60
     }
   ],
   "C79": [
@@ -2386,6 +2543,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S6"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 112
     }
   ],
   "C80": [
@@ -2416,6 +2577,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S15"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 14
     }
   ],
   "C81": [
@@ -2441,6 +2606,10 @@
       "Provenance": "PSA",
       "PSA": "58",
       "All PSA": "58/69"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 98
     }
   ],
   "C82": [
@@ -2466,6 +2635,10 @@
       "Provenance": "PSA",
       "PSA": "58",
       "All PSA": "58"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 30
     }
   ],
   "C83": [
@@ -2491,6 +2664,10 @@
       "Provenance": "PSA",
       "PSA": "49",
       "All PSA": "38/49"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 147
     }
   ],
   "C84": [
@@ -2516,6 +2693,10 @@
       "Provenance": "PSA",
       "PSA": "48",
       "All PSA": "48/59"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 92
     }
   ],
   "C85": [
@@ -2546,6 +2727,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S6"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 6
     }
   ],
   "C86": [
@@ -2575,6 +2760,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 67
     }
   ],
   "C87": [
@@ -2600,6 +2789,10 @@
       "Provenance": "PSA",
       "PSA": "19",
       "All PSA": "8/19/20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 115
     }
   ],
   "C88": [
@@ -2626,6 +2819,10 @@
       "Provenance": "PSA",
       "PSA": "59",
       "All PSA": "48/59/60"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 103
     }
   ],
   "C89": [
@@ -2656,6 +2853,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 33
     }
   ],
   "C90": [
@@ -2712,6 +2913,10 @@
       "OSA": "S9"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 9
+    },
+    {
       "Provenance": "AWF",
       "Notes": "C90 is \\degrees{2.5} SW."
     }
@@ -2741,6 +2946,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S9"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 3
     },
     {
       "Provenance": "AWF",
@@ -2774,6 +2983,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 34
     }
   ],
   "C94": [
@@ -2807,6 +3020,10 @@
       "OSA": "S12"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 20
+    },
+    {
       "Provenance": "AWF",
       "Notes": "The northern edge of C99 is \\degrees{1} S."
     }
@@ -2834,6 +3051,10 @@
       "Provenance": "PSA",
       "PSA": "59/60",
       "All PSA": "59/60"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 29
     }
   ],
   "C96": [
@@ -2864,6 +3085,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S3"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 13
     }
   ],
   "C97": [
@@ -2896,6 +3121,14 @@
       "OSA": "S12"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 22
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 32
+    },
+    {
       "Provenance": "AWF",
       "Notes": "C100 is \\degrees{1.8} S."
     }
@@ -2924,6 +3157,10 @@
       "Provenance": "PSA",
       "PSA": "49/50",
       "All PSA": "38/49/50"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 70
     },
     {
       "Provenance": "AWF",
@@ -2981,6 +3218,10 @@
       "All PSA": "38/40/49/50"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 22
+    },
+    {
       "Provenance": "AWF",
       "Notes": "C97 is \\degrees{1.8} N."
     }
@@ -3008,6 +3249,10 @@
       "Provenance": "PSA",
       "PSA": "70",
       "All PSA": "70"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 143
     }
   ],
   "C102": [
@@ -3040,6 +3285,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S9"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 5
     }
   ],
   "C103": [
@@ -3069,6 +3318,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S3"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 109
     },
     {
       "Provenance": "AWF",
@@ -3103,6 +3356,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 64
     }
   ],
   "C105": [
@@ -3128,6 +3385,10 @@
       "Provenance": "PSA",
       "PSA": "50",
       "All PSA": "40/50"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 97
     }
   ],
   "C106": [
@@ -3159,6 +3420,10 @@
     {
       "Provenance": "OSA",
       "OSA": "S0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 26
     }
   ],
   "C107": [
@@ -3184,6 +3449,10 @@
       "Provenance": "PSA",
       "PSA": "60",
       "All PSA": "50/60/70"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 139
     }
   ],
   "C108": [
@@ -3209,6 +3478,10 @@
       "Provenance": "PSA",
       "PSA": "40/50",
       "All PSA": "40/50"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 99
     }
   ],
   "C109": [
@@ -3272,6 +3545,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E3"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 119
     }
   ],
   "M2": [
@@ -3313,6 +3590,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 56
     }
   ],
   "M3": [
@@ -3354,6 +3635,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E15"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 53
     }
   ],
   "M4": [
@@ -3395,6 +3680,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 43
     }
   ],
   "M5": [
@@ -3436,6 +3725,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E15"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 66
     }
   ],
   "M6": [
@@ -3478,6 +3771,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 18
     },
     {
       "Provenance": "AWF",
@@ -3525,6 +3822,10 @@
       "OSA": "E18"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 10
+    },
+    {
       "Provenance": "AWF",
       "Hops": "ε Sgr Kaus Australis (mag 1.8) \\hop \\degrees{6} W to M7/U62"
     }
@@ -3569,6 +3870,10 @@
       "OSA": "E20"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 45
+    },
+    {
       "Provenance": "AWF",
       "Hops": "γ Sgr Alnasl (mag 3.0) \\hop \\degrees{6} N to M8/U64",
       "Notes": "M20 is \\degrees{1.5} N.  M21 is \\degrees{2.0} N."
@@ -3609,6 +3914,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E17"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 123
     }
   ],
   "M10": [
@@ -3650,6 +3959,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E17"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 61
     }
   ],
   "M11": [
@@ -3735,6 +4048,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E17"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 94
     }
   ],
   "M13": [
@@ -3779,6 +4096,10 @@
       "OSA": "N14"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 40
+    },
+    {
       "Provenance": "AWF",
       "Hops": "ζ Her (mag 2.8)\\hop \\degrees{5} N (2/3 distance to η Her) to M13/U54"
     }
@@ -3818,6 +4139,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E17"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 116
     }
   ],
   "M15": [
@@ -3859,6 +4184,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E23"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 54
     }
   ],
   "M16": [
@@ -3899,6 +4228,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 46
     },
     {
       "Provenance": "AWF",
@@ -3948,6 +4281,10 @@
       "OSA": "E20"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 47
+    },
+    {
       "Provenance": "AWF",
       "Hops": "ν Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{6} S to M17/U65\\par μ Sgr (mag 3.8) \\hop \\degrees{5} N passing M24 and M18 \\hop \\degrees{2} E to M17",
       "Notes": "M18 is \\degrees{1} S. M24 is  \\degrees{3} SW."
@@ -3990,6 +4327,10 @@
       "OSA": "E20"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 87
+    },
+    {
       "Provenance": "AWF",
       "Hops": "ν Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{7} S passing M17/U65 to M18\\par μ Sgr (mag 3.8) \\hop \\degrees{4} N passing M24 \\hop \\degrees{2} E to M18",
       "Notes": "M17/U65 is \\degrees{1} N. M24 is \\degrees{2} SW."
@@ -4030,6 +4371,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 86
     }
   ],
   "M20": [
@@ -4072,6 +4417,10 @@
       "OSA": "E20"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 57
+    },
+    {
       "Provenance": "AWF",
       "Hops": "γ Sgr Alnasl (mag 3.0) \\hop \\degrees{7.5} N passing M8/U64 to M20",
       "Notes": "M8/U64 is \\degrees{1.5} S. M21 is \\degrees{0.5} NE."
@@ -4112,6 +4461,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 65
     },
     {
       "Provenance": "AWF",
@@ -4158,6 +4511,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 28
     }
   ],
   "M23": [
@@ -4195,6 +4552,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 69
     }
   ],
   "M24": [
@@ -4230,6 +4591,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 23
     },
     {
       "Provenance": "AWF",
@@ -4271,6 +4636,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 24
     }
   ],
   "M26": [
@@ -4308,6 +4677,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E19"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 104
     }
   ],
   "M27": [
@@ -4348,7 +4721,8 @@
       "OSA": "E21"
     },
     {
-      "Provenance": "AWF"
+      "Provenance": "BSC",
+      "Catalog BSC": 88
     }
   ],
   "M28": [
@@ -4386,6 +4760,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 93
     }
   ],
   "M29": [
@@ -4423,6 +4801,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 75
     },
     {
       "Provenance": "AWF",
@@ -4464,6 +4846,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E22"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 95
     }
   ],
   "M31": [
@@ -4506,6 +4892,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 11
     },
     {
       "Provenance": "AWF",
@@ -4557,6 +4947,10 @@
       "OSA": "N0"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 110
+    },
+    {
       "Provenance": "AWF",
       "Hops": "β And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to μ And (mag 3.9)\\hop \\degrees{2.5} W \\hop \\degrees{2.5} N to M32/U2",
       "Notes": "M31/U3 is \\degrees{0.5} N. M110 is \\degrees{1} NW."
@@ -4597,6 +4991,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 39
     }
   ],
   "M34": [
@@ -4634,6 +5032,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N4"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 35
     },
     {
       "Provenance": "AWF",
@@ -4679,6 +5081,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E7"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 31
     }
   ],
   "M36": [
@@ -4720,6 +5126,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N6"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 58
     }
   ],
   "M37": [
@@ -4761,6 +5171,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N6"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 55
     },
     {
       "Provenance": "AWF",
@@ -4808,6 +5222,10 @@
       "OSA": "N6"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 82
+    },
+    {
       "Provenance": "AWF",
       "Hops": "β Tau Elnath (mag 1.7) \\hop \\degrees{7} N to M38/U23",
       "Notes": "M36/U23 is \\degrees{2.5} SE."
@@ -4852,6 +5270,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 36
     }
   ],
   "M40": [
@@ -4927,6 +5349,10 @@
       "OSA": "E6"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 21
+    },
+    {
       "Provenance": "AMW",
       "Hops": "α CMa Sirius (mag $-1.5$)\\hop \\degrees{4} S to M41/U33"
     }
@@ -4973,6 +5399,10 @@
       "OSA": "E4"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 15
+    },
+    {
       "Provenance": "AWF",
       "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N."
     }
@@ -5009,6 +5439,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E4"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 136
     },
     {
       "Provenance": "AWF",
@@ -5056,6 +5490,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E9"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 12
     }
   ],
   "M45": [
@@ -5098,6 +5536,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E3"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 4
     }
   ],
   "M46": [
@@ -5135,6 +5577,14 @@
     {
       "Provenance": "OSA",
       "OSA": "E8"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 19
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 50
     },
     {
       "Provenance": "AWF",
@@ -5176,6 +5626,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E8"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 19
     },
     {
       "Provenance": "AWF",
@@ -5221,6 +5675,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E10"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 37
     }
   ],
   "M49": [
@@ -5262,6 +5720,10 @@
     {
       "Provenance": "AWF",
       "Notes": "In the Virgo Cluster."
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 150
     }
   ],
   "M50": [
@@ -5305,6 +5767,10 @@
       "OSA": "E8"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 44
+    },
+    {
       "Provenance": "AWF",
       "Hops": "α CMa Sirius (mag $-1.5$)\\hop \\degrees{3} E to ι CMa \\hop \\degrees{5} N passing μ CMa to θ CMa \\hop \\degrees{4} N to asterism of three stars \\hop \\degrees{2} E to M50/U35"
     }
@@ -5345,6 +5811,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N12"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 120
     }
   ],
   "M52": [
@@ -5382,6 +5852,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N22"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 27
     },
     {
       "Provenance": "AWF",
@@ -5424,6 +5898,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E13"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 117
     }
   ],
   "M54": [
@@ -5461,6 +5939,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 118
     }
   ],
   "M55": [
@@ -5498,6 +5980,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E22"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 85
     }
   ],
   "M56": [
@@ -5535,6 +6021,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 113
     },
     {
       "Provenance": "AWF",
@@ -5577,6 +6067,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 127
     },
     {
       "Provenance": "AWF",
@@ -5791,6 +6285,10 @@
       "OSA": "E18"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 81
+    },
+    {
       "Provenance": "AWF",
       "Hops": "ε Sco (mag 2.3) \\hop \\degrees{2} E \\hop \\degrees{4} N to M63"
     }
@@ -5831,6 +6329,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N12"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 145
     }
   ],
   "M64": [
@@ -5873,6 +6375,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E13"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 149
     }
   ],
   "M65": [
@@ -5953,6 +6459,10 @@
       "OSA": "E11"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 130
+    },
+    {
       "Provenance": "AWF",
       "Notes": "M65 is \\arcmin{20} W."
     }
@@ -5996,6 +6506,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E9"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 51
     }
   ],
   "M68": [
@@ -6107,6 +6621,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E20"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 105
     }
   ],
   "M71": [
@@ -6144,6 +6662,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E21"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 52
     }
   ],
   "M72": [
@@ -6181,6 +6703,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E24"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 148
     },
     {
       "Provenance": "AWF",
@@ -6299,6 +6825,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E22"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 144
     }
   ],
   "M76": [
@@ -6409,6 +6939,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E5"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 114
     }
   ],
   "M79": [
@@ -6446,6 +6980,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E4"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 126
     }
   ],
   "M80": [
@@ -6483,6 +7021,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E18"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 101
     },
     {
       "Provenance": "AWF",
@@ -6528,6 +7070,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N8"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 72
     },
     {
       "Provenance": "AWF",
@@ -6578,6 +7124,10 @@
       "OSA": "N8"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 122
+    },
+    {
       "Provenance": "AWF",
       "Notes": "M81/U41 is \\degrees{0.6} S."
     }
@@ -6620,6 +7170,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E16"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 89
     }
   ],
   "M84": [
@@ -7015,6 +7569,10 @@
       "OSA": "N14"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 59
+    },
+    {
       "Provenance": "AWF",
       "Hops": "π Her (mag 3.2) \\hop \\degrees{6.5} N to M92/U59"
     }
@@ -7055,6 +7613,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E6"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 48
     }
   ],
   "M94": [
@@ -7094,6 +7656,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N12"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 134
     }
   ],
   "M95": [
@@ -7379,6 +7945,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N10"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 100
     }
   ],
   "M102": [
@@ -7459,6 +8029,10 @@
       "OSA": "N2"
     },
     {
+      "Provenance": "BSC",
+      "Catalog BSC": 83
+    },
+    {
       "Provenance": "AWF",
       "Notes": "C10 is \\degrees{1.7} ENE."
     }
@@ -7503,6 +8077,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E12"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 133
     }
   ],
   "M105": [
@@ -7587,6 +8165,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N12"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 141
     }
   ],
   "M107": [
@@ -7624,6 +8206,10 @@
     {
       "Provenance": "OSA",
       "OSA": "E17"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 129
     }
   ],
   "M108": [
@@ -7739,6 +8325,10 @@
     {
       "Provenance": "OSA",
       "OSA": "N0"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 132
     },
     {
       "Provenance": "AWF",

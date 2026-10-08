@@ -13,7 +13,8 @@
     "PSA": "1",
     "All PSA": "1/11/21/31/41/51/61/71",
     "Constellation": "Cep",
-    "CSA": "1"
+    "CSA": "1",
+    "Catalog BSC": 111
   },
   "C2": {
     "alpha": 3.254,
@@ -61,7 +62,8 @@
     "PSA": "61/71",
     "All PSA": "61/71",
     "Constellation": "Cep",
-    "CSA": "1/6/7"
+    "CSA": "1/6/7",
+    "Catalog BSC": 68
   },
   "C5": {
     "alpha": 56.702,
@@ -77,7 +79,8 @@
     "PSA": "1/11",
     "All PSA": "1/11",
     "Constellation": "Cam",
-    "CSA": "1/2/3"
+    "CSA": "1/2/3",
+    "Catalog BSC": 142
   },
   "C6": {
     "alpha": 269.639,
@@ -110,7 +113,8 @@
     "PSA": "21",
     "All PSA": "21",
     "Constellation": "Cam",
-    "CSA": "1/3/4"
+    "CSA": "1/3/4",
+    "Catalog BSC": 131
   },
   "C8": {
     "alpha": 22.387,
@@ -144,6 +148,7 @@
     "All PSA": "71/72",
     "Constellation": "Cep",
     "CSA": "1/7",
+    "Catalog BSC": 96,
     "Notes": "Not shown in the CSA."
   },
   "C10": {
@@ -163,6 +168,7 @@
     "Constellation": "Cas",
     "CSA": "1/2",
     "OSA": "N2",
+    "Catalog BSC": 76,
     "Notes": "M103 is \\degrees{1.7} WSW. C8 is \\degrees{3} NW."
   },
   "C11": {
@@ -212,7 +218,8 @@
     "Catalog U": 4,
     "PSA": "1/3",
     "All PSA": "1/3/72",
-    "OSA": "N2"
+    "OSA": "N2",
+    "Catalog BSC": 62
   },
   "C14": {
     "alpha": 35.13,
@@ -244,7 +251,8 @@
     "Mag": "8.5",
     "PSA": "62",
     "All PSA": "62/73",
-    "OSA": "N18"
+    "OSA": "N18",
+    "Catalog BSC": 128
   },
   "C16": {
     "alpha": 333.788,
@@ -259,7 +267,8 @@
     "Catalog U": 85,
     "PSA": "73",
     "All PSA": "62/73",
-    "OSA": "N24"
+    "OSA": "N24",
+    "Catalog BSC": 63
   },
   "C17": {
     "alpha": 8.301,
@@ -303,6 +312,7 @@
     "Mag": "9.3",
     "PSA": "73",
     "All PSA": "62/73",
+    "Catalog BSC": 78,
     "Notes": "Cluster is magitude 7.2 (DSC:TCO). U84 is \\degrees{2} ESE."
   },
   "C20": {
@@ -318,6 +328,7 @@
     "PSA": "62",
     "All PSA": "62/73",
     "OSA": "N20",
+    "Catalog BSC": 16,
     "Hops": "\u03b1 Cyg Deneb (mag 1.3) \\hop \\degrees{1} S \\hop \\degrees{3} E to C20"
   },
   "C21": {
@@ -348,7 +359,8 @@
     "Mag": "8.3",
     "PSA": "72",
     "All PSA": "3/72",
-    "OSA": "N24"
+    "OSA": "N24",
+    "Catalog BSC": 124
   },
   "C23": {
     "alpha": 35.637,
@@ -389,7 +401,8 @@
     "Catalog NGC": "2419",
     "Mag": "10.4",
     "PSA": "23",
-    "All PSA": "23"
+    "All PSA": "23",
+    "Catalog BSC": 140
   },
   "C26": {
     "alpha": 184.374,
@@ -416,7 +429,8 @@
     "Name": "Crescent Nebula",
     "Mag": "8.8",
     "PSA": "62",
-    "All PSA": "62/73"
+    "All PSA": "62/73",
+    "Catalog BSC": 84
   },
   "C28": {
     "alpha": 29.223,
@@ -473,6 +487,7 @@
     "Mag": "9.2",
     "PSA": "12",
     "All PSA": "12/14",
+    "Catalog BSC": 49,
     "Notes": "AE Aur (towards the SW edge) is magnitude 6 and variable (DSC:TCO)."
   },
   "C32": {
@@ -503,6 +518,7 @@
     "PSA": "62",
     "All PSA": "62/64/73/75",
     "OSA": "N20",
+    "Catalog BSC": 73,
     "Notes": "C34 is \\degrees{2.5} SW."
   },
   "C34": {
@@ -518,6 +534,7 @@
     "PSA": "62",
     "All PSA": "62/64/73/75",
     "OSA": "N20",
+    "Catalog BSC": 74,
     "Notes": "C33 is \\degrees{2.5} NE."
   },
   "C35": {
@@ -574,6 +591,7 @@
     "PSA": "43/45",
     "All PSA": "32/43/45",
     "OSA": "E13",
+    "Catalog BSC": 38,
     "Notes": "C36 is \\degrees{2} N. U44 is \\degrees{3} to W."
   },
   "C39": {
@@ -621,6 +639,7 @@
     "PSA": "15",
     "All PSA": "15",
     "OSA": "E3",
+    "Catalog BSC": 1,
     "Notes": "Much bigger than the finder chart."
   },
   "C42": {
@@ -688,6 +707,7 @@
     "PSA": "25/E",
     "All PSA": "25/E",
     "OSA": "E7",
+    "Catalog BSC": 137,
     "Notes": "The magnitude of the nebula is variable (DSC:TCO). U31 is \\degrees{1.25} NNE."
   },
   "C47": {
@@ -701,7 +721,8 @@
     "Catalog NGC": "6934",
     "Mag": "8.8",
     "PSA": "64",
-    "All PSA": "64"
+    "All PSA": "64",
+    "Catalog BSC": 121
   },
   "C48": {
     "alpha": 137.584,
@@ -729,6 +750,7 @@
     "PSA": "25/E",
     "All PSA": "25/E",
     "OSA": "E9",
+    "Catalog BSC": 135,
     "Hops": "\u03b1 Ori Betelgeuse (mag 0.3--0.9) \\hop \\degrees{3} S \\hop \\degrees{7} E to 8 Mon \\hop \\degrees{2} E to C49",
     "Notes": "Surrounding C50."
   },
@@ -746,6 +768,7 @@
     "PSA": "25/E",
     "All PSA": "25/E",
     "OSA": "E9",
+    "Catalog BSC": 25,
     "Hops": "\u03b1 Ori Betelgeuse (mag 0.3--0.9) \\hop \\degrees{3} S \\hop \\degrees{7} E to 8 Mon \\hop \\degrees{2} E to C50/U30",
     "Notes": "Surrounded by C49."
   },
@@ -804,7 +827,8 @@
     "Catalog Cr": 170,
     "Mag": "7.6",
     "PSA": "26",
-    "All PSA": "26"
+    "All PSA": "26",
+    "Catalog BSC": 90
   },
   "C55": {
     "alpha": 316.045,
@@ -819,7 +843,8 @@
     "Mag": "8.0",
     "PSA": "77",
     "All PSA": "77",
-    "OSA": "E24"
+    "OSA": "E24",
+    "Catalog BSC": 106
   },
   "C56": {
     "alpha": 11.764,
@@ -832,7 +857,8 @@
     "Catalog NGC": "246",
     "Mag": "10.9",
     "PSA": "7",
-    "All PSA": "7"
+    "All PSA": "7",
+    "Catalog BSC": 107
   },
   "C57": {
     "alpha": 296.234,
@@ -849,6 +875,7 @@
     "PSA": "66",
     "All PSA": "66",
     "OSA": "E22",
+    "Catalog BSC": 146,
     "Notes": "U73 is \\degrees{0.7} NNW."
   },
   "C58": {
@@ -865,7 +892,8 @@
     "Mag": "7.0",
     "PSA": "27",
     "All PSA": "27",
-    "OSA": "E8"
+    "OSA": "E8",
+    "Catalog BSC": 79
   },
   "C59": {
     "alpha": 156.192,
@@ -881,7 +909,8 @@
     "Catalog U": 43,
     "PSA": "36/37",
     "All PSA": "36/37",
-    "OSA": "E10"
+    "OSA": "E10",
+    "Catalog BSC": 125
   },
   "C60": {
     "alpha": 180.471,
@@ -940,7 +969,8 @@
     "Mag": "6.0",
     "PSA": "76/77",
     "All PSA": "76/77",
-    "OSA": "E24"
+    "OSA": "E24",
+    "Catalog BSC": 91
   },
   "C64": {
     "alpha": 109.671,
@@ -955,7 +985,8 @@
     "Mag": "4.1",
     "PSA": "27",
     "All PSA": "27/29",
-    "OSA": "E6"
+    "OSA": "E6",
+    "Catalog BSC": 17
   },
   "C65": {
     "alpha": 11.888,
@@ -971,6 +1002,7 @@
     "PSA": "7/9",
     "All PSA": "7/9",
     "OSA": "E0",
+    "Catalog BSC": 108,
     "Hops": "\u03b2 Cet Deneb Kaitos (mag 2.0) \\hop \\degrees{7} S \\hop \\degrees{1} E to C65"
   },
   "C66": {
@@ -1024,7 +1056,8 @@
     "Name": "Bug Nebula",
     "Mag": "9.6",
     "PSA": "58",
-    "All PSA": "58"
+    "All PSA": "58",
+    "Catalog BSC": 77
   },
   "C70": {
     "alpha": 13.723,
@@ -1037,7 +1070,8 @@
     "Catalog NGC": "300",
     "Mag": "7.2",
     "PSA": "9",
-    "All PSA": "9"
+    "All PSA": "9",
+    "Catalog BSC": 138
   },
   "C71": {
     "alpha": 118.046,
@@ -1052,7 +1086,8 @@
     "Mag": "5.8",
     "PSA": "28",
     "All PSA": "28",
-    "OSA": "S6"
+    "OSA": "S6",
+    "Catalog BSC": 41
   },
   "C72": {
     "alpha": 3.723,
@@ -1066,7 +1101,8 @@
     "Mag": "7.5",
     "PSA": "9",
     "All PSA": "9/78",
-    "OSA": "S0"
+    "OSA": "S0",
+    "Catalog BSC": 102
   },
   "C73": {
     "alpha": 78.528,
@@ -1080,7 +1116,8 @@
     "Mag": "7.1",
     "PSA": "18",
     "All PSA": "18",
-    "OSA": "S0"
+    "OSA": "S0",
+    "Catalog BSC": 80
   },
   "C74": {
     "alpha": 151.757,
@@ -1108,7 +1145,8 @@
     "Mag": "5.3",
     "PSA": "58",
     "All PSA": "58",
-    "OSA": "S21"
+    "OSA": "S21",
+    "Catalog BSC": 42
   },
   "C76": {
     "alpha": 253.535,
@@ -1123,7 +1161,8 @@
     "Mag": "2.6",
     "PSA": "58",
     "All PSA": "58",
-    "OSA": "S21"
+    "OSA": "S21",
+    "Catalog BSC": 7
   },
   "C77": {
     "alpha": 201.365,
@@ -1152,7 +1191,8 @@
     "Mag": "6.3",
     "PSA": "69",
     "All PSA": "58/69",
-    "OSA": "S21"
+    "OSA": "S21",
+    "Catalog BSC": 60
   },
   "C79": {
     "alpha": 154.403,
@@ -1166,7 +1206,8 @@
     "Mag": "6.7",
     "PSA": "39",
     "All PSA": "39",
-    "OSA": "S6"
+    "OSA": "S6",
+    "Catalog BSC": 112
   },
   "C80": {
     "alpha": 201.697,
@@ -1181,7 +1222,8 @@
     "Mag": "3.9",
     "PSA": "48/49",
     "All PSA": "48/49/59",
-    "OSA": "S15"
+    "OSA": "S15",
+    "Catalog BSC": 14
   },
   "C81": {
     "alpha": 261.371,
@@ -1194,7 +1236,8 @@
     "Catalog NGC": "6352",
     "Mag": "7.8",
     "PSA": "58",
-    "All PSA": "58/69"
+    "All PSA": "58/69",
+    "Catalog BSC": 98
   },
   "C82": {
     "alpha": 250.319,
@@ -1207,7 +1250,8 @@
     "Catalog NGC": "6193",
     "Mag": "4.8",
     "PSA": "58",
-    "All PSA": "58"
+    "All PSA": "58",
+    "Catalog BSC": 30
   },
   "C83": {
     "alpha": 196.364,
@@ -1220,7 +1264,8 @@
     "Catalog NGC": "4945",
     "Mag": "8.8",
     "PSA": "49",
-    "All PSA": "38/49"
+    "All PSA": "38/49",
+    "Catalog BSC": 147
   },
   "C84": {
     "alpha": 206.612,
@@ -1233,7 +1278,8 @@
     "Catalog NGC": "5286",
     "Mag": "7.2",
     "PSA": "48",
-    "All PSA": "48/59"
+    "All PSA": "48/59",
+    "Catalog BSC": 92
   },
   "C85": {
     "alpha": 130.292,
@@ -1248,7 +1294,8 @@
     "Mag": "2.8",
     "PSA": "28",
     "All PSA": "28/39",
-    "OSA": "S6"
+    "OSA": "S6",
+    "Catalog BSC": 6
   },
   "C86": {
     "alpha": 265.175,
@@ -1262,7 +1309,8 @@
     "Mag": "5.3",
     "PSA": "58",
     "All PSA": "58/69",
-    "OSA": "S18"
+    "OSA": "S18",
+    "Catalog BSC": 67
   },
   "C87": {
     "alpha": 48.068,
@@ -1275,7 +1323,8 @@
     "Catalog NGC": "1261",
     "Mag": "8.3",
     "PSA": "19",
-    "All PSA": "8/19/20"
+    "All PSA": "8/19/20",
+    "Catalog BSC": 115
   },
   "C88": {
     "alpha": 226.365,
@@ -1289,7 +1338,8 @@
     "Catalog Mel": 131,
     "Mag": "7.9",
     "PSA": "59",
-    "All PSA": "48/59/60"
+    "All PSA": "48/59/60",
+    "Catalog BSC": 103
   },
   "C89": {
     "alpha": 244.721,
@@ -1304,7 +1354,8 @@
     "Mag": "5.2",
     "PSA": "58/60",
     "All PSA": "48/58/60",
-    "OSA": "S18"
+    "OSA": "S18",
+    "Catalog BSC": 33
   },
   "C90": {
     "alpha": 140.356,
@@ -1332,6 +1383,7 @@
     "PSA": "38/40",
     "All PSA": "38/40/49",
     "OSA": "S9",
+    "Catalog BSC": 9,
     "Notes": "C90 is \\degrees{2.5} SW."
   },
   "C92": {
@@ -1347,6 +1399,7 @@
     "PSA": "38/40",
     "All PSA": "38/40/49",
     "OSA": "S9",
+    "Catalog BSC": 3,
     "Notes": "The nebula is variable in magnitude. C91 is \\degrees{2.5} NE."
   },
   "C93": {
@@ -1361,7 +1414,8 @@
     "Mag": "5.4",
     "PSA": "69/70",
     "All PSA": "69/70",
-    "OSA": "S24"
+    "OSA": "S24",
+    "Catalog BSC": 34
   },
   "C94": {
     "alpha": 193.415,
@@ -1378,6 +1432,7 @@
     "PSA": "49/50",
     "All PSA": "38/49/50",
     "OSA": "S12",
+    "Catalog BSC": 20,
     "Notes": "The northern edge of C99 is \\degrees{1} S."
   },
   "C95": {
@@ -1391,7 +1446,8 @@
     "Catalog NGC": "6025",
     "Mag": "5.5",
     "PSA": "59/60",
-    "All PSA": "59/60"
+    "All PSA": "59/60",
+    "Catalog BSC": 29
   },
   "C96": {
     "alpha": 119.527,
@@ -1406,7 +1462,8 @@
     "Mag": "3.5",
     "PSA": "28/30",
     "All PSA": "28/30/39",
-    "OSA": "S3"
+    "OSA": "S3",
+    "Catalog BSC": 13
   },
   "C97": {
     "alpha": 174.061,
@@ -1422,6 +1479,7 @@
     "PSA": "38/40",
     "All PSA": "38/40/49",
     "OSA": "S12",
+    "Catalog BSC": 32,
     "Notes": "C100 is \\degrees{1.8} S."
   },
   "C98": {
@@ -1437,6 +1495,7 @@
     "Mag": "6.9",
     "PSA": "49/50",
     "All PSA": "38/49/50",
+    "Catalog BSC": 70,
     "Notes": "Surrounded by C99."
   },
   "C99": {
@@ -1464,6 +1523,7 @@
     "Mag": "2.9",
     "PSA": "38/40",
     "All PSA": "38/40/49/50",
+    "Catalog BSC": 22,
     "Notes": "C97 is \\degrees{1.8} N."
   },
   "C101": {
@@ -1477,7 +1537,8 @@
     "Catalog NGC": "6744",
     "Mag": "8.6",
     "PSA": "70",
-    "All PSA": "70"
+    "All PSA": "70",
+    "Catalog BSC": 143
   },
   "C102": {
     "alpha": 160.613,
@@ -1494,7 +1555,8 @@
     "Mag": "1.9",
     "PSA": "38/40",
     "All PSA": "38/40",
-    "OSA": "S9"
+    "OSA": "S9",
+    "Catalog BSC": 5
   },
   "C103": {
     "alpha": 84.675,
@@ -1509,6 +1571,7 @@
     "PSA": "20/30/D",
     "All PSA": "20/30/D",
     "OSA": "S3",
+    "Catalog BSC": 109,
     "Notes": "The nebula is magnitude 4.0 (DSC:TCO). the cluster is magnitude 8.3 and has a diameter of \\arcmin{5} (DSC:TCO)."
   },
   "C104": {
@@ -1524,7 +1587,8 @@
     "Mag": "6.4",
     "PSA": "10/80",
     "All PSA": "10/20/80",
-    "OSA": "S0"
+    "OSA": "S0",
+    "Catalog BSC": 64
   },
   "C105": {
     "alpha": 194.891,
@@ -1537,7 +1601,8 @@
     "Catalog NGC": "4833",
     "Mag": "8.4",
     "PSA": "50",
-    "All PSA": "40/50"
+    "All PSA": "40/50",
+    "Catalog BSC": 97
   },
   "C106": {
     "alpha": 6.022,
@@ -1553,7 +1618,8 @@
     "Mag": "4.0",
     "PSA": "10/80",
     "All PSA": "10/80",
-    "OSA": "S0"
+    "OSA": "S0",
+    "Catalog BSC": 26
   },
   "C107": {
     "alpha": 246.451,
@@ -1566,7 +1632,8 @@
     "Catalog NGC": "6101",
     "Mag": "9.2",
     "PSA": "60",
-    "All PSA": "50/60/70"
+    "All PSA": "50/60/70",
+    "Catalog BSC": 139
   },
   "C108": {
     "alpha": 186.439,
@@ -1579,7 +1646,8 @@
     "Catalog NGC": "4372",
     "Mag": "7.2",
     "PSA": "40/50",
-    "All PSA": "40/50"
+    "All PSA": "40/50",
+    "Catalog BSC": 99
   },
   "C109": {
     "alpha": 152.337,
@@ -1609,7 +1677,8 @@
     "Mag": "8.0",
     "Constellation": "Tau",
     "CSA": "3/9",
-    "OSA": "E3"
+    "OSA": "E3",
+    "Catalog BSC": 119
   },
   "M2": {
     "alpha": 323.363,
@@ -1626,7 +1695,8 @@
     "Mag": "6.3",
     "Constellation": "Aqr",
     "CSA": "13",
-    "OSA": "E24"
+    "OSA": "E24",
+    "Catalog BSC": 56
   },
   "M3": {
     "alpha": 205.548,
@@ -1643,7 +1713,8 @@
     "Mag": "5.9",
     "Constellation": "CVn",
     "CSA": "5",
-    "OSA": "E15"
+    "OSA": "E15",
+    "Catalog BSC": 53
   },
   "M4": {
     "alpha": 245.897,
@@ -1660,7 +1731,8 @@
     "Mag": "5.4",
     "Constellation": "Sco",
     "CSA": "11/12/17/18",
-    "OSA": "E18"
+    "OSA": "E18",
+    "Catalog BSC": 43
   },
   "M5": {
     "alpha": 229.638,
@@ -1677,7 +1749,8 @@
     "Mag": "5.7",
     "Constellation": "Ser",
     "CSA": "11/12",
-    "OSA": "E15"
+    "OSA": "E15",
+    "Catalog BSC": 66
   },
   "M6": {
     "alpha": 265.069,
@@ -1696,6 +1769,7 @@
     "Constellation": "Sco",
     "CSA": "18",
     "OSA": "E18",
+    "Catalog BSC": 18,
     "Hops": "\u03bb Sco Shaula (mag 1.6) \\hop \\degrees{5} N \\hop \\degrees{1} E to M6/U60"
   },
   "M7": {
@@ -1714,6 +1788,7 @@
     "Constellation": "Sco",
     "CSA": "18",
     "OSA": "E18",
+    "Catalog BSC": 10,
     "Hops": "\u03b5 Sgr Kaus Australis (mag 1.8) \\hop \\degrees{6} W to M7/U62"
   },
   "M8": {
@@ -1733,6 +1808,7 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
+    "Catalog BSC": 45,
     "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{6} N to M8/U64",
     "Notes": "M20 is \\degrees{1.5} N.  M21 is \\degrees{2.0} N."
   },
@@ -1750,7 +1826,8 @@
     "Mag": "7.8",
     "Constellation": "Oph",
     "CSA": "12/18",
-    "OSA": "E17"
+    "OSA": "E17",
+    "Catalog BSC": 123
   },
   "M10": {
     "alpha": 254.288,
@@ -1767,7 +1844,8 @@
     "All PSA": "54/56",
     "Constellation": "Oph",
     "CSA": "12",
-    "OSA": "E17"
+    "OSA": "E17",
+    "Catalog BSC": 61
   },
   "M11": {
     "alpha": 282.766,
@@ -1804,7 +1882,8 @@
     "Mag": "6.1",
     "Constellation": "Oph",
     "CSA": "12",
-    "OSA": "E17"
+    "OSA": "E17",
+    "Catalog BSC": 94
   },
   "M13": {
     "alpha": 250.423,
@@ -1823,6 +1902,7 @@
     "Constellation": "Her",
     "CSA": "5/6",
     "OSA": "N14",
+    "Catalog BSC": 40,
     "Hops": "\u03b6 Her (mag 2.8)\\hop \\degrees{5} N (2/3 distance to \u03b7 Her) to M13/U54"
   },
   "M14": {
@@ -1839,7 +1919,8 @@
     "Mag": "7.6",
     "Constellation": "Oph",
     "CSA": "12",
-    "OSA": "E17"
+    "OSA": "E17",
+    "Catalog BSC": 116
   },
   "M15": {
     "alpha": 322.493,
@@ -1856,7 +1937,8 @@
     "Mag": "6.0",
     "Constellation": "Peg",
     "CSA": "13",
-    "OSA": "E23"
+    "OSA": "E23",
+    "Catalog BSC": 54
   },
   "M16": {
     "alpha": 274.688,
@@ -1875,6 +1957,7 @@
     "Constellation": "Ser",
     "CSA": "12",
     "OSA": "E20",
+    "Catalog BSC": 46,
     "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{4} E \\hop \\degrees{4} S to M16\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{7} N \\hop \\degrees{1} E to M16"
   },
   "M17": {
@@ -1894,6 +1977,7 @@
     "Constellation": "Sgr",
     "CSA": "12",
     "OSA": "E20",
+    "Catalog BSC": 47,
     "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{6} S to M17/U65\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{5} N passing M24 and M18 \\hop \\degrees{2} E to M17",
     "Notes": "M18 is \\degrees{1} S. M24 is  \\degrees{3} SW."
   },
@@ -1912,6 +1996,7 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
+    "Catalog BSC": 87,
     "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{7} S passing M17/U65 to M18\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{4} N passing M24 \\hop \\degrees{2} E to M18",
     "Notes": "M17/U65 is \\degrees{1} N. M24 is \\degrees{2} SW."
   },
@@ -1929,7 +2014,8 @@
     "Mag": "6.8",
     "Constellation": "Oph",
     "CSA": "12/18",
-    "OSA": "E18"
+    "OSA": "E18",
+    "Catalog BSC": 86
   },
   "M20": {
     "alpha": 270.675,
@@ -1948,6 +2034,7 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
+    "Catalog BSC": 57,
     "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{7.5} N passing M8/U64 to M20",
     "Notes": "M8/U64 is \\degrees{1.5} S. M21 is \\degrees{0.5} NE."
   },
@@ -1966,6 +2053,7 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
+    "Catalog BSC": 65,
     "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{8.0} N passing M8/U64 and M20 to M21",
     "Notes": "M8/U64 is \\degrees{2.0} S. M20 is \\degrees{0.5} SW."
   },
@@ -1984,7 +2072,8 @@
     "Mag": "5.2",
     "Constellation": "Sgr",
     "CSA": "12/18",
-    "OSA": "E20"
+    "OSA": "E20",
+    "Catalog BSC": 28
   },
   "M23": {
     "alpha": 269.237,
@@ -2000,7 +2089,8 @@
     "Mag": "5.5",
     "Constellation": "Sgr",
     "CSA": "12/18",
-    "OSA": "E20"
+    "OSA": "E20",
+    "Catalog BSC": 69
   },
   "M24": {
     "alpha": 274.2,
@@ -2017,6 +2107,7 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
+    "Catalog BSC": 23,
     "Notes": "M18 is \\degrees{1.5} NE. M17/U65 is \\degrees{3} NE."
   },
   "M25": {
@@ -2033,7 +2124,8 @@
     "Mag": "4.6",
     "Constellation": "Sgr",
     "CSA": "12/18",
-    "OSA": "E20"
+    "OSA": "E20",
+    "Catalog BSC": 24
   },
   "M26": {
     "alpha": 281.317,
@@ -2049,7 +2141,8 @@
     "Mag": "8.0",
     "Constellation": "Sct",
     "CSA": "12",
-    "OSA": "E19"
+    "OSA": "E19",
+    "Catalog BSC": 104
   },
   "M27": {
     "alpha": 299.902,
@@ -2067,7 +2160,8 @@
     "Mag": "7.3",
     "Constellation": "Vul",
     "CSA": "6/7/12/13",
-    "OSA": "E21"
+    "OSA": "E21",
+    "Catalog BSC": 88
   },
   "M28": {
     "alpha": 276.137,
@@ -2083,7 +2177,8 @@
     "Mag": "6.9",
     "Constellation": "Sgr",
     "CSA": "12/18",
-    "OSA": "E20"
+    "OSA": "E20",
+    "Catalog BSC": 93
   },
   "M29": {
     "alpha": 305.943,
@@ -2100,6 +2195,7 @@
     "Constellation": "Cyg",
     "CSA": "6/7",
     "OSA": "N20",
+    "Catalog BSC": 75,
     "Hops": "\u03b3 Cyg Sadr (mag 2.2) \\hop \\degrees{1.8} S to M29"
   },
   "M30": {
@@ -2116,7 +2212,8 @@
     "Mag": "6.9",
     "Constellation": "Cap",
     "CSA": "13/19",
-    "OSA": "E22"
+    "OSA": "E22",
+    "Catalog BSC": 95
   },
   "M31": {
     "alpha": 10.685,
@@ -2135,6 +2232,7 @@
     "Constellation": "And",
     "CSA": "2/7",
     "OSA": "N0",
+    "Catalog BSC": 11,
     "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to M31/U3",
     "Notes": "M32/U2 is \\degrees{0.5} S. M100 is \\degrees{0.5} NW."
   },
@@ -2154,6 +2252,7 @@
     "Constellation": "And",
     "CSA": "2/7",
     "OSA": "N0",
+    "Catalog BSC": 110,
     "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{2.5} W \\hop \\degrees{2.5} N to M32/U2",
     "Notes": "M31/U3 is \\degrees{0.5} N. M110 is \\degrees{1} NW."
   },
@@ -2171,7 +2270,8 @@
     "Mag": "5.7",
     "Constellation": "Tri",
     "CSA": "2",
-    "OSA": "N0"
+    "OSA": "N0",
+    "Catalog BSC": 39
   },
   "M34": {
     "alpha": 40.531,
@@ -2188,6 +2288,7 @@
     "Constellation": "Per",
     "CSA": "2/3",
     "OSA": "N4",
+    "Catalog BSC": 35,
     "Hops": "\u03b2~Per Algol (mag 2.1--3.4) \\hop \\degrees{2.0} N (1/2 distance to \u03ba~Per) \\hop \\degrees{4.5} W (2/5 distance to \u03b3~And) to M34\\\\"
   },
   "M35": {
@@ -2205,7 +2306,8 @@
     "Mag": "5.1",
     "Constellation": "Gem",
     "CSA": "3/9",
-    "OSA": "E7"
+    "OSA": "E7",
+    "Catalog BSC": 31
   },
   "M36": {
     "alpha": 84.084,
@@ -2222,7 +2324,8 @@
     "Mag": "6.0",
     "Constellation": "Aur",
     "CSA": "3",
-    "OSA": "N6"
+    "OSA": "N6",
+    "Catalog BSC": 58
   },
   "M37": {
     "alpha": 88.074,
@@ -2240,6 +2343,7 @@
     "Constellation": "Aur",
     "CSA": "3",
     "OSA": "N6",
+    "Catalog BSC": 55,
     "Hops": "\u03b2 Tau Elnath (mag 1.7) \\hop \\degrees{6} W to point \\degrees{1} N of 136 Tau \\hop \\degrees{4} N to M37/U26"
   },
   "M38": {
@@ -2258,6 +2362,7 @@
     "Constellation": "Aur",
     "CSA": "3",
     "OSA": "N6",
+    "Catalog BSC": 82,
     "Hops": "\u03b2 Tau Elnath (mag 1.7) \\hop \\degrees{7} N to M38/U23",
     "Notes": "M36/U23 is \\degrees{2.5} SE."
   },
@@ -2276,7 +2381,8 @@
     "Mag": "4.6",
     "Constellation": "Cyg",
     "CSA": "1/6/7",
-    "OSA": "N24"
+    "OSA": "N24",
+    "Catalog BSC": 36
   },
   "M40": {
     "alpha": 185.55,
@@ -2307,6 +2413,7 @@
     "Constellation": "CMa",
     "CSA": "9/15",
     "OSA": "E6",
+    "Catalog BSC": 21,
     "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{4} S to M41/U33"
   },
   "M42": {
@@ -2326,6 +2433,7 @@
     "Constellation": "Ori",
     "CSA": "9",
     "OSA": "E4",
+    "Catalog BSC": 15,
     "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N."
   },
   "M43": {
@@ -2342,6 +2450,7 @@
     "Constellation": "Ori",
     "CSA": "9",
     "OSA": "E4",
+    "Catalog BSC": 136,
     "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N."
   },
   "M44": {
@@ -2361,7 +2470,8 @@
     "Mag": "3.1",
     "Constellation": "Cnc",
     "CSA": "3/4/9/10",
-    "OSA": "E9"
+    "OSA": "E9",
+    "Catalog BSC": 12
   },
   "M45": {
     "alpha": 56.601,
@@ -2379,7 +2489,8 @@
     "Mag": "1.5",
     "Constellation": "Tau",
     "CSA": "2/3/8/9",
-    "OSA": "E3"
+    "OSA": "E3",
+    "Catalog BSC": 4
   },
   "M46": {
     "alpha": 115.445,
@@ -2396,6 +2507,7 @@
     "Constellation": "Pup",
     "CSA": "9/10/15/16",
     "OSA": "E8",
+    "Catalog BSC": 50,
     "Notes": "M47 is \\degrees{1.3} W."
   },
   "M47": {
@@ -2413,6 +2525,7 @@
     "Constellation": "Pup",
     "CSA": "9/10/15/16",
     "OSA": "E8",
+    "Catalog BSC": 19,
     "Notes": "M46 is \\degrees{1.3} E."
   },
   "M48": {
@@ -2430,7 +2543,8 @@
     "Mag": "5.8",
     "Constellation": "Hya",
     "CSA": "9/10",
-    "OSA": "E10"
+    "OSA": "E10",
+    "Catalog BSC": 37
   },
   "M49": {
     "alpha": 187.445,
@@ -2447,7 +2561,8 @@
     "Constellation": "Vir",
     "CSA": "10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Catalog BSC": 150
   },
   "M50": {
     "alpha": 105.698,
@@ -2465,6 +2580,7 @@
     "Constellation": "Mon",
     "CSA": "9",
     "OSA": "E8",
+    "Catalog BSC": 44,
     "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{3} E to \u03b9 CMa \\hop \\degrees{5} N passing \u03bc CMa to \u03b8 CMa \\hop \\degrees{4} N to asterism of three stars \\hop \\degrees{2} E to M50/U35"
   },
   "M51": {
@@ -2482,7 +2598,8 @@
     "Mag": "8.4",
     "Constellation": "CVn",
     "CSA": "4/5",
-    "OSA": "N12"
+    "OSA": "N12",
+    "Catalog BSC": 120
   },
   "M52": {
     "alpha": 351.195,
@@ -2499,6 +2616,7 @@
     "Constellation": "Cas",
     "CSA": "2/7",
     "OSA": "N22",
+    "Catalog BSC": 27,
     "Hops": "\u03b2 Cas Chaph (mag 2.3) \\hop \\degrees{2} N \\hop \\degrees{6} W to M52",
     "Notes": "C11 is \\degrees{0.6} to SW."
   },
@@ -2516,7 +2634,8 @@
     "Mag": "7.7",
     "Constellation": "Com",
     "CSA": "5/11",
-    "OSA": "E13"
+    "OSA": "E13",
+    "Catalog BSC": 117
   },
   "M54": {
     "alpha": 283.764,
@@ -2532,7 +2651,8 @@
     "Mag": "7.2",
     "Constellation": "Sgr",
     "CSA": "18/19",
-    "OSA": "E20"
+    "OSA": "E20",
+    "Catalog BSC": 118
   },
   "M55": {
     "alpha": 294.999,
@@ -2548,7 +2668,8 @@
     "Mag": "6.3",
     "Constellation": "Sgr",
     "CSA": "18/19",
-    "OSA": "E22"
+    "OSA": "E22",
+    "Catalog BSC": 85
   },
   "M56": {
     "alpha": 289.148,
@@ -2565,6 +2686,7 @@
     "Constellation": "Lyr",
     "CSA": "6/7",
     "OSA": "N18",
+    "Catalog BSC": 113,
     "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{3.5} E \\hop \\degrees{2.5} S to M56"
   },
   "M57": {
@@ -2584,6 +2706,7 @@
     "Constellation": "Lyr",
     "CSA": "6/7",
     "OSA": "N18",
+    "Catalog BSC": 127,
     "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{1.2} W \\hop \\degrees{0.4} N to M57/U71"
   },
   "M58": {
@@ -2670,6 +2793,7 @@
     "Constellation": "Oph",
     "CSA": "17/18",
     "OSA": "E18",
+    "Catalog BSC": 81,
     "Hops": "\u03b5 Sco (mag 2.3) \\hop \\degrees{2} E \\hop \\degrees{4} N to M63"
   },
   "M63": {
@@ -2687,7 +2811,8 @@
     "Mag": "8.6",
     "Constellation": "CVn",
     "CSA": "4/5",
-    "OSA": "N12"
+    "OSA": "N12",
+    "Catalog BSC": 145
   },
   "M64": {
     "alpha": 194.182,
@@ -2705,7 +2830,8 @@
     "Mag": "8.5",
     "Constellation": "Com",
     "CSA": "5/11",
-    "OSA": "E13"
+    "OSA": "E13",
+    "Catalog BSC": 149
   },
   "M65": {
     "alpha": 169.733,
@@ -2739,6 +2865,7 @@
     "Constellation": "Leo",
     "CSA": "10/11",
     "OSA": "E11",
+    "Catalog BSC": 130,
     "Notes": "M65 is \\arcmin{20} W."
   },
   "M67": {
@@ -2756,7 +2883,8 @@
     "Mag": "6.0",
     "Constellation": "Cnc",
     "CSA": "10",
-    "OSA": "E9"
+    "OSA": "E9",
+    "Catalog BSC": 51
   },
   "M68": {
     "alpha": 189.867,
@@ -2804,7 +2932,8 @@
     "Mag": "7.8",
     "Constellation": "Sgr",
     "CSA": "18",
-    "OSA": "E20"
+    "OSA": "E20",
+    "Catalog BSC": 105
   },
   "M71": {
     "alpha": 298.444,
@@ -2820,7 +2949,8 @@
     "Mag": "8.0",
     "Constellation": "Sge",
     "CSA": "6/7/12/13",
-    "OSA": "E21"
+    "OSA": "E21",
+    "Catalog BSC": 52
   },
   "M72": {
     "alpha": 313.365,
@@ -2837,6 +2967,7 @@
     "Constellation": "Aqr",
     "CSA": "13",
     "OSA": "E24",
+    "Catalog BSC": 148,
     "Notes": "M73 is \\degrees{1.4} W."
   },
   "M73": {
@@ -2887,7 +3018,8 @@
     "Mag": "8.6",
     "Constellation": "Sgr",
     "CSA": "12/13/18/19",
-    "OSA": "E22"
+    "OSA": "E22",
+    "Catalog BSC": 144
   },
   "M76": {
     "alpha": 25.582,
@@ -2937,7 +3069,8 @@
     "All PSA": "14/16",
     "Constellation": "Ori",
     "CSA": "9",
-    "OSA": "E5"
+    "OSA": "E5",
+    "Catalog BSC": 114
   },
   "M79": {
     "alpha": 81.044,
@@ -2953,7 +3086,8 @@
     "Mag": "7.7",
     "Constellation": "Lep",
     "CSA": "9/15",
-    "OSA": "E4"
+    "OSA": "E4",
+    "Catalog BSC": 126
   },
   "M80": {
     "alpha": 244.26,
@@ -2970,6 +3104,7 @@
     "Constellation": "Sco",
     "CSA": "11/12/17/18",
     "OSA": "E18",
+    "Catalog BSC": 101,
     "Hops": "\u03b1 Sco Antares (mag 0.9--1.1) \\hop \\degrees{3.0} W \\hop \\degrees{3.5} N to M80"
   },
   "M81": {
@@ -2988,6 +3123,7 @@
     "Constellation": "UMa",
     "CSA": "1/4",
     "OSA": "N8",
+    "Catalog BSC": 72,
     "Notes": "M82/U42 is \\degrees{0.6} N."
   },
   "M82": {
@@ -3006,6 +3142,7 @@
     "Constellation": "UMa",
     "CSA": "1/4",
     "OSA": "N8",
+    "Catalog BSC": 122,
     "Notes": "M81/U41 is \\degrees{0.6} S."
   },
   "M83": {
@@ -3022,7 +3159,8 @@
     "Mag": "7.6",
     "Constellation": "Hya",
     "CSA": "17",
-    "OSA": "E16"
+    "OSA": "E16",
+    "Catalog BSC": 89
   },
   "M84": {
     "alpha": 186.266,
@@ -3179,6 +3317,7 @@
     "Constellation": "Her",
     "CSA": "5/6",
     "OSA": "N14",
+    "Catalog BSC": 59,
     "Hops": "\u03c0 Her (mag 3.2) \\hop \\degrees{6.5} N to M92/U59"
   },
   "M93": {
@@ -3196,7 +3335,8 @@
     "Mag": "6.2",
     "Constellation": "Pup",
     "CSA": "9/10/15/16",
-    "OSA": "E6"
+    "OSA": "E6",
+    "Catalog BSC": 48
   },
   "M94": {
     "alpha": 192.721,
@@ -3213,7 +3353,8 @@
     "Mag": "8.2",
     "Constellation": "CVn",
     "CSA": "4/5",
-    "OSA": "N12"
+    "OSA": "N12",
+    "Catalog BSC": 134
   },
   "M95": {
     "alpha": 160.991,
@@ -3331,7 +3472,8 @@
     "Mag": "7.9",
     "Constellation": "UMa",
     "CSA": "1/4/5/6",
-    "OSA": "N10"
+    "OSA": "N10",
+    "Catalog BSC": 100
   },
   "M102": {
     "alpha": 226.623,
@@ -3365,6 +3507,7 @@
     "Constellation": "Cas",
     "CSA": "1/2/3/7",
     "OSA": "N2",
+    "Catalog BSC": 83,
     "Notes": "C10 is \\degrees{1.7} ENE."
   },
   "M104": {
@@ -3383,7 +3526,8 @@
     "Mag": "8.0",
     "Constellation": "Vir",
     "CSA": "10/11",
-    "OSA": "E12"
+    "OSA": "E12",
+    "Catalog BSC": 133
   },
   "M105": {
     "alpha": 161.957,
@@ -3416,7 +3560,8 @@
     "Mag": "8.4",
     "Constellation": "CVn",
     "CSA": "4/5",
-    "OSA": "N12"
+    "OSA": "N12",
+    "Catalog BSC": 141
   },
   "M107": {
     "alpha": 248.133,
@@ -3432,7 +3577,8 @@
     "Mag": "7.8",
     "Constellation": "Oph",
     "CSA": "11/12",
-    "OSA": "E17"
+    "OSA": "E17",
+    "Catalog BSC": 129
   },
   "M108": {
     "alpha": 167.879,
@@ -3482,6 +3628,7 @@
     "Constellation": "And",
     "CSA": "2/7",
     "OSA": "N0",
+    "Catalog BSC": 132,
     "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{3.0} W \\hop \\degrees{3.5} N to M31/U3",
     "Notes": "M31/U3 is \\degrees{0.5} SE. M32/U2 is \\degrees{1} SE."
   },
