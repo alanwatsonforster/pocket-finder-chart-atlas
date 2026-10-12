@@ -9,7 +9,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 1,
-      "Catalog NGC": "188",
+      "Catalog NGC": 188,
       "Catalog Mel": 2
     },
     {
@@ -44,7 +44,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 2,
-      "Catalog NGC": "40"
+      "Catalog NGC": 40
     },
     {
       "Provenance": "DSC:TCO",
@@ -76,7 +76,7 @@
       "PA": 162,
       "Type": "GinGroup",
       "Catalog C": 3,
-      "Catalog NGC": "4236"
+      "Catalog NGC": 4236
     },
     {
       "Provenance": "DSC:TCO",
@@ -103,7 +103,7 @@
       "delta": 68.163,
       "Type": "RfNeb",
       "Catalog C": 4,
-      "Catalog NGC": "7023"
+      "Catalog NGC": 7023
     },
     {
       "Provenance": "DSC:TCO",
@@ -177,7 +177,7 @@
       "PA": 10,
       "Type": "PN",
       "Catalog C": 6,
-      "Catalog NGC": "6543"
+      "Catalog NGC": 6543
     },
     {
       "Provenance": "DSC:TCO",
@@ -212,7 +212,7 @@
       "PA": 126,
       "Type": "AGN",
       "Catalog C": 7,
-      "Catalog NGC": "2403"
+      "Catalog NGC": 2403
     },
     {
       "Provenance": "DSC:TCO",
@@ -247,7 +247,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 8,
-      "Catalog NGC": "559"
+      "Catalog NGC": 559
     },
     {
       "Provenance": "DSC:TCO",
@@ -324,7 +324,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 10,
-      "Catalog NGC": "663"
+      "Catalog NGC": 663
     },
     {
       "Provenance": "DSC:TCO",
@@ -368,7 +368,7 @@
       "delta": 61.202,
       "Type": "HII",
       "Catalog C": 11,
-      "Catalog NGC": "7635"
+      "Catalog NGC": 7635
     },
     {
       "Provenance": "DSC:TCO",
@@ -402,7 +402,7 @@
       "Y": 10.7,
       "Type": "HII_G",
       "Catalog C": 12,
-      "Catalog NGC": "6946"
+      "Catalog NGC": 6946
     },
     {
       "Provenance": "DSC:TCO",
@@ -441,7 +441,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 13,
-      "Catalog NGC": "457"
+      "Catalog NGC": 457
     },
     {
       "Provenance": "DSC:TCO",
@@ -515,7 +515,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 15,
-      "Catalog NGC": "6826"
+      "Catalog NGC": 6826
     },
     {
       "Provenance": "DSC:TCO",
@@ -549,7 +549,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 16,
-      "Catalog NGC": "7243"
+      "Catalog NGC": 7243
     },
     {
       "Provenance": "DSC:TCO",
@@ -586,7 +586,7 @@
       "PA": 25,
       "Type": "GinGroup",
       "Catalog C": 17,
-      "Catalog NGC": "147"
+      "Catalog NGC": 147
     },
     {
       "Provenance": "DSC:TCO",
@@ -615,7 +615,7 @@
       "PA": 35,
       "Type": "Seyfert_2",
       "Catalog C": 18,
-      "Catalog NGC": "185"
+      "Catalog NGC": 185
     },
     {
       "Provenance": "DSC:TCO",
@@ -676,7 +676,7 @@
       "delta": 44.33,
       "Type": "HII",
       "Catalog C": 20,
-      "Catalog NGC": "7000"
+      "Catalog NGC": 7000
     },
     {
       "Provenance": "DSC:TCO",
@@ -714,7 +714,7 @@
       "PA": 46,
       "Type": "EmG",
       "Catalog C": 21,
-      "Catalog NGC": "4449"
+      "Catalog NGC": 4449
     },
     {
       "Provenance": "DSC:TCO",
@@ -744,7 +744,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 22,
-      "Catalog NGC": "7662"
+      "Catalog NGC": 7662
     },
     {
       "Provenance": "DSC:TCO",
@@ -778,7 +778,7 @@
       "PA": 22,
       "Type": "HII_G",
       "Catalog C": 23,
-      "Catalog NGC": "891",
+      "Catalog NGC": 891,
       "Mag": "9.9"
     },
     {
@@ -807,7 +807,7 @@
       "PA": 110,
       "Type": "Seyfert_2",
       "Catalog C": 24,
-      "Catalog NGC": "1275",
+      "Catalog NGC": 1275,
       "Name": "Per A"
     },
     {
@@ -834,7 +834,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 25,
-      "Catalog NGC": "2419"
+      "Catalog NGC": 2419
     },
     {
       "Provenance": "DSC:TCO",
@@ -863,7 +863,7 @@
       "PA": 41,
       "Type": "GinGroup",
       "Catalog C": 26,
-      "Catalog NGC": "4244"
+      "Catalog NGC": 4244
     },
     {
       "Provenance": "DSC:TCO",
@@ -889,7 +889,7 @@
       "delta": 38.355,
       "Type": "ISM",
       "Catalog C": 27,
-      "Catalog NGC": "6888"
+      "Catalog NGC": 6888
     },
     {
       "Provenance": "DSC:TCO",
@@ -919,7 +919,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 28,
-      "Catalog NGC": "752",
+      "Catalog NGC": 752,
       "Catalog Mel": 12
     },
     {
@@ -953,7 +953,7 @@
       "PA": 74,
       "Type": "GinPair",
       "Catalog C": 29,
-      "Catalog NGC": "5005"
+      "Catalog NGC": 5005
     },
     {
       "Provenance": "DSC:TCO",
@@ -978,7 +978,7 @@
       "PA": 171,
       "Type": "LINER",
       "Catalog C": 30,
-      "Catalog NGC": "7331"
+      "Catalog NGC": 7331
     },
     {
       "Provenance": "DSC:TCO",
@@ -1038,7 +1038,7 @@
       "PA": 86,
       "Type": "GinPair",
       "Catalog C": 32,
-      "Catalog NGC": "4631"
+      "Catalog NGC": 4631
     },
     {
       "Provenance": "DSC:TCO",
@@ -1065,7 +1065,7 @@
       "delta": 31.743,
       "Type": "HIshell",
       "Catalog C": 33,
-      "Catalog NGC": "6992"
+      "Catalog NGC": 6992
     },
     {
       "Provenance": "DSC:TCO",
@@ -1100,7 +1100,7 @@
       "delta": 30.708,
       "Type": "ISM",
       "Catalog C": 34,
-      "Catalog NGC": "6960"
+      "Catalog NGC": 6960
     },
     {
       "Provenance": "DSC:TCO",
@@ -1145,7 +1145,7 @@
       "X": 3,
       "Y": 2,
       "Type": "Gal",
-      "Catalog NGC": "4889",
+      "Catalog NGC": 4889,
       "Mag": "11.5"
     },
     {
@@ -1164,7 +1164,7 @@
       "PA": 150,
       "Type": "HII_G",
       "Catalog C": 36,
-      "Catalog NGC": "4559"
+      "Catalog NGC": 4559
     },
     {
       "Provenance": "DSC:TCO",
@@ -1194,7 +1194,7 @@
       "delta": 26.478,
       "Type": "OpCl",
       "Catalog C": 37,
-      "Catalog NGC": "6885"
+      "Catalog NGC": 6885
     },
     {
       "Provenance": "DSC:TCO",
@@ -1219,7 +1219,7 @@
       "PA": 135,
       "Type": "LINER",
       "Catalog C": 38,
-      "Catalog NGC": "4565"
+      "Catalog NGC": 4565
     },
     {
       "Provenance": "DSC:TCO",
@@ -1257,7 +1257,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 39,
-      "Catalog NGC": "2392"
+      "Catalog NGC": 2392
     },
     {
       "Provenance": "DSC:TCO",
@@ -1305,7 +1305,7 @@
       "X": 3.0,
       "Y": 2.2,
       "Type": "Gal",
-      "Catalog NGC": "3626",
+      "Catalog NGC": 3626,
       "Mag": "11.0"
     },
     {
@@ -1364,7 +1364,7 @@
       "PA": 85,
       "Type": "GlCl",
       "Catalog C": 42,
-      "Catalog NGC": "7006"
+      "Catalog NGC": 7006
     },
     {
       "Provenance": "DSC:TCO",
@@ -1389,7 +1389,7 @@
       "PA": 134,
       "Type": "GinGroup",
       "Catalog C": 43,
-      "Catalog NGC": "7814"
+      "Catalog NGC": 7814
     },
     {
       "Provenance": "DSC:TCO",
@@ -1414,7 +1414,7 @@
       "PA": 15,
       "Type": "Seyfert_2",
       "Catalog C": 44,
-      "Catalog NGC": "7479"
+      "Catalog NGC": 7479
     },
     {
       "Provenance": "DSC:TCO",
@@ -1439,7 +1439,7 @@
       "PA": 125,
       "Type": "GinGroup",
       "Catalog C": 45,
-      "Catalog NGC": "5248"
+      "Catalog NGC": 5248
     },
     {
       "Provenance": "DSC:TCO",
@@ -1461,7 +1461,7 @@
       "delta": 8.736,
       "Type": "Ae*",
       "Catalog C": 46,
-      "Catalog NGC": "2261"
+      "Catalog NGC": 2261
     },
     {
       "Provenance": "DSC:TCO",
@@ -1499,7 +1499,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 47,
-      "Catalog NGC": "6934"
+      "Catalog NGC": 6934
     },
     {
       "Provenance": "DSC:TCO",
@@ -1531,7 +1531,7 @@
       "PA": 160,
       "Type": "Galaxy",
       "Catalog C": 48,
-      "Catalog NGC": "2775"
+      "Catalog NGC": 2775
     },
     {
       "Provenance": "DSC:TCO",
@@ -1553,7 +1553,7 @@
       "delta": 4.981,
       "Type": "Cl*",
       "Catalog C": 49,
-      "Catalog NGC": "2237"
+      "Catalog NGC": 2237
     },
     {
       "Provenance": "DSC:TCO",
@@ -1605,7 +1605,7 @@
       "X": 30,
       "Y": 30,
       "Type": "OC",
-      "Catalog NGC": "2244",
+      "Catalog NGC": 2244,
       "Mag": "4.4"
     },
     {
@@ -1666,7 +1666,7 @@
       "PA": 86,
       "Type": "GinGroup",
       "Catalog C": 52,
-      "Catalog NGC": "4697"
+      "Catalog NGC": 4697
     },
     {
       "Provenance": "DSC:TCO",
@@ -1695,7 +1695,7 @@
       "PA": 15,
       "Type": "GinGroup",
       "Catalog C": 53,
-      "Catalog NGC": "3115"
+      "Catalog NGC": 3115
     },
     {
       "Provenance": "DSC:TCO",
@@ -1725,7 +1725,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 54,
-      "Catalog NGC": "2506",
+      "Catalog NGC": 2506,
       "Catalog Mel": 80,
       "Catalog Cr": 170
     },
@@ -1756,7 +1756,7 @@
       "PA": 70,
       "Type": "PN",
       "Catalog C": 55,
-      "Catalog NGC": "7009"
+      "Catalog NGC": 7009
     },
     {
       "Provenance": "DSC:TCO",
@@ -1790,7 +1790,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 56,
-      "Catalog NGC": "246",
+      "Catalog NGC": 246,
       "Mag": "10.9"
     },
     {
@@ -1818,7 +1818,7 @@
       "Y": 12.9,
       "Type": "Galaxy",
       "Catalog C": 57,
-      "Catalog NGC": "6822",
+      "Catalog NGC": 6822,
       "Catalog IC": 4895
     },
     {
@@ -1861,7 +1861,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 58,
-      "Catalog NGC": "2360",
+      "Catalog NGC": 2360,
       "Catalog Mel": 64
     },
     {
@@ -1896,7 +1896,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 59,
-      "Catalog NGC": "3242"
+      "Catalog NGC": 3242
     },
     {
       "Provenance": "DSC:TCO",
@@ -1937,7 +1937,7 @@
       "PA": 80,
       "Type": "GinPair",
       "Catalog C": 60,
-      "Catalog NGC": "4038"
+      "Catalog NGC": 4038
     },
     {
       "Provenance": "DSC:TCO",
@@ -1967,7 +1967,7 @@
       "PA": 50,
       "Type": "GinPair",
       "Catalog C": 61,
-      "Catalog NGC": "4039"
+      "Catalog NGC": 4039
     },
     {
       "Provenance": "DSC:TCO",
@@ -1997,7 +1997,7 @@
       "PA": 165,
       "Type": "LSB_G",
       "Catalog C": 62,
-      "Catalog NGC": "247"
+      "Catalog NGC": 247
     },
     {
       "Provenance": "DSC:TCO",
@@ -2026,7 +2026,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 63,
-      "Catalog NGC": "7293"
+      "Catalog NGC": 7293
     },
     {
       "Provenance": "DSC:TCO",
@@ -2060,7 +2060,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 64,
-      "Catalog NGC": "2362"
+      "Catalog NGC": 2362
     },
     {
       "Provenance": "DSC:TCO",
@@ -2094,7 +2094,7 @@
       "PA": 53,
       "Type": "Seyfert",
       "Catalog C": 65,
-      "Catalog NGC": "253"
+      "Catalog NGC": 253
     },
     {
       "Provenance": "DSC:TCO",
@@ -2132,7 +2132,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 66,
-      "Catalog NGC": "5694"
+      "Catalog NGC": 5694
     },
     {
       "Provenance": "DSC:TCO",
@@ -2157,7 +2157,7 @@
       "PA": 140,
       "Type": "LINER",
       "Catalog C": 67,
-      "Catalog NGC": "1097"
+      "Catalog NGC": 1097
     },
     {
       "Provenance": "DSC:TCO",
@@ -2179,7 +2179,7 @@
       "delta": -36.961,
       "Type": "ISM",
       "Catalog C": 68,
-      "Catalog NGC": "6729"
+      "Catalog NGC": 6729
     },
     {
       "Provenance": "DSC:TCO",
@@ -2208,7 +2208,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 69,
-      "Catalog NGC": "6302"
+      "Catalog NGC": 6302
     },
     {
       "Provenance": "DSC:TCO",
@@ -2238,7 +2238,7 @@
       "PA": 114,
       "Type": "GinGroup",
       "Catalog C": 70,
-      "Catalog NGC": "300"
+      "Catalog NGC": 300
     },
     {
       "Provenance": "DSC:TCO",
@@ -2267,7 +2267,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 71,
-      "Catalog NGC": "2477",
+      "Catalog NGC": 2477,
       "Catalog Mel": 78
     },
     {
@@ -2301,7 +2301,7 @@
       "PA": 101,
       "Type": "GinGroup",
       "Catalog C": 72,
-      "Catalog NGC": "55"
+      "Catalog NGC": 55
     },
     {
       "Provenance": "DSC:TCO",
@@ -2334,7 +2334,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 73,
-      "Catalog NGC": "1851"
+      "Catalog NGC": 1851
     },
     {
       "Provenance": "DSC:TCO",
@@ -2367,7 +2367,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 74,
-      "Catalog NGC": "3132"
+      "Catalog NGC": 3132
     },
     {
       "Provenance": "DSC:TCO",
@@ -2396,7 +2396,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 75,
-      "Catalog NGC": "6124"
+      "Catalog NGC": 6124
     },
     {
       "Provenance": "DSC:TCO",
@@ -2429,7 +2429,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog C": 76,
-      "Catalog NGC": "6231",
+      "Catalog NGC": 6231,
       "Catalog Cr": 315
     },
     {
@@ -2463,7 +2463,7 @@
       "PA": 33,
       "Type": "Seyfert_2",
       "Catalog C": 77,
-      "Catalog NGC": "5128"
+      "Catalog NGC": 5128
     },
     {
       "Provenance": "DSC:TCO",
@@ -2493,7 +2493,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 78,
-      "Catalog NGC": "6541"
+      "Catalog NGC": 6541
     },
     {
       "Provenance": "DSC:TCO",
@@ -2526,7 +2526,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 79,
-      "Catalog NGC": "3201"
+      "Catalog NGC": 3201
     },
     {
       "Provenance": "DSC:TCO",
@@ -2559,7 +2559,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 80,
-      "Catalog NGC": "5139"
+      "Catalog NGC": 5139
     },
     {
       "Provenance": "DSC:TCO",
@@ -2593,7 +2593,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 81,
-      "Catalog NGC": "6352"
+      "Catalog NGC": 6352
     },
     {
       "Provenance": "DSC:TCO",
@@ -2622,7 +2622,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 82,
-      "Catalog NGC": "6193"
+      "Catalog NGC": 6193
     },
     {
       "Provenance": "DSC:TCO",
@@ -2651,7 +2651,7 @@
       "PA": 43,
       "Type": "Seyfert_2",
       "Catalog C": 83,
-      "Catalog NGC": "4945"
+      "Catalog NGC": 4945
     },
     {
       "Provenance": "DSC:TCO",
@@ -2680,7 +2680,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 84,
-      "Catalog NGC": "5286"
+      "Catalog NGC": 5286
     },
     {
       "Provenance": "DSC:TCO",
@@ -2743,7 +2743,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 86,
-      "Catalog NGC": "6397"
+      "Catalog NGC": 6397
     },
     {
       "Provenance": "DSC:TCO",
@@ -2776,7 +2776,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 87,
-      "Catalog NGC": "1261"
+      "Catalog NGC": 1261
     },
     {
       "Provenance": "DSC:TCO",
@@ -2805,7 +2805,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 88,
-      "Catalog NGC": "5823",
+      "Catalog NGC": 5823,
       "Catalog Mel": 131
     },
     {
@@ -2835,7 +2835,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 89,
-      "Catalog NGC": "6087",
+      "Catalog NGC": 6087,
       "Name": "S Nor Cluster"
     },
     {
@@ -2869,7 +2869,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 90,
-      "Catalog NGC": "2867"
+      "Catalog NGC": 2867
     },
     {
       "Provenance": "DSC:TCO",
@@ -2894,7 +2894,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 91,
-      "Catalog NGC": "3532"
+      "Catalog NGC": 3532
     },
     {
       "Provenance": "DSC:TCO",
@@ -2928,7 +2928,7 @@
       "delta": -59.7,
       "Type": "HII",
       "Catalog C": 92,
-      "Catalog NGC": "3372"
+      "Catalog NGC": 3372
     },
     {
       "Provenance": "DSC:TCO",
@@ -2966,7 +2966,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 93,
-      "Catalog NGC": "6752"
+      "Catalog NGC": 6752
     },
     {
       "Provenance": "DSC:TCO",
@@ -2999,7 +2999,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 94,
-      "Catalog NGC": "4755",
+      "Catalog NGC": 4755,
       "Catalog Mel": 114
     },
     {
@@ -3038,7 +3038,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 95,
-      "Catalog NGC": "6025"
+      "Catalog NGC": 6025
     },
     {
       "Provenance": "DSC:TCO",
@@ -3067,7 +3067,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 96,
-      "Catalog NGC": "2516",
+      "Catalog NGC": 2516,
       "Name": "Southern Beehive Cluster"
     },
     {
@@ -3101,7 +3101,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog C": 97,
-      "Catalog NGC": "3766",
+      "Catalog NGC": 3766,
       "Catalog Cr": 248
     },
     {
@@ -3143,7 +3143,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog C": 98,
-      "Catalog NGC": "4609"
+      "Catalog NGC": 4609
     },
     {
       "Provenance": "DSC:TCO",
@@ -3236,7 +3236,7 @@
       "PA": 16,
       "Type": "GinGroup",
       "Catalog C": 101,
-      "Catalog NGC": "6744"
+      "Catalog NGC": 6744
     },
     {
       "Provenance": "DSC:TCO",
@@ -3300,7 +3300,7 @@
       "Y": 3.5,
       "Type": "Cl*",
       "Catalog C": 103,
-      "Catalog NGC": "2070",
+      "Catalog NGC": 2070,
       "Name": "Tarantula Nebula"
     },
     {
@@ -3338,7 +3338,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 104,
-      "Catalog NGC": "362",
+      "Catalog NGC": 362,
       "Catalog Mel": 4
     },
     {
@@ -3372,7 +3372,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 105,
-      "Catalog NGC": "4833"
+      "Catalog NGC": 4833
     },
     {
       "Provenance": "DSC:TCO",
@@ -3401,7 +3401,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 106,
-      "Catalog NGC": "104",
+      "Catalog NGC": 104,
       "Catalog Mel": 1
     },
     {
@@ -3436,7 +3436,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 107,
-      "Catalog NGC": "6101"
+      "Catalog NGC": 6101
     },
     {
       "Provenance": "DSC:TCO",
@@ -3465,7 +3465,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog C": 108,
-      "Catalog NGC": "4372"
+      "Catalog NGC": 4372
     },
     {
       "Provenance": "DSC:TCO",
@@ -3494,7 +3494,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog C": 109,
-      "Catalog NGC": "3195"
+      "Catalog NGC": 3195
     },
     {
       "Provenance": "DSC:TCO",
@@ -3518,7 +3518,7 @@
       "Y": 5,
       "Type": "SNR",
       "Catalog M": 1,
-      "Catalog NGC": "1952"
+      "Catalog NGC": 1952
     },
     {
       "Provenance": "SIMBAD",
@@ -3561,7 +3561,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 2,
-      "Catalog NGC": "7089"
+      "Catalog NGC": 7089
     },
     {
       "Provenance": "SIMBAD",
@@ -3606,7 +3606,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 3,
-      "Catalog NGC": "5272"
+      "Catalog NGC": 5272
     },
     {
       "Provenance": "SIMBAD",
@@ -3651,7 +3651,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 4,
-      "Catalog NGC": "6121"
+      "Catalog NGC": 6121
     },
     {
       "Provenance": "SIMBAD",
@@ -3696,7 +3696,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 5,
-      "Catalog NGC": "5904"
+      "Catalog NGC": 5904
     },
     {
       "Provenance": "SIMBAD",
@@ -3741,7 +3741,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog M": 6,
-      "Catalog NGC": "6405"
+      "Catalog NGC": 6405
     },
     {
       "Provenance": "SIMBAD",
@@ -3791,7 +3791,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 7,
-      "Catalog NGC": "6475"
+      "Catalog NGC": 6475
     },
     {
       "Provenance": "SIMBAD",
@@ -3889,7 +3889,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 9,
-      "Catalog NGC": "6333"
+      "Catalog NGC": 6333
     },
     {
       "Provenance": "SIMBAD",
@@ -3930,7 +3930,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 10,
-      "Catalog NGC": "6254"
+      "Catalog NGC": 6254
     },
     {
       "Provenance": "SIMBAD",
@@ -3975,7 +3975,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 11,
-      "Catalog NGC": "6705",
+      "Catalog NGC": 6705,
       "Catalog Mel": 213,
       "Catalog Cr": 391
     },
@@ -4019,7 +4019,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 12,
-      "Catalog NGC": "6218"
+      "Catalog NGC": 6218
     },
     {
       "Provenance": "SIMBAD",
@@ -4064,7 +4064,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 13,
-      "Catalog NGC": "6205"
+      "Catalog NGC": 6205
     },
     {
       "Provenance": "SIMBAD",
@@ -4114,7 +4114,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 14,
-      "Catalog NGC": "6402"
+      "Catalog NGC": 6402
     },
     {
       "Provenance": "SIMBAD",
@@ -4155,7 +4155,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 15,
-      "Catalog NGC": "7078"
+      "Catalog NGC": 7078
     },
     {
       "Provenance": "SIMBAD",
@@ -4200,7 +4200,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog M": 16,
-      "Catalog NGC": "6611",
+      "Catalog NGC": 6611,
       "Catalog IC": 4703
     },
     {
@@ -4248,7 +4248,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog M": 17,
-      "Catalog NGC": "6618"
+      "Catalog NGC": 6618
     },
     {
       "Provenance": "SIMBAD",
@@ -4300,7 +4300,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog M": 18,
-      "Catalog NGC": "6613"
+      "Catalog NGC": 6613
     },
     {
       "Provenance": "SIMBAD",
@@ -4346,7 +4346,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 19,
-      "Catalog NGC": "6273"
+      "Catalog NGC": 6273
     },
     {
       "Provenance": "SIMBAD",
@@ -4387,7 +4387,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog M": 20,
-      "Catalog NGC": "6514",
+      "Catalog NGC": 6514,
       "Catalog Cr": 360
     },
     {
@@ -4436,7 +4436,7 @@
       "PA": 90,
       "Type": "OpCl",
       "Catalog M": 21,
-      "Catalog NGC": "6531"
+      "Catalog NGC": 6531
     },
     {
       "Provenance": "SIMBAD",
@@ -4482,7 +4482,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 22,
-      "Catalog NGC": "6656"
+      "Catalog NGC": 6656
     },
     {
       "Provenance": "SIMBAD",
@@ -4527,7 +4527,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 23,
-      "Catalog NGC": "6494"
+      "Catalog NGC": 6494
     },
     {
       "Provenance": "SIMBAD",
@@ -4652,7 +4652,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 26,
-      "Catalog NGC": "6694"
+      "Catalog NGC": 6694
     },
     {
       "Provenance": "SIMBAD",
@@ -4693,7 +4693,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog M": 27,
-      "Catalog NGC": "6853"
+      "Catalog NGC": 6853
     },
     {
       "Provenance": "PSA",
@@ -4735,7 +4735,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 28,
-      "Catalog NGC": "6626"
+      "Catalog NGC": 6626
     },
     {
       "Provenance": "SIMBAD",
@@ -4776,7 +4776,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 29,
-      "Catalog NGC": "6913"
+      "Catalog NGC": 6913
     },
     {
       "Provenance": "SIMBAD",
@@ -4821,7 +4821,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 30,
-      "Catalog NGC": "7099"
+      "Catalog NGC": 7099
     },
     {
       "Provenance": "SIMBAD",
@@ -4862,7 +4862,7 @@
       "PA": 35,
       "Type": "Galaxy",
       "Catalog M": 31,
-      "Catalog NGC": "224"
+      "Catalog NGC": 224
     },
     {
       "Provenance": "SIMBAD",
@@ -4910,7 +4910,7 @@
       "delta": 40.865,
       "Type": "IG",
       "Catalog M": 32,
-      "Catalog NGC": "221"
+      "Catalog NGC": 221
     },
     {
       "Provenance": "SIMBAD",
@@ -4966,7 +4966,7 @@
       "PA": 22,
       "Type": "GinGroup",
       "Catalog M": 33,
-      "Catalog NGC": "598"
+      "Catalog NGC": 598
     },
     {
       "Provenance": "SIMBAD",
@@ -5007,7 +5007,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 34,
-      "Catalog NGC": "1039"
+      "Catalog NGC": 1039
     },
     {
       "Provenance": "SIMBAD",
@@ -5052,7 +5052,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 35,
-      "Catalog NGC": "2168"
+      "Catalog NGC": 2168
     },
     {
       "Provenance": "SIMBAD",
@@ -5097,7 +5097,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 36,
-      "Catalog NGC": "1960"
+      "Catalog NGC": 1960
     },
     {
       "Provenance": "SIMBAD",
@@ -5142,7 +5142,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 37,
-      "Catalog NGC": "2099"
+      "Catalog NGC": 2099
     },
     {
       "Provenance": "SIMBAD",
@@ -5191,7 +5191,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 38,
-      "Catalog NGC": "1912"
+      "Catalog NGC": 1912
     },
     {
       "Provenance": "SIMBAD",
@@ -5241,7 +5241,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 39,
-      "Catalog NGC": "7092"
+      "Catalog NGC": 7092
     },
     {
       "Provenance": "SIMBAD",
@@ -5318,7 +5318,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 41,
-      "Catalog NGC": "2287"
+      "Catalog NGC": 2287
     },
     {
       "Provenance": "SIMBAD",
@@ -5367,7 +5367,7 @@
       "PA": 90,
       "Type": "HII",
       "Catalog M": 42,
-      "Catalog NGC": "1976"
+      "Catalog NGC": 1976
     },
     {
       "Provenance": "SIMBAD",
@@ -5414,7 +5414,7 @@
       "delta": -5.27,
       "Type": "HII",
       "Catalog M": 43,
-      "Catalog NGC": "1982"
+      "Catalog NGC": 1982
     },
     {
       "Provenance": "SIMBAD",
@@ -5459,7 +5459,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 44,
-      "Catalog NGC": "2632",
+      "Catalog NGC": 2632,
       "Catalog Mel": 88
     },
     {
@@ -5552,7 +5552,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 46,
-      "Catalog NGC": "2437"
+      "Catalog NGC": 2437
     },
     {
       "Provenance": "SIMBAD",
@@ -5601,7 +5601,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 47,
-      "Catalog NGC": "2422"
+      "Catalog NGC": 2422
     },
     {
       "Provenance": "SIMBAD",
@@ -5646,7 +5646,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 48,
-      "Catalog NGC": "2548"
+      "Catalog NGC": 2548
     },
     {
       "Provenance": "SIMBAD",
@@ -5691,7 +5691,7 @@
       "PA": 157,
       "Type": "Seyfert_2",
       "Catalog M": 49,
-      "Catalog NGC": "4472"
+      "Catalog NGC": 4472
     },
     {
       "Provenance": "SIMBAD",
@@ -5736,7 +5736,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 50,
-      "Catalog NGC": "2323"
+      "Catalog NGC": 2323
     },
     {
       "Provenance": "SIMBAD",
@@ -5785,7 +5785,7 @@
       "PA": 163,
       "Type": "GinPair",
       "Catalog M": 51,
-      "Catalog NGC": "5194"
+      "Catalog NGC": 5194
     },
     {
       "Provenance": "SIMBAD",
@@ -5827,7 +5827,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 52,
-      "Catalog NGC": "7654"
+      "Catalog NGC": 7654
     },
     {
       "Provenance": "SIMBAD",
@@ -5873,7 +5873,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 53,
-      "Catalog NGC": "5024"
+      "Catalog NGC": 5024
     },
     {
       "Provenance": "SIMBAD",
@@ -5914,7 +5914,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 54,
-      "Catalog NGC": "6715"
+      "Catalog NGC": 6715
     },
     {
       "Provenance": "SIMBAD",
@@ -5955,7 +5955,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 55,
-      "Catalog NGC": "6809"
+      "Catalog NGC": 6809
     },
     {
       "Provenance": "SIMBAD",
@@ -5996,7 +5996,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 56,
-      "Catalog NGC": "6779"
+      "Catalog NGC": 6779
     },
     {
       "Provenance": "SIMBAD",
@@ -6041,7 +6041,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog M": 57,
-      "Catalog NGC": "6720"
+      "Catalog NGC": 6720
     },
     {
       "Provenance": "PSA",
@@ -6087,7 +6087,7 @@
       "PA": 88,
       "Type": "Seyfert",
       "Catalog M": 58,
-      "Catalog NGC": "4579"
+      "Catalog NGC": 4579
     },
     {
       "Provenance": "SIMBAD",
@@ -6128,7 +6128,7 @@
       "PA": 164,
       "Type": "GinGroup",
       "Catalog M": 59,
-      "Catalog NGC": "4621"
+      "Catalog NGC": 4621
     },
     {
       "Provenance": "SIMBAD",
@@ -6169,7 +6169,7 @@
       "PA": 104,
       "Type": "GinPair",
       "Catalog M": 60,
-      "Catalog NGC": "4649"
+      "Catalog NGC": 4649
     },
     {
       "Provenance": "SIMBAD",
@@ -6209,7 +6209,7 @@
       "Y": 5.5,
       "Type": "Seyfert_2",
       "Catalog M": 61,
-      "Catalog NGC": "4303"
+      "Catalog NGC": 4303
     },
     {
       "Provenance": "SIMBAD",
@@ -6254,7 +6254,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 62,
-      "Catalog NGC": "6266"
+      "Catalog NGC": 6266
     },
     {
       "Provenance": "SIMBAD",
@@ -6303,7 +6303,7 @@
       "PA": 102,
       "Type": "LINER",
       "Catalog M": 63,
-      "Catalog NGC": "5055"
+      "Catalog NGC": 5055
     },
     {
       "Provenance": "SIMBAD",
@@ -6345,7 +6345,7 @@
       "PA": 115,
       "Type": "Seyfert",
       "Catalog M": 64,
-      "Catalog NGC": "4826"
+      "Catalog NGC": 4826
     },
     {
       "Provenance": "SIMBAD",
@@ -6391,7 +6391,7 @@
       "PA": 174,
       "Type": "GinPair",
       "Catalog M": 65,
-      "Catalog NGC": "3623"
+      "Catalog NGC": 3623
     },
     {
       "Provenance": "SIMBAD",
@@ -6432,7 +6432,7 @@
       "PA": 173,
       "Type": "GinPair",
       "Catalog M": 66,
-      "Catalog NGC": "3627"
+      "Catalog NGC": 3627
     },
     {
       "Provenance": "SIMBAD",
@@ -6477,7 +6477,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 67,
-      "Catalog NGC": "2682"
+      "Catalog NGC": 2682
     },
     {
       "Provenance": "SIMBAD",
@@ -6522,7 +6522,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 68,
-      "Catalog NGC": "4590"
+      "Catalog NGC": 4590
     },
     {
       "Provenance": "SIMBAD",
@@ -6559,7 +6559,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 69,
-      "Catalog NGC": "6637"
+      "Catalog NGC": 6637
     },
     {
       "Provenance": "SIMBAD",
@@ -6596,7 +6596,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 70,
-      "Catalog NGC": "6681"
+      "Catalog NGC": 6681
     },
     {
       "Provenance": "SIMBAD",
@@ -6637,7 +6637,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 71,
-      "Catalog NGC": "6838"
+      "Catalog NGC": 6838
     },
     {
       "Provenance": "SIMBAD",
@@ -6678,7 +6678,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 72,
-      "Catalog NGC": "6981"
+      "Catalog NGC": 6981
     },
     {
       "Provenance": "SIMBAD",
@@ -6720,7 +6720,7 @@
       "delta": -12.63,
       "Type": "Cl*",
       "Catalog M": 73,
-      "Catalog NGC": "6994",
+      "Catalog NGC": 6994,
       "Catalog Cr": 426
     },
     {
@@ -6759,7 +6759,7 @@
       "Y": 8.7,
       "Type": "Galaxy",
       "Catalog M": 74,
-      "Catalog NGC": "628"
+      "Catalog NGC": 628
     },
     {
       "Provenance": "SIMBAD",
@@ -6800,7 +6800,7 @@
       "PA": 55,
       "Type": "GlCl",
       "Catalog M": 75,
-      "Catalog NGC": "6864"
+      "Catalog NGC": 6864
     },
     {
       "Provenance": "SIMBAD",
@@ -6875,7 +6875,7 @@
       "PA": 72,
       "Type": "GinPair",
       "Catalog M": 77,
-      "Catalog NGC": "1068"
+      "Catalog NGC": 1068
     },
     {
       "Provenance": "SIMBAD",
@@ -6913,7 +6913,7 @@
       "delta": 0.079,
       "Type": "RfNeb",
       "Catalog M": 78,
-      "Catalog NGC": "2068"
+      "Catalog NGC": 2068
     },
     {
       "Provenance": "SIMBAD",
@@ -6955,7 +6955,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 79,
-      "Catalog NGC": "1904"
+      "Catalog NGC": 1904
     },
     {
       "Provenance": "SIMBAD",
@@ -6996,7 +6996,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 80,
-      "Catalog NGC": "6093"
+      "Catalog NGC": 6093
     },
     {
       "Provenance": "SIMBAD",
@@ -7041,7 +7041,7 @@
       "PA": 157,
       "Type": "Seyfert_2",
       "Catalog M": 81,
-      "Catalog NGC": "3031"
+      "Catalog NGC": 3031
     },
     {
       "Provenance": "SIMBAD",
@@ -7087,7 +7087,7 @@
       "delta": 69.68,
       "Type": "IG",
       "Catalog M": 82,
-      "Catalog NGC": "3034"
+      "Catalog NGC": 3034
     },
     {
       "Provenance": "SIMBAD",
@@ -7141,7 +7141,7 @@
       "Y": 12.9,
       "Type": "StarburstG",
       "Catalog M": 83,
-      "Catalog NGC": "5236"
+      "Catalog NGC": 5236
     },
     {
       "Provenance": "SIMBAD",
@@ -7186,7 +7186,7 @@
       "PA": 133,
       "Type": "Seyfert_2",
       "Catalog M": 84,
-      "Catalog NGC": "4374"
+      "Catalog NGC": 4374
     },
     {
       "Provenance": "SIMBAD",
@@ -7230,7 +7230,7 @@
       "Y": 6,
       "Type": "GinPair",
       "Catalog M": 85,
-      "Catalog NGC": "4382"
+      "Catalog NGC": 4382
     },
     {
       "Provenance": "SIMBAD",
@@ -7275,7 +7275,7 @@
       "PA": 127,
       "Type": "GinGroup",
       "Catalog M": 86,
-      "Catalog NGC": "4406"
+      "Catalog NGC": 4406
     },
     {
       "Provenance": "SIMBAD",
@@ -7319,7 +7319,7 @@
       "Y": 7.9,
       "Type": "BClG",
       "Catalog M": 87,
-      "Catalog NGC": "4486"
+      "Catalog NGC": 4486
     },
     {
       "Provenance": "SIMBAD",
@@ -7368,7 +7368,7 @@
       "PA": 138,
       "Type": "Seyfert_2",
       "Catalog M": 88,
-      "Catalog NGC": "4501"
+      "Catalog NGC": 4501
     },
     {
       "Provenance": "SIMBAD",
@@ -7408,7 +7408,7 @@
       "Y": 6.5,
       "Type": "LINER",
       "Catalog M": 89,
-      "Catalog NGC": "4552"
+      "Catalog NGC": 4552
     },
     {
       "Provenance": "SIMBAD",
@@ -7453,7 +7453,7 @@
       "PA": 23,
       "Type": "Seyfert_2",
       "Catalog M": 90,
-      "Catalog NGC": "4569"
+      "Catalog NGC": 4569
     },
     {
       "Provenance": "SIMBAD",
@@ -7493,7 +7493,7 @@
       "Y": 4.5,
       "Type": "LINER",
       "Catalog M": 91,
-      "Catalog NGC": "4548"
+      "Catalog NGC": 4548
     },
     {
       "Provenance": "SIMBAD",
@@ -7538,7 +7538,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 92,
-      "Catalog NGC": "6341"
+      "Catalog NGC": 6341
     },
     {
       "Provenance": "SIMBAD",
@@ -7587,7 +7587,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 93,
-      "Catalog NGC": "2447",
+      "Catalog NGC": 2447,
       "Catalog Cr": 160
     },
     {
@@ -7629,7 +7629,7 @@
       "PA": 105,
       "Type": "Seyfert",
       "Catalog M": 94,
-      "Catalog NGC": "4736"
+      "Catalog NGC": 4736
     },
     {
       "Provenance": "SIMBAD",
@@ -7672,7 +7672,7 @@
       "PA": 13,
       "Type": "GinPair",
       "Catalog M": 95,
-      "Catalog NGC": "3351"
+      "Catalog NGC": 3351
     },
     {
       "Provenance": "SIMBAD",
@@ -7713,7 +7713,7 @@
       "PA": 5,
       "Type": "GinPair",
       "Catalog M": 96,
-      "Catalog NGC": "3368"
+      "Catalog NGC": 3368
     },
     {
       "Provenance": "SIMBAD",
@@ -7754,7 +7754,7 @@
       "PA": 90,
       "Type": "PN",
       "Catalog M": 97,
-      "Catalog NGC": "3587"
+      "Catalog NGC": 3587
     },
     {
       "Provenance": "PSA",
@@ -7791,7 +7791,7 @@
       "PA": 152,
       "Type": "LINER",
       "Catalog M": 98,
-      "Catalog NGC": "4192"
+      "Catalog NGC": 4192
     },
     {
       "Provenance": "SIMBAD",
@@ -7831,7 +7831,7 @@
       "Y": 4.5,
       "Type": "HII_G",
       "Catalog M": 99,
-      "Catalog NGC": "4254"
+      "Catalog NGC": 4254
     },
     {
       "Provenance": "SIMBAD",
@@ -7876,7 +7876,7 @@
       "PA": 170,
       "Type": "AGN",
       "Catalog M": 100,
-      "Catalog NGC": "4321"
+      "Catalog NGC": 4321
     },
     {
       "Provenance": "SIMBAD",
@@ -7916,7 +7916,7 @@
       "Y": 20.9,
       "Type": "GinPair",
       "Catalog M": 101,
-      "Catalog NGC": "5457"
+      "Catalog NGC": 5457
     },
     {
       "Provenance": "SIMBAD",
@@ -7961,7 +7961,7 @@
       "PA": 128,
       "Type": "Seyfert",
       "Catalog M": 102,
-      "Catalog NGC": "5866"
+      "Catalog NGC": 5866
     },
     {
       "Provenance": "SIMBAD",
@@ -8002,7 +8002,7 @@
       "PA": 0,
       "Type": "OpCl",
       "Catalog M": 103,
-      "Catalog NGC": "581"
+      "Catalog NGC": 581
     },
     {
       "Provenance": "SIMBAD",
@@ -8047,7 +8047,7 @@
       "PA": 90,
       "Type": "LINER",
       "Catalog M": 104,
-      "Catalog NGC": "4594"
+      "Catalog NGC": 4594
     },
     {
       "Provenance": "SIMBAD",
@@ -8092,7 +8092,7 @@
       "Y": 4.7,
       "Type": "LINER",
       "Catalog M": 105,
-      "Catalog NGC": "3379"
+      "Catalog NGC": 3379
     },
     {
       "Provenance": "SIMBAD",
@@ -8136,7 +8136,7 @@
       "Y": 6.9,
       "Type": "Seyfert_2",
       "Catalog M": 106,
-      "Catalog NGC": "4258"
+      "Catalog NGC": 4258
     },
     {
       "Provenance": "SIMBAD",
@@ -8181,7 +8181,7 @@
       "PA": 0,
       "Type": "GlCl",
       "Catalog M": 107,
-      "Catalog NGC": "6171"
+      "Catalog NGC": 6171
     },
     {
       "Provenance": "SIMBAD",
@@ -8222,7 +8222,7 @@
       "PA": 79,
       "Type": "StarburstG",
       "Catalog M": 108,
-      "Catalog NGC": "3556"
+      "Catalog NGC": 3556
     },
     {
       "Provenance": "SIMBAD",
@@ -8263,7 +8263,7 @@
       "PA": 78,
       "Type": "GinGroup",
       "Catalog M": 109,
-      "Catalog NGC": "3992"
+      "Catalog NGC": 3992
     },
     {
       "Provenance": "SIMBAD",
@@ -8300,7 +8300,7 @@
       "PA": 170,
       "Type": "GinGroup",
       "Catalog M": 110,
-      "Catalog NGC": "205"
+      "Catalog NGC": 205
     },
     {
       "Provenance": "SIMBAD",
@@ -8345,7 +8345,7 @@
       "Y": 20.3,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "129"
+      "Catalog NGC": 129
     },
     {
       "Provenance": "SIMBAD",
@@ -8439,7 +8439,7 @@
       "Y": 16.3,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "869",
+      "Catalog NGC": 869,
       "Catalog Mel": 13,
       "Catalog Cr": 24
     },
@@ -8484,7 +8484,7 @@
       "Y": 15,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "884",
+      "Catalog NGC": 884,
       "Catalog Mel": 14,
       "Catalog Cr": 25
     },
@@ -8646,7 +8646,7 @@
       "Y": 34.7,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "1342"
+      "Catalog NGC": 1342
     },
     {
       "Provenance": "SIMBAD",
@@ -8676,7 +8676,7 @@
       "Y": 50,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "1647"
+      "Catalog NGC": 1647
     },
     {
       "Provenance": "SIMBAD",
@@ -8717,7 +8717,7 @@
       "Y": 15,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "1807",
+      "Catalog NGC": 1807,
       "Catalog Mel": 29,
       "Catalog Cr": 61
     },
@@ -8753,7 +8753,7 @@
       "Y": 15,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "1817",
+      "Catalog NGC": 1817,
       "Catalog Cr": 60
     },
     {
@@ -8783,7 +8783,7 @@
       "alpha": 83.787,
       "delta": -4.432,
       "Type": "OpCl",
-      "Catalog NGC": "1981"
+      "Catalog NGC": 1981
     },
     {
       "Provenance": "SIMBAD",
@@ -8822,7 +8822,7 @@
       "Y": 5,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "2169"
+      "Catalog NGC": 2169
     },
     {
       "Provenance": "SIMBAD",
@@ -8852,7 +8852,7 @@
       "Y": 61.9,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "2232"
+      "Catalog NGC": 2232
     },
     {
       "Provenance": "SIMBAD",
@@ -8886,7 +8886,7 @@
       "Y": 8.6,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "2264"
+      "Catalog NGC": 2264
     },
     {
       "Provenance": "SIMBAD",
@@ -8925,7 +8925,7 @@
       "Y": 50,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "2281"
+      "Catalog NGC": 2281
     },
     {
       "Provenance": "SIMBAD",
@@ -8959,7 +8959,7 @@
       "Y": 19.4,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "2301"
+      "Catalog NGC": 2301
     },
     {
       "Provenance": "SIMBAD",
@@ -8993,7 +8993,7 @@
       "Y": 22.4,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "2539",
+      "Catalog NGC": 2539,
       "Catalog Mel": 83
     },
     {
@@ -9069,7 +9069,7 @@
       "Y": 0.4,
       "PA": 120,
       "Type": "PN",
-      "Catalog NGC": "6210"
+      "Catalog NGC": 6210
     },
     {
       "Provenance": "SIMBAD"
@@ -9138,7 +9138,7 @@
       "Y": 3.4,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "6520"
+      "Catalog NGC": 6520
     },
     {
       "Provenance": "SIMBAD",
@@ -9168,7 +9168,7 @@
       "Y": 43.2,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "6633"
+      "Catalog NGC": 6633
     },
     {
       "Provenance": "SIMBAD",
@@ -9237,7 +9237,7 @@
       "Y": 16.8,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "6709"
+      "Catalog NGC": 6709
     },
     {
       "Provenance": "SIMBAD",
@@ -9299,7 +9299,7 @@
       "Y": 0.4,
       "PA": 120,
       "Type": "PN",
-      "Catalog NGC": "6818"
+      "Catalog NGC": 6818
     },
     {
       "Provenance": "SIMBAD"
@@ -9336,7 +9336,7 @@
       "Y": 0.6,
       "PA": 90,
       "Type": "PN",
-      "Catalog NGC": "6826"
+      "Catalog NGC": 6826
     },
     {
       "Provenance": "SIMBAD"
@@ -9366,7 +9366,7 @@
       "Y": 10.7,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "6910"
+      "Catalog NGC": 6910
     },
     {
       "Provenance": "SIMBAD",
@@ -9396,7 +9396,7 @@
       "Y": 1.2,
       "PA": 0,
       "Type": "GlCl",
-      "Catalog NGC": "6934"
+      "Catalog NGC": 6934
     },
     {
       "Provenance": "SIMBAD",
@@ -9423,7 +9423,7 @@
       "Y": 30,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "6940",
+      "Catalog NGC": 6940,
       "Catalog Mel": 232
     },
     {
@@ -9458,7 +9458,7 @@
       "Y": 0.5,
       "PA": 70,
       "Type": "PN",
-      "Catalog NGC": "7009"
+      "Catalog NGC": 7009
     },
     {
       "Provenance": "SIMBAD"
@@ -9488,7 +9488,7 @@
       "Y": 9,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "7160"
+      "Catalog NGC": 7160
     },
     {
       "Provenance": "SIMBAD",
@@ -9518,7 +9518,7 @@
       "Y": 36.5,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "7209"
+      "Catalog NGC": 7209
     },
     {
       "Provenance": "SIMBAD",
@@ -9556,7 +9556,7 @@
       "Y": 0.3,
       "PA": 90,
       "Type": "PN",
-      "Catalog NGC": "7662"
+      "Catalog NGC": 7662
     },
     {
       "Provenance": "SIMBAD"
@@ -9586,7 +9586,7 @@
       "Y": 25.3,
       "PA": 0,
       "Type": "OpCl",
-      "Catalog NGC": "7789",
+      "Catalog NGC": 7789,
       "Catalog Mel": 245
     },
     {
