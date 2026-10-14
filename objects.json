@@ -1,5 +1,6 @@
 {
   "C1": {
+    "Provenance": "BSC",
     "alpha": 11.798,
     "delta": 85.244,
     "X": 15,
@@ -14,9 +15,17 @@
     "All PSA": "1/11/21/31/41/51/61/71",
     "Constellation": "Cep",
     "CSA": "1",
-    "Catalog BSC": 111
+    "Catalog BSC": 111,
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C2": {
+    "Provenance": "CSA",
     "alpha": 3.254,
     "delta": 72.522,
     "X": 0.6,
@@ -31,9 +40,16 @@
     "PSA": "1/71",
     "All PSA": "1/71",
     "Constellation": "Cep",
-    "CSA": "1"
+    "CSA": "1",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C3": {
+    "Provenance": "CSA",
     "alpha": 184.175,
     "delta": 69.463,
     "X": 20,
@@ -46,9 +62,16 @@
     "PSA": "31/41",
     "All PSA": "31/41",
     "Constellation": "Dra",
-    "CSA": "1/5"
+    "CSA": "1/5",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C4": {
+    "Provenance": "BSC",
     "alpha": 315.404,
     "delta": 68.163,
     "Type": "BN",
@@ -63,9 +86,17 @@
     "All PSA": "61/71",
     "Constellation": "Cep",
     "CSA": "1/6/7",
-    "Catalog BSC": 68
+    "Catalog BSC": 68,
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C5": {
+    "Provenance": "BSC",
     "alpha": 56.702,
     "delta": 68.096,
     "X": 16,
@@ -80,9 +111,18 @@
     "All PSA": "1/11",
     "Constellation": "Cam",
     "CSA": "1/2/3",
-    "Catalog BSC": 142
+    "Catalog BSC": 142,
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "SIMBAD",
+      "BSC",
+      "NED",
+      "PSA"
+    ]
   },
   "C6": {
+    "Provenance": "CSA",
     "alpha": 269.639,
     "delta": 66.633,
     "X": 0.4,
@@ -97,9 +137,17 @@
     "All PSA": "51/61",
     "OSA": "N16",
     "Constellation": "Dra",
-    "CSA": "1/6"
+    "CSA": "1/6",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "C7": {
+    "Provenance": "BSC",
     "alpha": 114.214,
     "delta": 65.603,
     "X": 24,
@@ -114,9 +162,17 @@
     "All PSA": "21",
     "Constellation": "Cam",
     "CSA": "1/3/4",
-    "Catalog BSC": 131
+    "Catalog BSC": 131,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C8": {
+    "Provenance": "AWF",
     "alpha": 22.387,
     "delta": 63.301,
     "X": 7,
@@ -132,9 +188,18 @@
     "OSA": "N2",
     "Constellation": "Cas",
     "CSA": "1/2",
-    "Notes": "C10 is \\degrees{3} to SE."
+    "Notes": "C10 is \\degrees{3} to SE.",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "C9": {
+    "Provenance": "AWF",
     "alpha": 344.275,
     "delta": 62.636,
     "X": 50,
@@ -149,9 +214,18 @@
     "Constellation": "Cep",
     "CSA": "1/7",
     "Catalog BSC": 96,
-    "Notes": "Not shown in the CSA."
+    "Notes": "Not shown in the CSA.",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C10": {
+    "Provenance": "AWF",
     "alpha": 26.586,
     "delta": 61.212,
     "X": 15,
@@ -169,9 +243,20 @@
     "CSA": "1/2",
     "OSA": "N2",
     "Catalog BSC": 76,
-    "Notes": "M103 is \\degrees{1.7} WSW. C8 is \\degrees{3} NW."
+    "Notes": "M103 is \\degrees{1.7} WSW. C8 is \\degrees{3} NW.",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C11": {
+    "Provenance": "AWF",
     "alpha": 350.201,
     "delta": 61.202,
     "Type": "BN",
@@ -185,9 +270,17 @@
     "All PSA": "3/71/72",
     "Constellation": "Cas",
     "CSA": "1/2/7",
-    "Notes": "M52 is \\degrees{0.6} to NE."
+    "Notes": "M52 is \\degrees{0.6} to NE.",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "AWF",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C12": {
+    "Provenance": "OSA",
     "alpha": 308.718,
     "delta": 60.154,
     "X": 11,
@@ -202,9 +295,18 @@
     "All PSA": "61/62/73",
     "Constellation": "Cep/Cyg",
     "CSA": "1/6/7",
-    "OSA": "N22"
+    "OSA": "N22",
+    "Provenances": [
+      "DSC:TCO",
+      "CSA",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "C13": {
+    "Provenance": "BSC",
     "alpha": 19.887,
     "delta": 58.278,
     "X": 20,
@@ -219,9 +321,18 @@
     "PSA": "1/3",
     "All PSA": "1/3/72",
     "OSA": "N2",
-    "Catalog BSC": 62
+    "Catalog BSC": 62,
+    "Provenances": [
+      "DSC:TCO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C14": {
+    "Provenance": "AWF",
     "alpha": 35.13,
     "delta": 57.13,
     "Type": "OC",
@@ -236,9 +347,18 @@
     "All PSA": "1/2/13",
     "OSA": "N2",
     "Hops": "\u03b1 Per Mirfak (mag 1.8) \\hop \\degrees{9} E passing \u03b9 Per and \u03b8 Per to 64/65 And \\hop \\degrees{7} N to C14/U9/U10",
-    "Notes": "NGC 869 (h Per) is to W and brighter; NGC 884 (\u03c7 Per) is to E and fainter. Both are about \\arcmin{18} in diameter (DSC:TCO). U8 is \\degrees{2} N. U11 is \\degrees{2.5} SE."
+    "Notes": "NGC 869 (h Per) is to W and brighter; NGC 884 (\u03c7 Per) is to E and fainter. Both are about \\arcmin{18} in diameter (DSC:TCO). U8 is \\degrees{2} N. U11 is \\degrees{2.5} SE.",
+    "Provenances": [
+      "DSC:TCO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "C15": {
+    "Provenance": "BSC",
     "alpha": 296.201,
     "delta": 50.525,
     "X": 0.5,
@@ -252,9 +372,17 @@
     "PSA": "62",
     "All PSA": "62/73",
     "OSA": "N18",
-    "Catalog BSC": 128
+    "Catalog BSC": 128,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C16": {
+    "Provenance": "BSC",
     "alpha": 333.788,
     "delta": 49.83,
     "X": 30,
@@ -268,9 +396,18 @@
     "PSA": "73",
     "All PSA": "62/73",
     "OSA": "N24",
-    "Catalog BSC": 63
+    "Catalog BSC": 63,
+    "Provenances": [
+      "DSC:TCO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C17": {
+    "Provenance": "AWF",
     "alpha": 8.301,
     "delta": 48.509,
     "X": 18,
@@ -282,9 +419,16 @@
     "Mag": "9.5",
     "PSA": "3",
     "All PSA": "3/72",
-    "Notes": "C18 is \\degrees{1} E."
+    "Notes": "C18 is \\degrees{1} E.",
+    "Provenances": [
+      "AWF",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C18": {
+    "Provenance": "AWF",
     "alpha": 9.741,
     "delta": 48.338,
     "X": 17,
@@ -296,9 +440,16 @@
     "Mag": "9.2",
     "PSA": "3",
     "All PSA": "3/72",
-    "Notes": "C17 is \\degrees{1} W."
+    "Notes": "C17 is \\degrees{1} W.",
+    "Provenances": [
+      "AWF",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C19": {
+    "Provenance": "AWF",
     "alpha": 328.372,
     "delta": 47.246,
     "X": 10,
@@ -313,9 +464,17 @@
     "PSA": "73",
     "All PSA": "62/73",
     "Catalog BSC": 78,
-    "Notes": "Cluster is magitude 7.2 (DSC:TCO). U84 is \\degrees{2} ESE."
+    "Notes": "Cluster is magitude 7.2 (DSC:TCO). U84 is \\degrees{2} ESE.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C20": {
+    "Provenance": "AWF",
     "alpha": 314.696,
     "delta": 44.33,
     "Type": "BN",
@@ -329,9 +488,18 @@
     "All PSA": "62/73",
     "OSA": "N20",
     "Catalog BSC": 16,
-    "Hops": "\u03b1 Cyg Deneb (mag 1.3) \\hop \\degrees{1} S \\hop \\degrees{3} E to C20"
+    "Hops": "\u03b1 Cyg Deneb (mag 1.3) \\hop \\degrees{1} S \\hop \\degrees{3} E to C20",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C21": {
+    "Provenance": "OSA",
     "alpha": 187.046,
     "delta": 44.094,
     "X": 5,
@@ -344,9 +512,16 @@
     "Mag": "9.6",
     "PSA": "32/43",
     "All PSA": "32/43",
-    "OSA": "N12"
+    "OSA": "N12",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C22": {
+    "Provenance": "BSC",
     "alpha": 351.473,
     "delta": 42.535,
     "X": 0.5,
@@ -360,9 +535,17 @@
     "PSA": "72",
     "All PSA": "3/72",
     "OSA": "N24",
-    "Catalog BSC": 124
+    "Catalog BSC": 124,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C23": {
+    "Provenance": "OSA",
     "alpha": 35.637,
     "delta": 42.348,
     "X": 12,
@@ -374,9 +557,16 @@
     "Mag": "9.9",
     "PSA": "2",
     "All PSA": "2/13",
-    "OSA": "N0"
+    "OSA": "N0",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C24": {
+    "Provenance": "PSA",
     "alpha": 49.951,
     "delta": 41.512,
     "X": 3,
@@ -388,9 +578,15 @@
     "Name": "Perseus A",
     "Mag": "11.9",
     "PSA": "13",
-    "All PSA": "2/13"
+    "All PSA": "2/13",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C25": {
+    "Provenance": "BSC",
     "alpha": 114.535,
     "delta": 38.882,
     "X": 4.6,
@@ -402,9 +598,16 @@
     "Mag": "10.4",
     "PSA": "23",
     "All PSA": "23",
-    "Catalog BSC": 140
+    "Catalog BSC": 140,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C26": {
+    "Provenance": "OSA",
     "alpha": 184.374,
     "delta": 37.807,
     "X": 16,
@@ -416,9 +619,16 @@
     "Mag": "10.4",
     "PSA": "32/43",
     "All PSA": "32/43",
-    "OSA": "N12"
+    "OSA": "N12",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C27": {
+    "Provenance": "BSC",
     "alpha": 303.029,
     "delta": 38.355,
     "Type": "BN",
@@ -430,9 +640,16 @@
     "Mag": "8.8",
     "PSA": "62",
     "All PSA": "62/73",
-    "Catalog BSC": 84
+    "Catalog BSC": 84,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C28": {
+    "Provenance": "OSA",
     "alpha": 29.223,
     "delta": 37.794,
     "X": 75,
@@ -446,9 +663,17 @@
     "Catalog U": 7,
     "PSA": "2",
     "All PSA": "2",
-    "OSA": "N0"
+    "OSA": "N0",
+    "Provenances": [
+      "DSC:TCO",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "C29": {
+    "Provenance": "PSA",
     "alpha": 197.735,
     "delta": 37.059,
     "X": 6,
@@ -459,9 +684,15 @@
     "Catalog NGC": 5005,
     "Mag": "9.8",
     "PSA": "43",
-    "All PSA": "32/43"
+    "All PSA": "32/43",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C30": {
+    "Provenance": "OSA",
     "alpha": 339.267,
     "delta": 34.416,
     "X": 9.7,
@@ -473,9 +704,16 @@
     "Mag": "9.5",
     "PSA": "72/74",
     "All PSA": "72/74/75",
-    "OSA": "E23"
+    "OSA": "E23",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C31": {
+    "Provenance": "AWF",
     "alpha": 79.35,
     "delta": 34.38,
     "Type": "BN",
@@ -488,9 +726,17 @@
     "PSA": "12",
     "All PSA": "12/14",
     "Catalog BSC": 49,
-    "Notes": "AE Aur (towards the SW edge) is magnitude 6 and variable (DSC:TCO)."
+    "Notes": "AE Aur (towards the SW edge) is magnitude 6 and variable (DSC:TCO).",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C32": {
+    "Provenance": "OSA",
     "alpha": 190.533,
     "delta": 32.542,
     "X": 15,
@@ -503,9 +749,16 @@
     "Mag": "9.2",
     "PSA": "43/45",
     "All PSA": "32/43/45",
-    "OSA": "E13"
+    "OSA": "E13",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C33": {
+    "Provenance": "AWF",
     "alpha": 314.079,
     "delta": 31.743,
     "Type": "BN",
@@ -519,9 +772,18 @@
     "All PSA": "62/64/73/75",
     "OSA": "N20",
     "Catalog BSC": 73,
-    "Notes": "C34 is \\degrees{2.5} SW."
+    "Notes": "C34 is \\degrees{2.5} SW.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C34": {
+    "Provenance": "AWF",
     "alpha": 311.408,
     "delta": 30.708,
     "Type": "BN",
@@ -535,9 +797,18 @@
     "All PSA": "62/64/73/75",
     "OSA": "N20",
     "Catalog BSC": 74,
-    "Notes": "C33 is \\degrees{2.5} NE."
+    "Notes": "C33 is \\degrees{2.5} NE.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C35": {
+    "Provenance": "PSA",
     "alpha": 195.034,
     "delta": 27.977,
     "X": 3,
@@ -548,9 +819,15 @@
     "Catalog NGC": 4889,
     "Mag": "11.5",
     "PSA": "43/45",
-    "All PSA": "32/43/45"
+    "All PSA": "32/43/45",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C36": {
+    "Provenance": "AWF",
     "alpha": 188.99,
     "delta": 27.96,
     "X": 11,
@@ -563,9 +840,17 @@
     "PSA": "43/45",
     "All PSA": "32/43/45",
     "OSA": "E13",
-    "Notes": "C38 is \\degrees{2} S. U44 is \\degrees{4} to SW."
+    "Notes": "C38 is \\degrees{2} S. U44 is \\degrees{4} to SW.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "C37": {
+    "Provenance": "PSA",
     "alpha": 303.004,
     "delta": 26.478,
     "Type": "OC",
@@ -575,9 +860,15 @@
     "Y": 20,
     "Mag": "8.1",
     "PSA": "62/64",
-    "All PSA": "62/64"
+    "All PSA": "62/64",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C38": {
+    "Provenance": "AWF",
     "alpha": 189.087,
     "delta": 25.987,
     "X": 16,
@@ -592,9 +883,18 @@
     "All PSA": "32/43/45",
     "OSA": "E13",
     "Catalog BSC": 38,
-    "Notes": "C36 is \\degrees{2} N. U44 is \\degrees{3} to W."
+    "Notes": "C36 is \\degrees{2} N. U44 is \\degrees{3} to W.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C39": {
+    "Provenance": "AWF",
     "alpha": 112.295,
     "delta": 20.912,
     "X": 0.8,
@@ -609,9 +909,19 @@
     "PSA": "25",
     "All PSA": "25",
     "OSA": "E7",
-    "Notes": "The open cluster NGC 2420 is \\degrees{2} N (see DSC:TCO)."
+    "Notes": "The open cluster NGC 2420 is \\degrees{2} N (see DSC:TCO).",
+    "Provenances": [
+      "DSC:TCO",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "C40": {
+    "Provenance": "PSA",
     "alpha": 170.016,
     "delta": 18.357,
     "X": 3.0,
@@ -622,9 +932,15 @@
     "Catalog NGC": 3626,
     "Mag": "11.0",
     "PSA": "34",
-    "All PSA": "34"
+    "All PSA": "34",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C41": {
+    "Provenance": "AWF",
     "alpha": 66.725,
     "delta": 15.867,
     "Type": "OC",
@@ -640,9 +956,19 @@
     "All PSA": "15",
     "OSA": "E3",
     "Catalog BSC": 1,
-    "Notes": "Much bigger than the finder chart."
+    "Notes": "Much bigger than the finder chart.",
+    "Provenances": [
+      "DSC:TCO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C42": {
+    "Provenance": "PSA",
     "alpha": 315.373,
     "delta": 16.188,
     "X": 3.6,
@@ -653,9 +979,15 @@
     "Catalog NGC": 7006,
     "Mag": "10.6",
     "PSA": "64/75",
-    "All PSA": "64/75"
+    "All PSA": "64/75",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C43": {
+    "Provenance": "PSA",
     "alpha": 0.812,
     "delta": 16.145,
     "X": 6,
@@ -666,9 +998,15 @@
     "Catalog NGC": 7814,
     "Mag": "10.6",
     "PSA": "5/74",
-    "All PSA": "5/74"
+    "All PSA": "5/74",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C44": {
+    "Provenance": "PSA",
     "alpha": 346.236,
     "delta": 12.323,
     "X": 4,
@@ -679,9 +1017,15 @@
     "Catalog NGC": 7479,
     "Mag": "10.8",
     "PSA": "74",
-    "All PSA": "74"
+    "All PSA": "74",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C45": {
+    "Provenance": "PSA",
     "alpha": 204.383,
     "delta": 8.885,
     "X": 6,
@@ -692,9 +1036,15 @@
     "Catalog NGC": 5248,
     "Mag": "10.3",
     "PSA": "44",
-    "All PSA": "44"
+    "All PSA": "44",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C46": {
+    "Provenance": "AWF",
     "alpha": 99.791,
     "delta": 8.736,
     "Type": "BN",
@@ -708,9 +1058,18 @@
     "All PSA": "25/E",
     "OSA": "E7",
     "Catalog BSC": 137,
-    "Notes": "The magnitude of the nebula is variable (DSC:TCO). U31 is \\degrees{1.25} NNE."
+    "Notes": "The magnitude of the nebula is variable (DSC:TCO). U31 is \\degrees{1.25} NNE.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C47": {
+    "Provenance": "BSC",
     "alpha": 308.547,
     "delta": 7.404,
     "X": 7.1,
@@ -722,9 +1081,17 @@
     "Mag": "8.8",
     "PSA": "64",
     "All PSA": "64",
-    "Catalog BSC": 121
+    "Catalog BSC": 121,
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C48": {
+    "Provenance": "PSA",
     "alpha": 137.584,
     "delta": 7.038,
     "X": 5,
@@ -735,9 +1102,15 @@
     "Catalog NGC": 2775,
     "Mag": "10.1",
     "PSA": "24/35",
-    "All PSA": "24/35"
+    "All PSA": "24/35",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C49": {
+    "Provenance": "AWF",
     "alpha": 98.045,
     "delta": 4.914,
     "Type": "BN",
@@ -752,9 +1125,18 @@
     "OSA": "E9",
     "Catalog BSC": 135,
     "Hops": "\u03b1 Ori Betelgeuse (mag 0.3--0.9) \\hop \\degrees{3} S \\hop \\degrees{7} E to 8 Mon \\hop \\degrees{2} E to C49",
-    "Notes": "Surrounding C50."
+    "Notes": "Surrounding C50.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C50": {
+    "Provenance": "AWF",
     "alpha": 98.045,
     "delta": 4.914,
     "X": 30,
@@ -770,9 +1152,19 @@
     "OSA": "E9",
     "Catalog BSC": 25,
     "Hops": "\u03b1 Ori Betelgeuse (mag 0.3--0.9) \\hop \\degrees{3} S \\hop \\degrees{7} E to 8 Mon \\hop \\degrees{2} E to C50/U30",
-    "Notes": "Surrounded by C49."
+    "Notes": "Surrounded by C49.",
+    "Provenances": [
+      "DSC:TCO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C51": {
+    "Provenance": "PSA",
     "alpha": 16.226,
     "delta": 2.133,
     "X": 19,
@@ -783,9 +1175,15 @@
     "Catalog IC": 1613,
     "Mag": "9.2",
     "PSA": "5/7",
-    "All PSA": "5/7"
+    "All PSA": "5/7",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C52": {
+    "Provenance": "OSA",
     "alpha": 192.15,
     "delta": -5.801,
     "X": 7,
@@ -797,9 +1195,16 @@
     "Mag": "9.0",
     "PSA": "47",
     "All PSA": "45/47",
-    "OSA": "E12"
+    "OSA": "E12",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C53": {
+    "Provenance": "OSA",
     "alpha": 151.308,
     "delta": -7.719,
     "X": 7,
@@ -812,9 +1217,16 @@
     "Mag": "8.9",
     "PSA": "37",
     "All PSA": "37",
-    "OSA": "E10"
+    "OSA": "E10",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C54": {
+    "Provenance": "BSC",
     "alpha": 120.01,
     "delta": -10.773,
     "X": 12,
@@ -828,9 +1240,16 @@
     "Mag": "7.6",
     "PSA": "26",
     "All PSA": "26",
-    "Catalog BSC": 90
+    "Catalog BSC": 90,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C55": {
+    "Provenance": "BSC",
     "alpha": 316.045,
     "delta": -11.363,
     "X": 0.7,
@@ -844,9 +1263,17 @@
     "PSA": "77",
     "All PSA": "77",
     "OSA": "E24",
-    "Catalog BSC": 106
+    "Catalog BSC": 106,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C56": {
+    "Provenance": "BSC",
     "alpha": 11.764,
     "delta": -11.872,
     "X": 5,
@@ -858,9 +1285,16 @@
     "Mag": "10.9",
     "PSA": "7",
     "All PSA": "7",
-    "Catalog BSC": 107
+    "Catalog BSC": 107,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C57": {
+    "Provenance": "AWF",
     "alpha": 296.234,
     "delta": -14.798,
     "X": 15,
@@ -876,9 +1310,19 @@
     "All PSA": "66",
     "OSA": "E22",
     "Catalog BSC": 146,
-    "Notes": "U73 is \\degrees{0.7} NNW."
+    "Notes": "U73 is \\degrees{0.7} NNW.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "C58": {
+    "Provenance": "BSC",
     "alpha": 109.443,
     "delta": -15.631,
     "X": 14,
@@ -893,9 +1337,17 @@
     "PSA": "27",
     "All PSA": "27",
     "OSA": "E8",
-    "Catalog BSC": 79
+    "Catalog BSC": 79,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C59": {
+    "Provenance": "BSC",
     "alpha": 156.192,
     "delta": -18.642,
     "X": 0.8,
@@ -910,9 +1362,19 @@
     "PSA": "36/37",
     "All PSA": "36/37",
     "OSA": "E10",
-    "Catalog BSC": 125
+    "Catalog BSC": 125,
+    "Provenances": [
+      "DSC:TCO",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C60": {
+    "Provenance": "AWF",
     "alpha": 180.471,
     "delta": -18.868,
     "X": 11,
@@ -925,9 +1387,16 @@
     "Mag": "10.5",
     "PSA": "36/47",
     "All PSA": "36/47",
-    "Notes": "C61 is \\arcmin{1.2} SW."
+    "Notes": "C61 is \\arcmin{1.2} SW.",
+    "Provenances": [
+      "AWF",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C61": {
+    "Provenance": "AWF",
     "alpha": 180.474,
     "delta": -18.885,
     "X": 10,
@@ -940,9 +1409,16 @@
     "Mag": "11.2",
     "PSA": "36/47",
     "All PSA": "36/47",
-    "Notes": "C60 is \\arcmin{1.2} NW"
+    "Notes": "C60 is \\arcmin{1.2} NW",
+    "Provenances": [
+      "AWF",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C62": {
+    "Provenance": "OSA",
     "alpha": 11.786,
     "delta": -20.76,
     "X": 22,
@@ -954,9 +1430,16 @@
     "Mag": "8.9",
     "PSA": "7",
     "All PSA": "7",
-    "OSA": "E0"
+    "OSA": "E0",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C63": {
+    "Provenance": "BSC",
     "alpha": 337.411,
     "delta": -20.837,
     "X": 12,
@@ -970,9 +1453,17 @@
     "PSA": "76/77",
     "All PSA": "76/77",
     "OSA": "E24",
-    "Catalog BSC": 91
+    "Catalog BSC": 91,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C64": {
+    "Provenance": "BSC",
     "alpha": 109.671,
     "delta": -24.954,
     "X": 6,
@@ -986,9 +1477,17 @@
     "PSA": "27",
     "All PSA": "27/29",
     "OSA": "E6",
-    "Catalog BSC": 17
+    "Catalog BSC": 17,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C65": {
+    "Provenance": "AWF",
     "alpha": 11.888,
     "delta": -25.289,
     "X": 26,
@@ -1003,9 +1502,18 @@
     "All PSA": "7/9",
     "OSA": "E0",
     "Catalog BSC": 108,
-    "Hops": "\u03b2 Cet Deneb Kaitos (mag 2.0) \\hop \\degrees{7} S \\hop \\degrees{1} E to C65"
+    "Hops": "\u03b2 Cet Deneb Kaitos (mag 2.0) \\hop \\degrees{7} S \\hop \\degrees{1} E to C65",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C66": {
+    "Provenance": "PSA",
     "alpha": 219.902,
     "delta": -26.538,
     "X": 4.3,
@@ -1016,9 +1524,15 @@
     "Catalog NGC": 5694,
     "Mag": "10.2",
     "PSA": "46",
-    "All PSA": "46/48/57/59"
+    "All PSA": "46/48/57/59",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C67": {
+    "Provenance": "PSA",
     "alpha": 41.579,
     "delta": -30.275,
     "X": 10,
@@ -1029,9 +1543,15 @@
     "Catalog NGC": 1097,
     "Mag": "9.2",
     "PSA": "6/8",
-    "All PSA": "6/8/17/19"
+    "All PSA": "6/8/17/19",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C68": {
+    "Provenance": "AWF",
     "alpha": 285.443,
     "delta": -36.961,
     "Type": "BN",
@@ -1042,9 +1562,16 @@
     "Mag": "9.5",
     "PSA": "69",
     "All PSA": "67/69",
-    "Notes": "The morphology and magnitude of the nebula are variable (DSC:TCO)."
+    "Notes": "The morphology and magnitude of the nebula are variable (DSC:TCO).",
+    "Provenances": [
+      "AWF",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C69": {
+    "Provenance": "BSC",
     "alpha": 258.435,
     "delta": -37.103,
     "X": 1.4,
@@ -1057,9 +1584,16 @@
     "Mag": "9.6",
     "PSA": "58",
     "All PSA": "58",
-    "Catalog BSC": 77
+    "Catalog BSC": 77,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C70": {
+    "Provenance": "BSC",
     "alpha": 13.723,
     "delta": -37.684,
     "X": 20,
@@ -1071,9 +1605,16 @@
     "Mag": "7.2",
     "PSA": "9",
     "All PSA": "9",
-    "Catalog BSC": 138
+    "Catalog BSC": 138,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C71": {
+    "Provenance": "BSC",
     "alpha": 118.046,
     "delta": -38.537,
     "X": 20,
@@ -1087,9 +1628,17 @@
     "PSA": "28",
     "All PSA": "28",
     "OSA": "S6",
-    "Catalog BSC": 41
+    "Catalog BSC": 41,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C72": {
+    "Provenance": "BSC",
     "alpha": 3.723,
     "delta": -39.197,
     "X": 34,
@@ -1102,9 +1651,17 @@
     "PSA": "9",
     "All PSA": "9/78",
     "OSA": "S0",
-    "Catalog BSC": 102
+    "Catalog BSC": 102,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C73": {
+    "Provenance": "BSC",
     "alpha": 78.528,
     "delta": -40.047,
     "X": 12,
@@ -1117,9 +1674,17 @@
     "PSA": "18",
     "All PSA": "18",
     "OSA": "S0",
-    "Catalog BSC": 80
+    "Catalog BSC": 80,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C74": {
+    "Provenance": "OSA",
     "alpha": 151.757,
     "delta": -40.436,
     "X": 1.4,
@@ -1131,9 +1696,16 @@
     "Mag": "9.2",
     "PSA": "39",
     "All PSA": "39",
-    "OSA": "S6"
+    "OSA": "S6",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C75": {
+    "Provenance": "BSC",
     "alpha": 246.332,
     "delta": -40.661,
     "X": 40,
@@ -1146,9 +1718,17 @@
     "PSA": "58",
     "All PSA": "58",
     "OSA": "S21",
-    "Catalog BSC": 42
+    "Catalog BSC": 42,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C76": {
+    "Provenance": "BSC",
     "alpha": 253.535,
     "delta": -41.827,
     "X": 14,
@@ -1162,9 +1742,17 @@
     "PSA": "58",
     "All PSA": "58",
     "OSA": "S21",
-    "Catalog BSC": 7
+    "Catalog BSC": 7,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C77": {
+    "Provenance": "OSA",
     "alpha": 201.365,
     "delta": -43.019,
     "X": 17,
@@ -1177,9 +1765,16 @@
     "Mag": "6.6",
     "PSA": "48/49",
     "All PSA": "48/49",
-    "OSA": "S15"
+    "OSA": "S15",
+    "Provenances": [
+      "OSA",
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C78": {
+    "Provenance": "BSC",
     "alpha": 272.01,
     "delta": -43.715,
     "X": 15,
@@ -1192,9 +1787,17 @@
     "PSA": "69",
     "All PSA": "58/69",
     "OSA": "S21",
-    "Catalog BSC": 60
+    "Catalog BSC": 60,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C79": {
+    "Provenance": "BSC",
     "alpha": 154.403,
     "delta": -46.412,
     "X": 20,
@@ -1207,9 +1810,17 @@
     "PSA": "39",
     "All PSA": "39",
     "OSA": "S6",
-    "Catalog BSC": 112
+    "Catalog BSC": 112,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C80": {
+    "Provenance": "BSC",
     "alpha": 201.697,
     "delta": -47.479,
     "X": 55,
@@ -1223,9 +1834,17 @@
     "PSA": "48/49",
     "All PSA": "48/49/59",
     "OSA": "S15",
-    "Catalog BSC": 14
+    "Catalog BSC": 14,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C81": {
+    "Provenance": "BSC",
     "alpha": 261.371,
     "delta": -48.422,
     "X": 9,
@@ -1237,9 +1856,16 @@
     "Mag": "7.8",
     "PSA": "58",
     "All PSA": "58/69",
-    "Catalog BSC": 98
+    "Catalog BSC": 98,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C82": {
+    "Provenance": "BSC",
     "alpha": 250.319,
     "delta": -48.777,
     "X": 14,
@@ -1251,9 +1877,16 @@
     "Mag": "4.8",
     "PSA": "58",
     "All PSA": "58",
-    "Catalog BSC": 30
+    "Catalog BSC": 30,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C83": {
+    "Provenance": "BSC",
     "alpha": 196.364,
     "delta": -49.468,
     "X": 19,
@@ -1265,9 +1898,16 @@
     "Mag": "8.8",
     "PSA": "49",
     "All PSA": "38/49",
-    "Catalog BSC": 147
+    "Catalog BSC": 147,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C84": {
+    "Provenance": "BSC",
     "alpha": 206.612,
     "delta": -51.374,
     "X": 11,
@@ -1279,9 +1919,16 @@
     "Mag": "7.2",
     "PSA": "48",
     "All PSA": "48/59",
-    "Catalog BSC": 92
+    "Catalog BSC": 92,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C85": {
+    "Provenance": "BSC",
     "alpha": 130.292,
     "delta": -52.991,
     "X": 60,
@@ -1295,9 +1942,17 @@
     "PSA": "28",
     "All PSA": "28/39",
     "OSA": "S6",
-    "Catalog BSC": 6
+    "Catalog BSC": 6,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C86": {
+    "Provenance": "BSC",
     "alpha": 265.175,
     "delta": -53.674,
     "X": 31,
@@ -1310,9 +1965,17 @@
     "PSA": "58",
     "All PSA": "58/69",
     "OSA": "S18",
-    "Catalog BSC": 67
+    "Catalog BSC": 67,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C87": {
+    "Provenance": "BSC",
     "alpha": 48.068,
     "delta": -55.216,
     "X": 6.8,
@@ -1324,9 +1987,16 @@
     "Mag": "8.3",
     "PSA": "19",
     "All PSA": "8/19/20",
-    "Catalog BSC": 115
+    "Catalog BSC": 115,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C88": {
+    "Provenance": "BSC",
     "alpha": 226.365,
     "delta": -55.608,
     "X": 12,
@@ -1339,9 +2009,16 @@
     "Mag": "7.9",
     "PSA": "59",
     "All PSA": "48/59/60",
-    "Catalog BSC": 103
+    "Catalog BSC": 103,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C89": {
+    "Provenance": "BSC",
     "alpha": 244.721,
     "delta": -57.916,
     "X": 15,
@@ -1355,9 +2032,17 @@
     "PSA": "58/60",
     "All PSA": "48/58/60",
     "OSA": "S18",
-    "Catalog BSC": 33
+    "Catalog BSC": 33,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C90": {
+    "Provenance": "PSA",
     "alpha": 140.356,
     "delta": -58.311,
     "X": 0.2,
@@ -1368,9 +2053,15 @@
     "Catalog NGC": 2867,
     "Mag": "9.7",
     "PSA": "39",
-    "All PSA": "28/39/40"
+    "All PSA": "28/39/40",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C91": {
+    "Provenance": "AWF",
     "alpha": 166.417,
     "delta": -58.707,
     "X": 50,
@@ -1384,9 +2075,18 @@
     "All PSA": "38/40/49",
     "OSA": "S9",
     "Catalog BSC": 9,
-    "Notes": "C90 is \\degrees{2.5} SW."
+    "Notes": "C90 is \\degrees{2.5} SW.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C92": {
+    "Provenance": "AWF",
     "alpha": 161.259,
     "delta": -59.7,
     "Type": "BN",
@@ -1400,9 +2100,18 @@
     "All PSA": "38/40/49",
     "OSA": "S9",
     "Catalog BSC": 3,
-    "Notes": "The nebula is variable in magnitude. C91 is \\degrees{2.5} NE."
+    "Notes": "The nebula is variable in magnitude. C91 is \\degrees{2.5} NE.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C93": {
+    "Provenance": "BSC",
     "alpha": 287.717,
     "delta": -59.985,
     "X": 29,
@@ -1415,9 +2124,17 @@
     "PSA": "69/70",
     "All PSA": "69/70",
     "OSA": "S24",
-    "Catalog BSC": 34
+    "Catalog BSC": 34,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C94": {
+    "Provenance": "AWF",
     "alpha": 193.415,
     "delta": -60.371,
     "X": 10,
@@ -1433,9 +2150,18 @@
     "All PSA": "38/49/50",
     "OSA": "S12",
     "Catalog BSC": 20,
-    "Notes": "The northern edge of C99 is \\degrees{1} S."
+    "Notes": "The northern edge of C99 is \\degrees{1} S.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C95": {
+    "Provenance": "BSC",
     "alpha": 240.779,
     "delta": -60.43,
     "X": 15,
@@ -1447,9 +2173,16 @@
     "Mag": "5.5",
     "PSA": "59/60",
     "All PSA": "59/60",
-    "Catalog BSC": 29
+    "Catalog BSC": 29,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C96": {
+    "Provenance": "BSC",
     "alpha": 119.527,
     "delta": -60.8,
     "X": 22,
@@ -1463,9 +2196,17 @@
     "PSA": "28/30",
     "All PSA": "28/30/39",
     "OSA": "S3",
-    "Catalog BSC": 13
+    "Catalog BSC": 13,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C97": {
+    "Provenance": "AWF",
     "alpha": 174.061,
     "delta": -61.616,
     "X": 15,
@@ -1480,9 +2221,18 @@
     "All PSA": "38/40/49",
     "OSA": "S12",
     "Catalog BSC": 32,
-    "Notes": "C100 is \\degrees{1.8} S."
+    "Notes": "C100 is \\degrees{1.8} S.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C98": {
+    "Provenance": "AWF",
     "alpha": 190.582,
     "delta": -62.995,
     "X": 6,
@@ -1496,9 +2246,17 @@
     "PSA": "49/50",
     "All PSA": "38/49/50",
     "Catalog BSC": 70,
-    "Notes": "Surrounded by C99."
+    "Notes": "Surrounded by C99.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C99": {
+    "Provenance": "AWF",
     "alpha": 187.829,
     "delta": -63.743,
     "Type": "DN",
@@ -1509,9 +2267,17 @@
     "PSA": "49/50",
     "All PSA": "38/49/50",
     "OSA": "S12",
-    "Notes": "Much bigger than the finder chart. Surrounds C98. C94 is \\degrees{1} N of the northern edge."
+    "Notes": "Much bigger than the finder chart. Surrounds C98. C94 is \\degrees{1} N of the northern edge.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "C100": {
+    "Provenance": "AWF",
     "Catalog C": 100,
     "alpha": 174.575,
     "delta": -63.367,
@@ -1524,9 +2290,17 @@
     "PSA": "38/40",
     "All PSA": "38/40/49/50",
     "Catalog BSC": 22,
-    "Notes": "C97 is \\degrees{1.8} N."
+    "Notes": "C97 is \\degrees{1.8} N.",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "PSA"
+    ]
   },
   "C101": {
+    "Provenance": "BSC",
     "alpha": 287.442,
     "delta": -63.857,
     "X": 21,
@@ -1538,9 +2312,16 @@
     "Mag": "8.6",
     "PSA": "70",
     "All PSA": "70",
-    "Catalog BSC": 143
+    "Catalog BSC": 143,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C102": {
+    "Provenance": "BSC",
     "alpha": 160.613,
     "delta": -64.426,
     "X": 100,
@@ -1556,9 +2337,17 @@
     "PSA": "38/40",
     "All PSA": "38/40",
     "OSA": "S9",
-    "Catalog BSC": 5
+    "Catalog BSC": 5,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C103": {
+    "Provenance": "AWF",
     "alpha": 84.675,
     "delta": -69.1,
     "X": 30,
@@ -1572,9 +2361,18 @@
     "All PSA": "20/30/D",
     "OSA": "S3",
     "Catalog BSC": 109,
-    "Notes": "The nebula is magnitude 4.0 (DSC:TCO). the cluster is magnitude 8.3 and has a diameter of \\arcmin{5} (DSC:TCO)."
+    "Notes": "The nebula is magnitude 4.0 (DSC:TCO). the cluster is magnitude 8.3 and has a diameter of \\arcmin{5} (DSC:TCO).",
+    "Provenances": [
+      "DSC:TCO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C104": {
+    "Provenance": "BSC",
     "alpha": 15.809,
     "delta": -70.849,
     "X": 14,
@@ -1588,9 +2386,17 @@
     "PSA": "10/80",
     "All PSA": "10/20/80",
     "OSA": "S0",
-    "Catalog BSC": 64
+    "Catalog BSC": 64,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C105": {
+    "Provenance": "BSC",
     "alpha": 194.891,
     "delta": -70.877,
     "X": 14,
@@ -1602,9 +2408,16 @@
     "Mag": "8.4",
     "PSA": "50",
     "All PSA": "40/50",
-    "Catalog BSC": 97
+    "Catalog BSC": 97,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C106": {
+    "Provenance": "BSC",
     "alpha": 6.022,
     "delta": -72.081,
     "X": 50,
@@ -1619,9 +2432,17 @@
     "PSA": "10/80",
     "All PSA": "10/80",
     "OSA": "S0",
-    "Catalog BSC": 26
+    "Catalog BSC": 26,
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "C107": {
+    "Provenance": "BSC",
     "alpha": 246.451,
     "delta": -72.202,
     "X": 11,
@@ -1633,9 +2454,16 @@
     "Mag": "9.2",
     "PSA": "60",
     "All PSA": "50/60/70",
-    "Catalog BSC": 139
+    "Catalog BSC": 139,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C108": {
+    "Provenance": "BSC",
     "alpha": 186.439,
     "delta": -72.659,
     "X": 5,
@@ -1647,9 +2475,16 @@
     "Mag": "7.2",
     "PSA": "40/50",
     "All PSA": "40/50",
-    "Catalog BSC": 99
+    "Catalog BSC": 99,
+    "Provenances": [
+      "DSC:TCO",
+      "BSC",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "C109": {
+    "Provenance": "PSA",
     "alpha": 152.337,
     "delta": -80.859,
     "X": 0.6,
@@ -1660,9 +2495,15 @@
     "Catalog NGC": 3195,
     "Mag": "11.6",
     "PSA": "40",
-    "All PSA": "10/20/30/40/50/60"
+    "All PSA": "10/20/30/40/50/60",
+    "Provenances": [
+      "DSC:TCO",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "M1": {
+    "Provenance": "BSC",
     "alpha": 83.633,
     "delta": 22.014,
     "X": 6,
@@ -1678,9 +2519,18 @@
     "Constellation": "Tau",
     "CSA": "3/9",
     "OSA": "E3",
-    "Catalog BSC": 119
+    "Catalog BSC": 119,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M2": {
+    "Provenance": "BSC",
     "alpha": 323.363,
     "delta": -0.823,
     "X": 16,
@@ -1696,9 +2546,19 @@
     "Constellation": "Aqr",
     "CSA": "13",
     "OSA": "E24",
-    "Catalog BSC": 56
+    "Catalog BSC": 56,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M3": {
+    "Provenance": "BSC",
     "alpha": 205.548,
     "delta": 28.377,
     "X": 19,
@@ -1714,9 +2574,19 @@
     "Constellation": "CVn",
     "CSA": "5",
     "OSA": "E15",
-    "Catalog BSC": 53
+    "Catalog BSC": 53,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M4": {
+    "Provenance": "BSC",
     "alpha": 245.897,
     "delta": -26.526,
     "X": 36,
@@ -1732,9 +2602,19 @@
     "Constellation": "Sco",
     "CSA": "11/12/17/18",
     "OSA": "E18",
-    "Catalog BSC": 43
+    "Catalog BSC": 43,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M5": {
+    "Provenance": "BSC",
     "alpha": 229.638,
     "delta": 2.081,
     "X": 23,
@@ -1750,9 +2630,19 @@
     "Constellation": "Ser",
     "CSA": "11/12",
     "OSA": "E15",
-    "Catalog BSC": 66
+    "Catalog BSC": 66,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M6": {
+    "Provenance": "AWF",
     "alpha": 265.069,
     "delta": -32.242,
     "X": 33,
@@ -1770,9 +2660,20 @@
     "CSA": "18",
     "OSA": "E18",
     "Catalog BSC": 18,
-    "Hops": "\u03bb Sco Shaula (mag 1.6) \\hop \\degrees{5} N \\hop \\degrees{1} E to M6/U60"
+    "Hops": "\u03bb Sco Shaula (mag 1.6) \\hop \\degrees{5} N \\hop \\degrees{1} E to M6/U60",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M7": {
+    "Provenance": "AWF",
     "alpha": 268.447,
     "delta": -34.841,
     "X": 75,
@@ -1789,9 +2690,20 @@
     "CSA": "18",
     "OSA": "E18",
     "Catalog BSC": 10,
-    "Hops": "\u03b5 Sgr Kaus Australis (mag 1.8) \\hop \\degrees{6} W to M7/U62"
+    "Hops": "\u03b5 Sgr Kaus Australis (mag 1.8) \\hop \\degrees{6} W to M7/U62",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M8": {
+    "Provenance": "AWF",
     "alpha": 270.904,
     "delta": -24.387,
     "Type": "BN",
@@ -1810,9 +2722,20 @@
     "OSA": "E20",
     "Catalog BSC": 45,
     "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{6} N to M8/U64",
-    "Notes": "M20 is \\degrees{1.5} N.  M21 is \\degrees{2.0} N."
+    "Notes": "M20 is \\degrees{1.5} N.  M21 is \\degrees{2.0} N.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M9": {
+    "Provenance": "BSC",
     "alpha": 259.799,
     "delta": -18.516,
     "X": 12,
@@ -1827,9 +2750,18 @@
     "Constellation": "Oph",
     "CSA": "12/18",
     "OSA": "E17",
-    "Catalog BSC": 123
+    "Catalog BSC": 123,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M10": {
+    "Provenance": "BSC",
     "alpha": 254.288,
     "delta": -4.1,
     "X": 20,
@@ -1845,9 +2777,19 @@
     "Constellation": "Oph",
     "CSA": "12",
     "OSA": "E17",
-    "Catalog BSC": 61
+    "Catalog BSC": 61,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M11": {
+    "Provenance": "OSA",
     "alpha": 282.766,
     "delta": -6.272,
     "X": 13,
@@ -1865,9 +2807,18 @@
     "Mag": "5.3",
     "Constellation": "Sct",
     "CSA": "12",
-    "OSA": "E19"
+    "OSA": "E19",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M12": {
+    "Provenance": "BSC",
     "alpha": 251.809,
     "delta": -1.949,
     "X": 16,
@@ -1883,9 +2834,19 @@
     "Constellation": "Oph",
     "CSA": "12",
     "OSA": "E17",
-    "Catalog BSC": 94
+    "Catalog BSC": 94,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M13": {
+    "Provenance": "AWF",
     "alpha": 250.423,
     "delta": 36.461,
     "X": 20,
@@ -1903,9 +2864,20 @@
     "CSA": "5/6",
     "OSA": "N14",
     "Catalog BSC": 40,
-    "Hops": "\u03b6 Her (mag 2.8)\\hop \\degrees{5} N (2/3 distance to \u03b7 Her) to M13/U54"
+    "Hops": "\u03b6 Her (mag 2.8)\\hop \\degrees{5} N (2/3 distance to \u03b7 Her) to M13/U54",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M14": {
+    "Provenance": "BSC",
     "alpha": 264.401,
     "delta": -3.246,
     "X": 11,
@@ -1920,9 +2892,18 @@
     "Constellation": "Oph",
     "CSA": "12",
     "OSA": "E17",
-    "Catalog BSC": 116
+    "Catalog BSC": 116,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M15": {
+    "Provenance": "BSC",
     "alpha": 322.493,
     "delta": 12.167,
     "X": 18,
@@ -1938,9 +2919,19 @@
     "Constellation": "Peg",
     "CSA": "13",
     "OSA": "E23",
-    "Catalog BSC": 54
+    "Catalog BSC": 54,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M16": {
+    "Provenance": "AWF",
     "alpha": 274.688,
     "delta": -13.792,
     "X": 35,
@@ -1958,9 +2949,19 @@
     "CSA": "12",
     "OSA": "E20",
     "Catalog BSC": 46,
-    "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{4} E \\hop \\degrees{4} S to M16\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{7} N \\hop \\degrees{1} E to M16"
+    "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{4} E \\hop \\degrees{4} S to M16\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{7} N \\hop \\degrees{1} E to M16",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M17": {
+    "Provenance": "AWF",
     "alpha": 275.196,
     "delta": -16.172,
     "X": 20,
@@ -1979,9 +2980,20 @@
     "OSA": "E20",
     "Catalog BSC": 47,
     "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{6} S to M17/U65\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{5} N passing M24 and M18 \\hop \\degrees{2} E to M17",
-    "Notes": "M18 is \\degrees{1} S. M24 is  \\degrees{3} SW."
+    "Notes": "M18 is \\degrees{1} S. M24 is  \\degrees{3} SW.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M18": {
+    "Provenance": "AWF",
     "alpha": 274.989,
     "delta": -17.089,
     "X": 7,
@@ -1998,9 +3010,19 @@
     "OSA": "E20",
     "Catalog BSC": 87,
     "Hops": "\u03bd Oph (mag 3.3) \\hop \\degrees{5} E \\hop \\degrees{7} S passing M17/U65 to M18\\par \u03bc Sgr (mag 3.8) \\hop \\degrees{4} N passing M24 \\hop \\degrees{2} E to M18",
-    "Notes": "M17/U65 is \\degrees{1} N. M24 is \\degrees{2} SW."
+    "Notes": "M17/U65 is \\degrees{1} N. M24 is \\degrees{2} SW.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M19": {
+    "Provenance": "BSC",
     "alpha": 255.657,
     "delta": -26.268,
     "X": 17,
@@ -2015,9 +3037,18 @@
     "Constellation": "Oph",
     "CSA": "12/18",
     "OSA": "E18",
-    "Catalog BSC": 86
+    "Catalog BSC": 86,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M20": {
+    "Provenance": "AWF",
     "alpha": 270.675,
     "delta": -22.972,
     "X": 20,
@@ -2036,9 +3067,19 @@
     "OSA": "E20",
     "Catalog BSC": 57,
     "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{7.5} N passing M8/U64 to M20",
-    "Notes": "M8/U64 is \\degrees{1.5} S. M21 is \\degrees{0.5} NE."
+    "Notes": "M8/U64 is \\degrees{1.5} S. M21 is \\degrees{0.5} NE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M21": {
+    "Provenance": "AWF",
     "alpha": 271.036,
     "delta": -22.505,
     "X": 16,
@@ -2055,9 +3096,19 @@
     "OSA": "E20",
     "Catalog BSC": 65,
     "Hops": "\u03b3 Sgr Alnasl (mag 3.0) \\hop \\degrees{8.0} N passing M8/U64 and M20 to M21",
-    "Notes": "M8/U64 is \\degrees{2.0} S. M20 is \\degrees{0.5} SW."
+    "Notes": "M8/U64 is \\degrees{2.0} S. M20 is \\degrees{0.5} SW.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M22": {
+    "Provenance": "BSC",
     "alpha": 279.1,
     "delta": -23.905,
     "X": 32,
@@ -2073,9 +3124,19 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
-    "Catalog BSC": 28
+    "Catalog BSC": 28,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M23": {
+    "Provenance": "BSC",
     "alpha": 269.237,
     "delta": -18.987,
     "X": 25,
@@ -2090,9 +3151,18 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
-    "Catalog BSC": 69
+    "Catalog BSC": 69,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M24": {
+    "Provenance": "AWF",
     "alpha": 274.2,
     "delta": -18.55,
     "X": 120,
@@ -2108,9 +3178,19 @@
     "CSA": "12/18",
     "OSA": "E20",
     "Catalog BSC": 23,
-    "Notes": "M18 is \\degrees{1.5} NE. M17/U65 is \\degrees{3} NE."
+    "Notes": "M18 is \\degrees{1.5} NE. M17/U65 is \\degrees{3} NE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M25": {
+    "Provenance": "BSC",
     "alpha": 277.937,
     "delta": -19.114,
     "X": 26,
@@ -2125,9 +3205,18 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
-    "Catalog BSC": 24
+    "Catalog BSC": 24,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M26": {
+    "Provenance": "BSC",
     "alpha": 281.317,
     "delta": -9.386,
     "X": 10,
@@ -2142,9 +3231,18 @@
     "Constellation": "Sct",
     "CSA": "12",
     "OSA": "E19",
-    "Catalog BSC": 104
+    "Catalog BSC": 104,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M27": {
+    "Provenance": "BSC",
     "alpha": 299.902,
     "delta": 22.721,
     "X": 8,
@@ -2161,9 +3259,19 @@
     "Constellation": "Vul",
     "CSA": "6/7/12/13",
     "OSA": "E21",
-    "Catalog BSC": 88
+    "Catalog BSC": 88,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M28": {
+    "Provenance": "BSC",
     "alpha": 276.137,
     "delta": -24.87,
     "X": 13.8,
@@ -2178,9 +3286,18 @@
     "Constellation": "Sgr",
     "CSA": "12/18",
     "OSA": "E20",
-    "Catalog BSC": 93
+    "Catalog BSC": 93,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M29": {
+    "Provenance": "AWF",
     "alpha": 305.943,
     "delta": 38.487,
     "X": 10,
@@ -2196,9 +3313,19 @@
     "CSA": "6/7",
     "OSA": "N20",
     "Catalog BSC": 75,
-    "Hops": "\u03b3 Cyg Sadr (mag 2.2) \\hop \\degrees{1.8} S to M29"
+    "Hops": "\u03b3 Cyg Sadr (mag 2.2) \\hop \\degrees{1.8} S to M29",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M30": {
+    "Provenance": "BSC",
     "alpha": 325.092,
     "delta": -23.18,
     "X": 12,
@@ -2213,9 +3340,18 @@
     "Constellation": "Cap",
     "CSA": "13/19",
     "OSA": "E22",
-    "Catalog BSC": 95
+    "Catalog BSC": 95,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M31": {
+    "Provenance": "AWF",
     "alpha": 10.685,
     "delta": 41.269,
     "X": 180,
@@ -2234,9 +3370,20 @@
     "OSA": "N0",
     "Catalog BSC": 11,
     "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to M31/U3",
-    "Notes": "M32/U2 is \\degrees{0.5} S. M100 is \\degrees{0.5} NW."
+    "Notes": "M32/U2 is \\degrees{0.5} S. M100 is \\degrees{0.5} NW.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M32": {
+    "Provenance": "AWF",
     "alpha": 10.674,
     "delta": 40.865,
     "Type": "Gal",
@@ -2254,9 +3401,21 @@
     "OSA": "N0",
     "Catalog BSC": 110,
     "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{2.5} W \\hop \\degrees{2.5} N to M32/U2",
-    "Notes": "M31/U3 is \\degrees{0.5} N. M110 is \\degrees{1} NW."
+    "Notes": "M31/U3 is \\degrees{0.5} N. M110 is \\degrees{1} NW.",
+    "Provenances": [
+      "DSC:TMO",
+      "CSA",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M33": {
+    "Provenance": "BSC",
     "alpha": 23.462,
     "delta": 30.66,
     "X": 67,
@@ -2271,9 +3430,18 @@
     "Constellation": "Tri",
     "CSA": "2",
     "OSA": "N0",
-    "Catalog BSC": 39
+    "Catalog BSC": 39,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M34": {
+    "Provenance": "AWF",
     "alpha": 40.531,
     "delta": 42.722,
     "X": 25,
@@ -2289,9 +3457,19 @@
     "CSA": "2/3",
     "OSA": "N4",
     "Catalog BSC": 35,
-    "Hops": "\u03b2~Per Algol (mag 2.1--3.4) \\hop \\degrees{2.0} N (1/2 distance to \u03ba~Per) \\hop \\degrees{4.5} W (2/5 distance to \u03b3~And) to M34\\\\"
+    "Hops": "\u03b2~Per Algol (mag 2.1--3.4) \\hop \\degrees{2.0} N (1/2 distance to \u03ba~Per) \\hop \\degrees{4.5} W (2/5 distance to \u03b3~And) to M34\\\\",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M35": {
+    "Provenance": "BSC",
     "alpha": 92.272,
     "delta": 24.336,
     "X": 25,
@@ -2307,9 +3485,19 @@
     "Constellation": "Gem",
     "CSA": "3/9",
     "OSA": "E7",
-    "Catalog BSC": 31
+    "Catalog BSC": 31,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M36": {
+    "Provenance": "BSC",
     "alpha": 84.084,
     "delta": 34.135,
     "X": 10,
@@ -2325,9 +3513,19 @@
     "Constellation": "Aur",
     "CSA": "3",
     "OSA": "N6",
-    "Catalog BSC": 58
+    "Catalog BSC": 58,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M37": {
+    "Provenance": "AWF",
     "alpha": 88.074,
     "delta": 32.545,
     "X": 15,
@@ -2344,9 +3542,20 @@
     "CSA": "3",
     "OSA": "N6",
     "Catalog BSC": 55,
-    "Hops": "\u03b2 Tau Elnath (mag 1.7) \\hop \\degrees{6} W to point \\degrees{1} N of 136 Tau \\hop \\degrees{4} N to M37/U26"
+    "Hops": "\u03b2 Tau Elnath (mag 1.7) \\hop \\degrees{6} W to point \\degrees{1} N of 136 Tau \\hop \\degrees{4} N to M37/U26",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M38": {
+    "Provenance": "AWF",
     "alpha": 82.167,
     "delta": 35.824,
     "X": 15,
@@ -2364,9 +3573,20 @@
     "OSA": "N6",
     "Catalog BSC": 82,
     "Hops": "\u03b2 Tau Elnath (mag 1.7) \\hop \\degrees{7} N to M38/U23",
-    "Notes": "M36/U23 is \\degrees{2.5} SE."
+    "Notes": "M36/U23 is \\degrees{2.5} SE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M39": {
+    "Provenance": "BSC",
     "alpha": 322.889,
     "delta": 48.247,
     "X": 31,
@@ -2382,9 +3602,19 @@
     "Constellation": "Cyg",
     "CSA": "1/6/7",
     "OSA": "N24",
-    "Catalog BSC": 36
+    "Catalog BSC": 36,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M40": {
+    "Provenance": "OSA",
     "alpha": 185.55,
     "delta": 58.08,
     "Type": "DS",
@@ -2395,9 +3625,18 @@
     "All PSA": "32/41/43",
     "Constellation": "UMa",
     "CSA": "1/4/5",
-    "OSA": "N10"
+    "OSA": "N10",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M41": {
+    "Provenance": "AMW",
     "alpha": 101.499,
     "delta": -20.716,
     "X": 39,
@@ -2414,9 +3653,20 @@
     "CSA": "9/15",
     "OSA": "E6",
     "Catalog BSC": 21,
-    "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{4} S to M41/U33"
+    "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{4} S to M41/U33",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AMW",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M42": {
+    "Provenance": "AWF",
     "alpha": 83.822,
     "delta": -5.391,
     "X": 90,
@@ -2434,9 +3684,20 @@
     "CSA": "9",
     "OSA": "E4",
     "Catalog BSC": 15,
-    "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N."
+    "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M43": {
+    "Provenance": "AWF",
     "alpha": 83.879,
     "delta": -5.27,
     "Type": "BN",
@@ -2451,9 +3712,19 @@
     "CSA": "9",
     "OSA": "E4",
     "Catalog BSC": 136,
-    "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N."
+    "Notes": "M42/U24 surrounds M43. U25 is \\degrees{1} N.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M44": {
+    "Provenance": "BSC",
     "alpha": 130.054,
     "delta": 19.621,
     "X": 70,
@@ -2471,9 +3742,19 @@
     "Constellation": "Cnc",
     "CSA": "3/4/9/10",
     "OSA": "E9",
-    "Catalog BSC": 12
+    "Catalog BSC": 12,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M45": {
+    "Provenance": "BSC",
     "alpha": 56.601,
     "delta": 24.114,
     "X": 120,
@@ -2490,9 +3771,19 @@
     "Constellation": "Tau",
     "CSA": "2/3/8/9",
     "OSA": "E3",
-    "Catalog BSC": 4
+    "Catalog BSC": 4,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M46": {
+    "Provenance": "AWF",
     "alpha": 115.445,
     "delta": -14.844,
     "X": 20,
@@ -2508,9 +3799,19 @@
     "CSA": "9/10/15/16",
     "OSA": "E8",
     "Catalog BSC": 50,
-    "Notes": "M47 is \\degrees{1.3} W."
+    "Notes": "M47 is \\degrees{1.3} W.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M47": {
+    "Provenance": "AWF",
     "alpha": 114.147,
     "delta": -14.489,
     "X": 25,
@@ -2526,9 +3827,19 @@
     "CSA": "9/10/15/16",
     "OSA": "E8",
     "Catalog BSC": 19,
-    "Notes": "M46 is \\degrees{1.3} E."
+    "Notes": "M46 is \\degrees{1.3} E.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M48": {
+    "Provenance": "BSC",
     "alpha": 123.412,
     "delta": -5.726,
     "X": 30,
@@ -2544,9 +3855,19 @@
     "Constellation": "Hya",
     "CSA": "9/10",
     "OSA": "E10",
-    "Catalog BSC": 37
+    "Catalog BSC": 37,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M49": {
+    "Provenance": "BSC",
     "alpha": 187.445,
     "delta": 8.0,
     "X": 8.1,
@@ -2562,9 +3883,19 @@
     "CSA": "10/11",
     "OSA": "E14",
     "Notes": "In the Virgo Cluster.",
-    "Catalog BSC": 150
+    "Catalog BSC": 150,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M50": {
+    "Provenance": "AWF",
     "alpha": 105.698,
     "delta": -8.338,
     "X": 15,
@@ -2581,9 +3912,20 @@
     "CSA": "9",
     "OSA": "E8",
     "Catalog BSC": 44,
-    "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{3} E to \u03b9 CMa \\hop \\degrees{5} N passing \u03bc CMa to \u03b8 CMa \\hop \\degrees{4} N to asterism of three stars \\hop \\degrees{2} E to M50/U35"
+    "Hops": "\u03b1 CMa Sirius (mag $-1.5$)\\hop \\degrees{3} E to \u03b9 CMa \\hop \\degrees{5} N passing \u03bc CMa to \u03b8 CMa \\hop \\degrees{4} N to asterism of three stars \\hop \\degrees{2} E to M50/U35",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M51": {
+    "Provenance": "BSC",
     "alpha": 202.47,
     "delta": 47.195,
     "X": 11.2,
@@ -2599,9 +3941,18 @@
     "Constellation": "CVn",
     "CSA": "4/5",
     "OSA": "N12",
-    "Catalog BSC": 120
+    "Catalog BSC": 120,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M52": {
+    "Provenance": "AWF",
     "alpha": 351.195,
     "delta": 61.59,
     "X": 16,
@@ -2618,9 +3969,19 @@
     "OSA": "N22",
     "Catalog BSC": 27,
     "Hops": "\u03b2 Cas Chaph (mag 2.3) \\hop \\degrees{2} N \\hop \\degrees{6} W to M52",
-    "Notes": "C11 is \\degrees{0.6} to SW."
+    "Notes": "C11 is \\degrees{0.6} to SW.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M53": {
+    "Provenance": "BSC",
     "alpha": 198.23,
     "delta": 18.168,
     "X": 13,
@@ -2635,9 +3996,18 @@
     "Constellation": "Com",
     "CSA": "5/11",
     "OSA": "E13",
-    "Catalog BSC": 117
+    "Catalog BSC": 117,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M54": {
+    "Provenance": "BSC",
     "alpha": 283.764,
     "delta": -30.48,
     "X": 12,
@@ -2652,9 +4022,18 @@
     "Constellation": "Sgr",
     "CSA": "18/19",
     "OSA": "E20",
-    "Catalog BSC": 118
+    "Catalog BSC": 118,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M55": {
+    "Provenance": "BSC",
     "alpha": 294.999,
     "delta": -30.965,
     "X": 19,
@@ -2669,9 +4048,18 @@
     "Constellation": "Sgr",
     "CSA": "18/19",
     "OSA": "E22",
-    "Catalog BSC": 85
+    "Catalog BSC": 85,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M56": {
+    "Provenance": "AWF",
     "alpha": 289.148,
     "delta": 30.183,
     "X": 7,
@@ -2687,9 +4075,19 @@
     "CSA": "6/7",
     "OSA": "N18",
     "Catalog BSC": 113,
-    "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{3.5} E \\hop \\degrees{2.5} S to M56"
+    "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{3.5} E \\hop \\degrees{2.5} S to M56",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M57": {
+    "Provenance": "AWF",
     "alpha": 283.396,
     "delta": 33.029,
     "X": 1.1,
@@ -2707,9 +4105,20 @@
     "CSA": "6/7",
     "OSA": "N18",
     "Catalog BSC": 127,
-    "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{1.2} W \\hop \\degrees{0.4} N to M57/U71"
+    "Hops": "\u03b3 Lyr Sulaphat (mag 3.2) \\hop \\degrees{1.2} W \\hop \\degrees{0.4} N to M57/U71",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M58": {
+    "Provenance": "AWF",
     "alpha": 189.432,
     "delta": 11.818,
     "X": 5.9,
@@ -2724,9 +4133,18 @@
     "Constellation": "Vir",
     "CSA": "10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M59": {
+    "Provenance": "AWF",
     "alpha": 190.509,
     "delta": 11.647,
     "X": 5.4,
@@ -2741,9 +4159,18 @@
     "Constellation": "Vir",
     "CSA": "11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M60": {
+    "Provenance": "AWF",
     "alpha": 190.917,
     "delta": 11.553,
     "X": 7.1,
@@ -2758,9 +4185,18 @@
     "Constellation": "Vir",
     "CSA": "11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M61": {
+    "Provenance": "AWF",
     "alpha": 185.479,
     "delta": 4.474,
     "X": 6,
@@ -2775,9 +4211,19 @@
     "Constellation": "Vir",
     "CSA": "10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M62": {
+    "Provenance": "AWF",
     "alpha": 255.303,
     "delta": -30.112,
     "X": 14,
@@ -2794,9 +4240,20 @@
     "CSA": "17/18",
     "OSA": "E18",
     "Catalog BSC": 81,
-    "Hops": "\u03b5 Sco (mag 2.3) \\hop \\degrees{2} E \\hop \\degrees{4} N to M63"
+    "Hops": "\u03b5 Sco (mag 2.3) \\hop \\degrees{2} E \\hop \\degrees{4} N to M63",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M63": {
+    "Provenance": "BSC",
     "alpha": 198.955,
     "delta": 42.029,
     "X": 13.5,
@@ -2812,9 +4269,18 @@
     "Constellation": "CVn",
     "CSA": "4/5",
     "OSA": "N12",
-    "Catalog BSC": 145
+    "Catalog BSC": 145,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M64": {
+    "Provenance": "BSC",
     "alpha": 194.182,
     "delta": 21.683,
     "X": 9.2,
@@ -2831,9 +4297,19 @@
     "Constellation": "Com",
     "CSA": "5/11",
     "OSA": "E13",
-    "Catalog BSC": 149
+    "Catalog BSC": 149,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M65": {
+    "Provenance": "AWF",
     "alpha": 169.733,
     "delta": 13.092,
     "X": 8.7,
@@ -2848,9 +4324,18 @@
     "Constellation": "Leo",
     "CSA": "10/11",
     "OSA": "E11",
-    "Notes": "M66 is \\arcmin{20} E."
+    "Notes": "M66 is \\arcmin{20} E.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M66": {
+    "Provenance": "AWF",
     "alpha": 170.063,
     "delta": 12.991,
     "X": 8.2,
@@ -2866,9 +4351,19 @@
     "CSA": "10/11",
     "OSA": "E11",
     "Catalog BSC": 130,
-    "Notes": "M65 is \\arcmin{20} W."
+    "Notes": "M65 is \\arcmin{20} W.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M67": {
+    "Provenance": "BSC",
     "alpha": 132.846,
     "delta": 11.814,
     "X": 25,
@@ -2884,9 +4379,19 @@
     "Constellation": "Cnc",
     "CSA": "10",
     "OSA": "E9",
-    "Catalog BSC": 51
+    "Catalog BSC": 51,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M68": {
+    "Provenance": "OSA",
     "alpha": 189.867,
     "delta": -26.744,
     "X": 11,
@@ -2900,9 +4405,17 @@
     "Mag": "7.6",
     "Constellation": "Hya",
     "CSA": "10/11/16/17",
-    "OSA": "E12"
+    "OSA": "E12",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M69": {
+    "Provenance": "OSA",
     "alpha": 277.846,
     "delta": -32.348,
     "X": 10,
@@ -2916,9 +4429,17 @@
     "Mag": "7.4",
     "Constellation": "Sgr",
     "CSA": "18",
-    "OSA": "E20"
+    "OSA": "E20",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M70": {
+    "Provenance": "BSC",
     "alpha": 280.803,
     "delta": -32.292,
     "X": 8,
@@ -2933,9 +4454,18 @@
     "Constellation": "Sgr",
     "CSA": "18",
     "OSA": "E20",
-    "Catalog BSC": 105
+    "Catalog BSC": 105,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M71": {
+    "Provenance": "BSC",
     "alpha": 298.444,
     "delta": 18.779,
     "X": 7,
@@ -2950,9 +4480,18 @@
     "Constellation": "Sge",
     "CSA": "6/7/12/13",
     "OSA": "E21",
-    "Catalog BSC": 52
+    "Catalog BSC": 52,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M72": {
+    "Provenance": "AWF",
     "alpha": 313.365,
     "delta": -12.537,
     "X": 7,
@@ -2968,9 +4507,19 @@
     "CSA": "13",
     "OSA": "E24",
     "Catalog BSC": 148,
-    "Notes": "M73 is \\degrees{1.4} W."
+    "Notes": "M73 is \\degrees{1.4} W.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M73": {
+    "Provenance": "AWF",
     "alpha": 314.75,
     "delta": -12.63,
     "Type": "AST",
@@ -2986,9 +4535,18 @@
     "Constellation": "Aqr",
     "CSA": "13",
     "OSA": "E24",
-    "Notes": "Y-shaped asterism of four stars. M72 is \\degrees{1.4} E."
+    "Notes": "Y-shaped asterism of four stars. M72 is \\degrees{1.4} E.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M74": {
+    "Provenance": "OSA",
     "alpha": 24.174,
     "delta": 15.784,
     "X": 11,
@@ -3002,9 +4560,18 @@
     "Mag": "8.5",
     "Constellation": "Psc",
     "CSA": "8",
-    "OSA": "E1"
+    "OSA": "E1",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M75": {
+    "Provenance": "BSC",
     "alpha": 301.52,
     "delta": -21.922,
     "X": 7,
@@ -3019,9 +4586,18 @@
     "Constellation": "Sgr",
     "CSA": "12/13/18/19",
     "OSA": "E22",
-    "Catalog BSC": 144
+    "Catalog BSC": 144,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M76": {
+    "Provenance": "OSA",
     "alpha": 25.582,
     "delta": 51.575,
     "X": 2.7,
@@ -3036,9 +4612,17 @@
     "Name": "Little Dumbell",
     "Constellation": "Per",
     "CSA": "1/2/3/7",
-    "OSA": "N0"
+    "OSA": "N0",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M77": {
+    "Provenance": "OSA",
     "alpha": 40.67,
     "delta": -0.013,
     "X": 8.2,
@@ -3053,9 +4637,18 @@
     "Mag": "8.9",
     "Constellation": "Cet",
     "CSA": "8",
-    "OSA": "E0"
+    "OSA": "E0",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M78": {
+    "Provenance": "BSC",
     "alpha": 86.691,
     "delta": 0.079,
     "Type": "BN",
@@ -3070,9 +4663,18 @@
     "Constellation": "Ori",
     "CSA": "9",
     "OSA": "E5",
-    "Catalog BSC": 114
+    "Catalog BSC": 114,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M79": {
+    "Provenance": "BSC",
     "alpha": 81.044,
     "delta": -24.524,
     "X": 10,
@@ -3087,9 +4689,18 @@
     "Constellation": "Lep",
     "CSA": "9/15",
     "OSA": "E4",
-    "Catalog BSC": 126
+    "Catalog BSC": 126,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M80": {
+    "Provenance": "AWF",
     "alpha": 244.26,
     "delta": -22.976,
     "X": 10,
@@ -3105,9 +4716,19 @@
     "CSA": "11/12/17/18",
     "OSA": "E18",
     "Catalog BSC": 101,
-    "Hops": "\u03b1 Sco Antares (mag 0.9--1.1) \\hop \\degrees{3.0} W \\hop \\degrees{3.5} N to M80"
+    "Hops": "\u03b1 Sco Antares (mag 0.9--1.1) \\hop \\degrees{3.0} W \\hop \\degrees{3.5} N to M80",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M81": {
+    "Provenance": "AWF",
     "alpha": 148.888,
     "delta": 69.065,
     "X": 24,
@@ -3124,9 +4745,20 @@
     "CSA": "1/4",
     "OSA": "N8",
     "Catalog BSC": 72,
-    "Notes": "M82/U42 is \\degrees{0.6} N."
+    "Notes": "M82/U42 is \\degrees{0.6} N.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M82": {
+    "Provenance": "AWF",
     "alpha": 148.968,
     "delta": 69.68,
     "Type": "Gal",
@@ -3143,9 +4775,21 @@
     "CSA": "1/4",
     "OSA": "N8",
     "Catalog BSC": 122,
-    "Notes": "M81/U41 is \\degrees{0.6} S."
+    "Notes": "M81/U41 is \\degrees{0.6} S.",
+    "Provenances": [
+      "DSC:TMO",
+      "CSA",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M83": {
+    "Provenance": "BSC",
     "alpha": 204.254,
     "delta": -29.866,
     "X": 15.5,
@@ -3160,9 +4804,19 @@
     "Constellation": "Hya",
     "CSA": "17",
     "OSA": "E16",
-    "Catalog BSC": 89
+    "Catalog BSC": 89,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M84": {
+    "Provenance": "AWF",
     "alpha": 186.266,
     "delta": 12.887,
     "X": 5.1,
@@ -3178,9 +4832,19 @@
     "Constellation": "Vir",
     "CSA": "4/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M85": {
+    "Provenance": "AWF",
     "alpha": 186.35,
     "delta": 18.191,
     "X": 7.5,
@@ -3195,9 +4859,19 @@
     "Constellation": "Com",
     "CSA": "4/5/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M86": {
+    "Provenance": "AWF",
     "alpha": 186.549,
     "delta": 12.946,
     "X": 12,
@@ -3213,9 +4887,19 @@
     "Constellation": "Vir",
     "CSA": "4/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M87": {
+    "Provenance": "AWF",
     "alpha": 187.706,
     "delta": 12.391,
     "X": 7.1,
@@ -3231,9 +4915,20 @@
     "Constellation": "Vir",
     "CSA": "10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "DSC:TMO",
+      "CSA",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M88": {
+    "Provenance": "AWF",
     "alpha": 187.996,
     "delta": 14.42,
     "X": 6.1,
@@ -3248,9 +4943,18 @@
     "Constellation": "Com",
     "CSA": "5/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M89": {
+    "Provenance": "AWF",
     "alpha": 188.916,
     "delta": 12.556,
     "X": 3.4,
@@ -3265,9 +4969,19 @@
     "Constellation": "Vir",
     "CSA": "10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M90": {
+    "Provenance": "AWF",
     "alpha": 189.208,
     "delta": 13.163,
     "X": 10.5,
@@ -3282,9 +4996,18 @@
     "Constellation": "Vir",
     "CSA": "10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M91": {
+    "Provenance": "AWF",
     "alpha": 188.86,
     "delta": 14.496,
     "X": 5,
@@ -3299,9 +5022,19 @@
     "Constellation": "Com",
     "CSA": "5/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M92": {
+    "Provenance": "AWF",
     "alpha": 259.281,
     "delta": 43.136,
     "X": 14,
@@ -3318,9 +5051,20 @@
     "CSA": "5/6",
     "OSA": "N14",
     "Catalog BSC": 59,
-    "Hops": "\u03c0 Her (mag 3.2) \\hop \\degrees{6.5} N to M92/U59"
+    "Hops": "\u03c0 Her (mag 3.2) \\hop \\degrees{6.5} N to M92/U59",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M93": {
+    "Provenance": "BSC",
     "alpha": 116.141,
     "delta": -23.853,
     "X": 10,
@@ -3336,9 +5080,18 @@
     "Constellation": "Pup",
     "CSA": "9/10/15/16",
     "OSA": "E6",
-    "Catalog BSC": 48
+    "Catalog BSC": 48,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M94": {
+    "Provenance": "BSC",
     "alpha": 192.721,
     "delta": 41.12,
     "X": 11.5,
@@ -3354,9 +5107,19 @@
     "Constellation": "CVn",
     "CSA": "4/5",
     "OSA": "N12",
-    "Catalog BSC": 134
+    "Catalog BSC": 134,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M95": {
+    "Provenance": "AWF",
     "alpha": 160.991,
     "delta": 11.704,
     "X": 7.8,
@@ -3371,9 +5134,18 @@
     "Constellation": "Leo",
     "CSA": "10",
     "OSA": "E11",
-    "Notes": "M96 is \\degrees{0.7} E. M105 is \\degrees{1.3} NE."
+    "Notes": "M96 is \\degrees{0.7} E. M105 is \\degrees{1.3} NE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M96": {
+    "Provenance": "AWF",
     "alpha": 161.691,
     "delta": 11.82,
     "X": 6.9,
@@ -3388,9 +5160,18 @@
     "Constellation": "Leo",
     "CSA": "10",
     "OSA": "E11",
-    "Notes": "M96 is \\degrees{0.7} W. M105 is \\degrees{0.8} NNE."
+    "Notes": "M96 is \\degrees{0.7} W. M105 is \\degrees{0.8} NNE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M97": {
+    "Provenance": "AWF",
     "alpha": 168.699,
     "delta": 55.019,
     "X": 3.4,
@@ -3405,9 +5186,18 @@
     "Constellation": "UMa",
     "CSA": "1/4/5",
     "OSA": "N10",
-    "Notes": "M108 is \\degrees{0.8} to NW."
+    "Notes": "M108 is \\degrees{0.8} to NW.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M98": {
+    "Provenance": "AWF",
     "alpha": 183.451,
     "delta": 14.901,
     "X": 9.1,
@@ -3422,9 +5212,18 @@
     "Constellation": "Com",
     "CSA": "4/5/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M99": {
+    "Provenance": "AWF",
     "alpha": 184.707,
     "delta": 14.416,
     "X": 4.6,
@@ -3439,9 +5238,19 @@
     "Constellation": "Com",
     "CSA": "4/5/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M100": {
+    "Provenance": "AWF",
     "alpha": 185.729,
     "delta": 15.822,
     "X": 6.2,
@@ -3456,9 +5265,18 @@
     "Constellation": "Com",
     "CSA": "4/5/10/11",
     "OSA": "E14",
-    "Notes": "In the Virgo Cluster."
+    "Notes": "In the Virgo Cluster.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M101": {
+    "Provenance": "BSC",
     "alpha": 210.802,
     "delta": 54.349,
     "X": 26,
@@ -3473,9 +5291,19 @@
     "Constellation": "UMa",
     "CSA": "1/4/5/6",
     "OSA": "N10",
-    "Catalog BSC": 100
+    "Catalog BSC": 100,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M102": {
+    "Provenance": "AWF",
     "alpha": 226.623,
     "delta": 55.763,
     "X": 6.6,
@@ -3490,9 +5318,18 @@
     "Constellation": "Dra",
     "CSA": "1/5/6",
     "OSA": "N16",
-    "Notes": "Labelled 5866 in PSA"
+    "Notes": "Labelled 5866 in PSA",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M103": {
+    "Provenance": "AWF",
     "alpha": 23.339,
     "delta": 60.659,
     "X": 6,
@@ -3508,9 +5345,19 @@
     "CSA": "1/2/3/7",
     "OSA": "N2",
     "Catalog BSC": 83,
-    "Notes": "C10 is \\degrees{1.7} ENE."
+    "Notes": "C10 is \\degrees{1.7} ENE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M104": {
+    "Provenance": "BSC",
     "alpha": 189.998,
     "delta": -11.623,
     "X": 7.1,
@@ -3527,9 +5374,19 @@
     "Constellation": "Vir",
     "CSA": "10/11",
     "OSA": "E12",
-    "Catalog BSC": 133
+    "Catalog BSC": 133,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AL:UOP",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M105": {
+    "Provenance": "AWF",
     "alpha": 161.957,
     "delta": 12.582,
     "X": 3.9,
@@ -3544,9 +5401,19 @@
     "Constellation": "Leo",
     "CSA": "10",
     "OSA": "E11",
-    "Notes": "M95 is \\degrees{1.3} SW. M96 is \\degrees{0.8} SSW."
+    "Notes": "M95 is \\degrees{1.3} SW. M96 is \\degrees{0.8} SSW.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M106": {
+    "Provenance": "BSC",
     "alpha": 184.74,
     "delta": 47.304,
     "X": 20,
@@ -3561,9 +5428,19 @@
     "Constellation": "CVn",
     "CSA": "4/5",
     "OSA": "N12",
-    "Catalog BSC": 141
+    "Catalog BSC": 141,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "NED",
+      "PSA"
+    ]
   },
   "M107": {
+    "Provenance": "BSC",
     "alpha": 248.133,
     "delta": -13.054,
     "X": 13,
@@ -3578,9 +5455,18 @@
     "Constellation": "Oph",
     "CSA": "11/12",
     "OSA": "E17",
-    "Catalog BSC": 129
+    "Catalog BSC": 129,
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "M108": {
+    "Provenance": "AWF",
     "alpha": 167.879,
     "delta": 55.674,
     "X": 8.2,
@@ -3595,9 +5481,18 @@
     "Constellation": "UMa",
     "CSA": "1/4/5",
     "OSA": "N10",
-    "Notes": "M97 is \\degrees{0.8} to SE."
+    "Notes": "M97 is \\degrees{0.8} to SE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M109": {
+    "Provenance": "OSA",
     "alpha": 179.4,
     "delta": 53.375,
     "X": 7.6,
@@ -3611,9 +5506,17 @@
     "Mag": "9.8",
     "Constellation": "UMa",
     "CSA": "1/4/5",
-    "OSA": "N10"
+    "OSA": "N10",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "M110": {
+    "Provenance": "AWF",
     "alpha": 10.092,
     "delta": 41.685,
     "X": 19.5,
@@ -3630,9 +5533,19 @@
     "OSA": "N0",
     "Catalog BSC": 132,
     "Hops": "\u03b2 And Mirach (mag 2.1) \\hop \\degrees{2.5} W \\hop \\degrees{3.0} N to \u03bc And (mag 3.9)\\hop \\degrees{3.0} W \\hop \\degrees{3.5} N to M31/U3",
-    "Notes": "M31/U3 is \\degrees{0.5} SE. M32/U2 is \\degrees{1} SE."
+    "Notes": "M31/U3 is \\degrees{0.5} SE. M32/U2 is \\degrees{1} SE.",
+    "Provenances": [
+      "CSA",
+      "DSC:TMO",
+      "AWF",
+      "SIMBAD",
+      "BSC",
+      "OSA",
+      "PSA"
+    ]
   },
   "U1": {
+    "Provenance": "DSC:TSD",
     "alpha": 7.607,
     "delta": 60.213,
     "X": 21,
@@ -3642,9 +5555,16 @@
     "Catalog NGC": 129,
     "Catalog U": 1,
     "PSA": "3",
-    "All PSA": "1/3/72"
+    "All PSA": "1/3/72",
+    "Provenances": [
+      "AL:UOP",
+      "DSC:TSD",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U6": {
+    "Provenance": "DSC:TSD",
     "alpha": 27.031,
     "delta": 71.738,
     "X": 36,
@@ -3654,9 +5574,16 @@
     "Catalog U": 6,
     "PSA": "1",
     "All PSA": "1/11",
-    "Catalog Cr": 463
+    "Catalog Cr": 463,
+    "Provenances": [
+      "AL:UOP",
+      "DSC:TSD",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U8": {
+    "Provenance": "AWF",
     "alpha": 33.856,
     "delta": 59.522,
     "X": 60,
@@ -3667,9 +5594,17 @@
     "Name": "Stock 2",
     "PSA": "2",
     "All PSA": "1/2/13",
-    "Notes": "C14/U9/U10 is \\degrees{2} S."
+    "Notes": "C14/U9/U10 is \\degrees{2} S.",
+    "Provenances": [
+      "AWF",
+      "AL:UOP",
+      "SIMBAD",
+      "DSC:TSD",
+      "PSA"
+    ]
   },
   "U9": {
+    "Provenance": "AWF",
     "alpha": 34.741,
     "delta": 57.134,
     "X": 18,
@@ -3684,9 +5619,19 @@
     "PSA": "2",
     "All PSA": "1/2/13",
     "OSA": "N2",
-    "Notes": "U9 and U10 form C14. U10 is \\degrees{0.5} W. U8 is \\degrees{2} N.  U11 is \\degrees{3.0} SE."
+    "Notes": "U9 and U10 form C14. U10 is \\degrees{0.5} W. U8 is \\degrees{2} N.  U11 is \\degrees{3.0} SE.",
+    "Provenances": [
+      "DSC:TCO",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U10": {
+    "Provenance": "AWF",
     "alpha": 35.584,
     "delta": 57.149,
     "X": 18,
@@ -3701,9 +5646,19 @@
     "All PSA": "1/2/13",
     "OSA": "N2",
     "Name": "\u03c7 Per Cluster = half of C14",
-    "Notes": "U9 and U10 form C14. U9 is \\degrees{0.5} E. U8 is \\degrees{2} N.  U11 is \\degrees{2.5} SE."
+    "Notes": "U9 and U10 form C14. U9 is \\degrees{0.5} E. U8 is \\degrees{2} N.  U11 is \\degrees{2.5} SE.",
+    "Provenances": [
+      "DSC:TCO",
+      "DSC:TMO",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U11": {
+    "Provenance": "AWF",
     "alpha": 39.232,
     "delta": 55.905,
     "X": 20,
@@ -3714,9 +5669,16 @@
     "PSA": "2",
     "All PSA": "1/2/13",
     "Name": "Tr 2",
-    "Notes": "C14/U9/10 are \\degrees{2.5} NW."
+    "Notes": "C14/U9/10 are \\degrees{2.5} NW.",
+    "Provenances": [
+      "AWF",
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U13": {
+    "Provenance": "PSA",
     "alpha": 48.004,
     "delta": 63.218,
     "X": 23,
@@ -3726,9 +5688,15 @@
     "Catalog U": 13,
     "PSA": "11/13",
     "All PSA": "1/2/11/13",
-    "Name": "Tr 3"
+    "Name": "Tr 3",
+    "Provenances": [
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U14": {
+    "Provenance": "PSA",
     "alpha": 49.075,
     "delta": 60.377,
     "X": 15,
@@ -3738,9 +5706,15 @@
     "Catalog U": 14,
     "PSA": "11/13",
     "All PSA": "2/11/13",
-    "Name": "Stock 23 = Pazmino's Cluster"
+    "Name": "Stock 23 = Pazmino's Cluster",
+    "Provenances": [
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U15": {
+    "Provenance": "AWF",
     "alpha": 51.617,
     "delta": 48.975,
     "X": 185,
@@ -3753,9 +5727,16 @@
     "Name": "$\\alpha$ Per Cluster",
     "PSA": "3",
     "All PSA": "2/13",
-    "Notes": "Not shown in the PSA."
+    "Notes": "Not shown in the PSA.",
+    "Provenances": [
+      "AWF",
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U16": {
+    "Provenance": "DSC:TSD",
     "alpha": 52.894,
     "delta": 37.38,
     "X": 14,
@@ -3765,9 +5746,16 @@
     "Catalog NGC": 1342,
     "Catalog U": 16,
     "PSA": "13",
-    "All PSA": "2/13"
+    "All PSA": "2/13",
+    "Provenances": [
+      "AL:UOP",
+      "DSC:TSD",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U19": {
+    "Provenance": "AWF",
     "alpha": 71.481,
     "delta": 19.079,
     "X": 45,
@@ -3779,9 +5767,19 @@
     "PSA": "15",
     "All PSA": "14/15",
     "OSA": "E3",
-    "Hops": "\u03b1 Tau Betelgeuse (mag 0.3--0.9) \\hop \\degrees{2.5} N \\hop \\degrees{2.5} E to U19"
+    "Hops": "\u03b1 Tau Betelgeuse (mag 0.3--0.9) \\hop \\degrees{2.5} N \\hop \\degrees{2.5} E to U19",
+    "Provenances": [
+      "DSC:TCO",
+      "DSC:HT",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U20": {
+    "Provenance": "AWF",
     "alpha": 77.703,
     "delta": 16.522,
     "X": 17,
@@ -3794,9 +5792,17 @@
     "Catalog U": 20,
     "PSA": "14",
     "All PSA": "14",
-    "Notes": "U21 is \\degrees{0.5} WSW."
+    "Notes": "U21 is \\degrees{0.5} WSW.",
+    "Provenances": [
+      "AWF",
+      "AL:UOP",
+      "SIMBAD",
+      "DSC:TSD",
+      "PSA"
+    ]
   },
   "U21": {
+    "Provenance": "AWF",
     "alpha": 78.139,
     "delta": 16.696,
     "X": 15,
@@ -3808,9 +5814,17 @@
     "Catalog U": 21,
     "PSA": "14",
     "All PSA": "14",
-    "Notes": "U20 is \\degrees{0.5} ENE."
+    "Notes": "U20 is \\degrees{0.5} ENE.",
+    "Provenances": [
+      "AWF",
+      "AL:UOP",
+      "SIMBAD",
+      "DSC:TSD",
+      "PSA"
+    ]
   },
   "U25": {
+    "Provenance": "AWF",
     "alpha": 83.787,
     "delta": -4.432,
     "Type": "OC",
@@ -3822,9 +5836,18 @@
     "PSA": "16/B",
     "All PSA": "16/B",
     "OSA": "E4",
-    "Notes": "M42/U24 and M43 are \\degrees{1} S."
+    "Notes": "M42/U24 and M43 are \\degrees{1} S.",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U28": {
+    "Provenance": "DSC:HT",
     "alpha": 92.125,
     "delta": 13.951,
     "X": 6,
@@ -3834,9 +5857,16 @@
     "Catalog NGC": 2169,
     "Catalog U": 28,
     "PSA": "14/25",
-    "All PSA": "14/25"
+    "All PSA": "14/25",
+    "Provenances": [
+      "AL:UOP",
+      "DSC:HT",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U29": {
+    "Provenance": "AWF",
     "alpha": 96.888,
     "delta": -4.749,
     "X": 29,
@@ -3847,9 +5877,17 @@
     "Catalog U": 29,
     "PSA": "25/27",
     "All PSA": "25/27",
-    "Hops": "\u03ba Ori Saiph (mag 2.1) \\hop \\degrees{3} N \\hop \\degrees{11} E passing \u03b3 Mon to \u03b2 Mon \\hop \\degrees{2.5} N to U29"
+    "Hops": "\u03ba Ori Saiph (mag 2.1) \\hop \\degrees{3} N \\hop \\degrees{11} E passing \u03b3 Mon to \u03b2 Mon \\hop \\degrees{2.5} N to U29",
+    "Provenances": [
+      "AWF",
+      "AL:UOP",
+      "SIMBAD",
+      "DSC:TSD",
+      "PSA"
+    ]
   },
   "U31": {
+    "Provenance": "AMW",
     "alpha": 100.217,
     "delta": 9.877,
     "X": 20,
@@ -3862,9 +5900,18 @@
     "All PSA": "25/E",
     "OSA": "E7",
     "Hops": "\u03b3 Gem Alhena (mag 1.9) \\hop \\degrees{7} S passing \u03be Gem and 30 Gem to U31",
-    "Notes": "C46 is \\degrees{1.25} SSW."
+    "Notes": "C46 is \\degrees{1.25} SSW.",
+    "Provenances": [
+      "DSC:HT",
+      "AMW",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U32": {
+    "Provenance": "OSA",
     "alpha": 102.091,
     "delta": 41.06,
     "X": 14,
@@ -3875,9 +5922,17 @@
     "Catalog U": 32,
     "PSA": "23",
     "All PSA": "12/23",
-    "OSA": "N6"
+    "OSA": "N6",
+    "Provenances": [
+      "AL:UOP",
+      "SIMBAD",
+      "DSC:TSD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U34": {
+    "Provenance": "OSA",
     "alpha": 102.943,
     "delta": 0.465,
     "X": 12,
@@ -3888,9 +5943,17 @@
     "Catalog U": 34,
     "PSA": "25/27",
     "All PSA": "25/27",
-    "OSA": "E6"
+    "OSA": "E6",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U37": {
+    "Provenance": "OSA",
     "alpha": 122.658,
     "delta": -12.834,
     "X": 21,
@@ -3902,9 +5965,17 @@
     "Catalog U": 37,
     "PSA": "26",
     "All PSA": "26",
-    "OSA": "E8"
+    "OSA": "E8",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U44": {
+    "Provenance": "AWF",
     "alpha": 186.275,
     "delta": 26.1,
     "Type": "OC",
@@ -3918,9 +5989,19 @@
     "PSA": "45",
     "All PSA": "45",
     "OSA": "E13",
-    "Notes": "Not shown in the PSA."
+    "Notes": "Not shown in the PSA.",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "?",
+      "SIMBAD",
+      "AWF",
+      "OSA",
+      "PSA"
+    ]
   },
   "U55": {
+    "Provenance": "OSA",
     "alpha": 251.123,
     "delta": 23.8,
     "X": 0.8,
@@ -3931,9 +6012,17 @@
     "Catalog U": 55,
     "PSA": "54",
     "All PSA": "52/54",
-    "OSA": "E19"
+    "OSA": "E19",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U61": {
+    "Provenance": "OSA",
     "alpha": 266.554,
     "delta": 5.615,
     "X": 70,
@@ -3946,9 +6035,17 @@
     "Catalog U": 61,
     "PSA": "54",
     "All PSA": "54/65",
-    "OSA": "E17"
+    "OSA": "E17",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U63": {
+    "Provenance": "DSC:HT",
     "alpha": 270.856,
     "delta": -27.884,
     "X": 6,
@@ -3958,9 +6055,16 @@
     "Catalog NGC": 6520,
     "Catalog U": 63,
     "PSA": "67",
-    "All PSA": "67/69/I"
+    "All PSA": "67/69/I",
+    "Provenances": [
+      "AL:UOP",
+      "DSC:HT",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U66": {
+    "Provenance": "OSA",
     "alpha": 276.88,
     "delta": 6.57,
     "X": 20,
@@ -3971,9 +6075,17 @@
     "Catalog U": 66,
     "PSA": "65",
     "All PSA": "65",
-    "OSA": "E19"
+    "OSA": "E19",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U68": {
+    "Provenance": "OSA",
     "alpha": 279.63,
     "delta": 5.49,
     "X": 40,
@@ -3985,9 +6097,17 @@
     "Catalog U": 68,
     "PSA": "65",
     "All PSA": "65",
-    "OSA": "E19"
+    "OSA": "E19",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U70": {
+    "Provenance": "DSC:HT",
     "alpha": 282.836,
     "delta": 10.334,
     "X": 13,
@@ -3997,9 +6117,16 @@
     "Catalog NGC": 6709,
     "Catalog U": 70,
     "PSA": "65",
-    "All PSA": "65"
+    "All PSA": "65",
+    "Provenances": [
+      "AL:UOP",
+      "DSC:HT",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U72": {
+    "Provenance": "DSC:HT",
     "alpha": 291.35,
     "delta": 20.18,
     "Type": "OC",
@@ -4010,9 +6137,17 @@
     "PA": 0,
     "Catalog U": 72,
     "PSA": "64/65",
-    "All PSA": "64/65"
+    "All PSA": "64/65",
+    "Provenances": [
+      "DSC:TMO",
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U73": {
+    "Provenance": "AWF",
     "alpha": 295.992,
     "delta": -14.154,
     "X": 0.4,
@@ -4024,9 +6159,18 @@
     "PSA": "66",
     "All PSA": "66",
     "OSA": "E22",
-    "Notes": "C57 is \\degrees{0.7} SSE."
+    "Notes": "C57 is \\degrees{0.7} SSE.",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U74": {
+    "Provenance": "OSA",
     "alpha": 296.201,
     "delta": 50.525,
     "X": 0.5,
@@ -4037,9 +6181,16 @@
     "Catalog U": 74,
     "PSA": "62",
     "All PSA": "62/73",
-    "OSA": "N18"
+    "OSA": "N18",
+    "Provenances": [
+      "OSA",
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U76": {
+    "Provenance": "DSC:TSD",
     "alpha": 305.797,
     "delta": 40.771,
     "X": 7,
@@ -4049,9 +6200,16 @@
     "Catalog NGC": 6910,
     "Catalog U": 76,
     "PSA": "62",
-    "All PSA": "62/73"
+    "All PSA": "62/73",
+    "Provenances": [
+      "AL:UOP",
+      "DSC:TSD",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U77": {
+    "Provenance": "PSA",
     "alpha": 308.547,
     "delta": 7.404,
     "X": 5.9,
@@ -4061,9 +6219,15 @@
     "Catalog NGC": 6934,
     "Catalog U": 77,
     "PSA": "64",
-    "All PSA": "64"
+    "All PSA": "64",
+    "Provenances": [
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U78": {
+    "Provenance": "OSA",
     "alpha": 308.626,
     "delta": 28.278,
     "X": 31,
@@ -4075,9 +6239,17 @@
     "Catalog U": 78,
     "PSA": "62",
     "All PSA": "62/64/73",
-    "OSA": "N20"
+    "OSA": "N20",
+    "Provenances": [
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U79": {
+    "Provenance": "OSA",
     "alpha": 316.045,
     "delta": -11.363,
     "X": 0.7,
@@ -4088,9 +6260,16 @@
     "Catalog U": 79,
     "PSA": "77",
     "All PSA": "77",
-    "OSA": "E24"
+    "OSA": "E24",
+    "Provenances": [
+      "OSA",
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U83": {
+    "Provenance": "DSC:TSD",
     "alpha": 328.448,
     "delta": 62.589,
     "X": 7,
@@ -4100,9 +6279,16 @@
     "Catalog NGC": 7160,
     "Catalog U": 83,
     "PSA": "71",
-    "All PSA": "71/73"
+    "All PSA": "71/73",
+    "Provenances": [
+      "AL:UOP",
+      "DSC:TSD",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U84": {
+    "Provenance": "AWF",
     "alpha": 331.224,
     "delta": 46.508,
     "X": 25,
@@ -4114,9 +6300,18 @@
     "PSA": "73",
     "All PSA": "62/73",
     "OSA": "N24",
-    "Notes": "C19 is \\degrees{2} WNW."
+    "Notes": "C19 is \\degrees{2} WNW.",
+    "Provenances": [
+      "AL:UOP",
+      "AWF",
+      "SIMBAD",
+      "DSC:TSD",
+      "OSA",
+      "PSA"
+    ]
   },
   "U86": {
+    "Provenance": "OSA",
     "alpha": 351.473,
     "delta": 42.535,
     "X": 0.5,
@@ -4127,9 +6322,16 @@
     "Catalog U": 86,
     "PSA": "72",
     "All PSA": "3/72",
-    "OSA": "N24"
+    "OSA": "N24",
+    "Provenances": [
+      "OSA",
+      "AL:UOP",
+      "SIMBAD",
+      "PSA"
+    ]
   },
   "U87": {
+    "Provenance": "OSA",
     "alpha": 359.0,
     "delta": 57.0,
     "X": 15,
@@ -4141,6 +6343,14 @@
     "Catalog U": 87,
     "PSA": "72",
     "All PSA": "3/71/72",
-    "OSA": "N22"
+    "OSA": "N22",
+    "Provenances": [
+      "DSC:TCO",
+      "DSC:HT",
+      "AL:UOP",
+      "SIMBAD",
+      "OSA",
+      "PSA"
+    ]
   }
 }
