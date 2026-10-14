@@ -78,7 +78,7 @@
     \end{figure}
 }
 
-\newcommand{\chart}[6]{
+\newcommand{\chart}[7]{
     \noindent
     \begingroup
     \raggedright
@@ -88,14 +88,14 @@
         {\bfseries #1}\par
         \smallskip
         \scriptsize
-        #2\par
         #3\par
+        #4\par
         See: \ignorespaces #4\par
+        #7\par
         #6\par
-        #5\par
     \end{minipage}
     \hfill
-    \includegraphics[width=5cm]{figures/#1-chart.pdf}
+    \includegraphics[width=5cm]{figures/#2-chart.pdf}
     \par
     \endgroup
     \chartskip
