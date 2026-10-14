@@ -1,0 +1,32 @@
+%!LW recipe=latexmk (xelatex)
+%!TEX root = finder-correct.tex
+%LTeX: enabled=false
+
+\input{../style}
+
+\includeonly{
+    frontmatter,
+    %preface,
+    M,
+    C,
+    U,
+    %bibliography
+}
+
+\begin{document}
+
+\frontmatter
+
+\include{frontmatter}
+
+\include{preface}
+
+\mainmatter
+
+\raggedbottom
+
+\include{M}
+\include{C}
+\include{U}
+
+\include{bibliography}

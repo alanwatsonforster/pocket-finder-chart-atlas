@@ -1,0 +1,36 @@
+%!LW recipe=latexmk (xelatex)
+%LTeX: enabled=false
+
+% This is the correct version of the atlas.
+
+\documentclass[10pt]{book}
+
+\newif\ifinverted
+\invertedfalse
+
+\input{../style}
+
+\includeonly{
+    frontmatter,
+    %preface,
+    BSC,
+    %bibliography
+}
+
+\begin{document}
+
+\frontmatter
+
+\include{frontmatter}
+
+\include{preface}
+
+\mainmatter
+
+\raggedbottom
+
+\include{BSC}
+
+\include{bibliography}
+
+\end{document}
