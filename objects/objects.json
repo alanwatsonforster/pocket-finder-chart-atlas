@@ -6462,10 +6462,13 @@
     "Mag": 6.0,
     "Constellation": "Cam",
     "Name": "The Jolly Roger",
+    "PSA": "11/13",
+    "All PSA": "11/13",
     "Catalog BSC": 71,
     "Provenances": [
       "DSC:HT",
       "BSC",
+      "PSA",
       "SIMBAD"
     ]
   }
