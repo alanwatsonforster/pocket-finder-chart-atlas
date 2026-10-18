@@ -6449,5 +6449,24 @@
       "SIMBAD",
       "DSC:HT"
     ]
+  },
+  "NGC 1502": {
+    "Provenance": "BSC",
+    "alpha": 61.9542,
+    "delta": 62.3319,
+    "X": 20,
+    "Y": 20,
+    "PA": 0,
+    "Type": "OC",
+    "Catalog NGC": 1502,
+    "Mag": 6.0,
+    "Constellation": "Cam",
+    "Name": "The Jolly Roger",
+    "Catalog BSC": 71,
+    "Provenances": [
+      "DSC:HT",
+      "BSC",
+      "SIMBAD"
+    ]
   }
 }

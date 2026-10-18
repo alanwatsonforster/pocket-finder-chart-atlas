@@ -9723,5 +9723,35 @@
       "Provenance": "OSA",
       "OSA": "N22"
     }
+  ],
+  "NGC 1502": [
+    {
+      "Provenance": "SIMBAD",
+      "alpha": 61.9542,
+      "delta": 62.3319,
+      "X": 9.7,
+      "Y": 9.7,
+      "PA": 0,
+      "Type": "OpCl",
+      "Catalog NGC": 1502
+    },
+    {
+      "Provenance": "DSC:HT",
+      "Type": "OC",
+      "Mag": 6.0,
+      "X": 20,
+      "Y": 20,
+      "Constellation": "Cam",
+      "Name": "The Jolly Roger"
+    },
+    {
+      "Provenance": "PSA",
+      "PSA": "11/13",
+      "All PSA": "11/13"
+    },
+    {
+      "Provenance": "BSC",
+      "Catalog BSC": 71
+    }
   ]
 }
